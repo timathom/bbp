@@ -67,7 +67,7 @@
           <attvalue for="strongcompnum" value="0"></attvalue>
           <attvalue for="eigencentrality" value="0.19258381655968426"></attvalue>
         </attvalues>
-        <viz:size value="14.4"></viz:size>
+        <viz:size value="16.622011"></viz:size>
         <viz:position x="-48.818222" y="694.61487"></viz:position>
         <viz:color r="223" g="137" b="255"></viz:color>
       </node>
@@ -88,7 +88,7 @@
           <attvalue for="strongcompnum" value="1"></attvalue>
           <attvalue for="eigencentrality" value="0.06419460551989462"></attvalue>
         </attvalues>
-        <viz:size value="12.0"></viz:size>
+        <viz:size value="13.54067"></viz:size>
         <viz:position x="421.92184" y="942.4996"></viz:position>
         <viz:color r="223" g="137" b="255"></viz:color>
       </node>
@@ -109,7 +109,7 @@
           <attvalue for="strongcompnum" value="2"></attvalue>
           <attvalue for="eigencentrality" value="0.12838921103978918"></attvalue>
         </attvalues>
-        <viz:size value="13.2"></viz:size>
+        <viz:size value="15.081341"></viz:size>
         <viz:position x="152.02765" y="959.55316"></viz:position>
         <viz:color r="223" g="137" b="255"></viz:color>
       </node>
@@ -130,7 +130,7 @@
           <attvalue for="strongcompnum" value="3"></attvalue>
           <attvalue for="eigencentrality" value="0.19258381655968426"></attvalue>
         </attvalues>
-        <viz:size value="14.4"></viz:size>
+        <viz:size value="16.622011"></viz:size>
         <viz:position x="183.9074" y="1030.6523"></viz:position>
         <viz:color r="223" g="137" b="255"></viz:color>
       </node>
@@ -151,7 +151,7 @@
           <attvalue for="strongcompnum" value="4"></attvalue>
           <attvalue for="eigencentrality" value="0.06419460551989462"></attvalue>
         </attvalues>
-        <viz:size value="12.0"></viz:size>
+        <viz:size value="13.54067"></viz:size>
         <viz:position x="468.6961" y="811.11945"></viz:position>
         <viz:color r="223" g="137" b="255"></viz:color>
       </node>
@@ -173,7 +173,7 @@
           <attvalue for="eigencentrality" value="0.0"></attvalue>
         </attvalues>
         <viz:size value="12.0"></viz:size>
-        <viz:position x="223.46552" y="639.2922"></viz:position>
+        <viz:position x="359.00104" y="781.8411"></viz:position>
         <viz:color r="223" g="137" b="255"></viz:color>
       </node>
       <node id="http://wikibase.svc/entity/Q294" label="My Bondage and My Freedom (work)">
@@ -193,7 +193,7 @@
           <attvalue for="strongcompnum" value="12"></attvalue>
           <attvalue for="eigencentrality" value="0.12838921103978918"></attvalue>
         </attvalues>
-        <viz:size value="14.4"></viz:size>
+        <viz:size value="15.081341"></viz:size>
         <viz:position x="277.8791" y="357.57935"></viz:position>
         <viz:color r="223" g="137" b="255"></viz:color>
       </node>
@@ -214,7 +214,7 @@
           <attvalue for="strongcompnum" value="20"></attvalue>
           <attvalue for="eigencentrality" value="0.014832726567148784"></attvalue>
         </attvalues>
-        <viz:size value="19.2"></viz:size>
+        <viz:size value="12.355986"></viz:size>
         <viz:position x="-671.5144" y="215.14719"></viz:position>
         <viz:color r="76" g="70" b="62"></viz:color>
       </node>
@@ -235,7 +235,7 @@
           <attvalue for="strongcompnum" value="28"></attvalue>
           <attvalue for="eigencentrality" value="0.014832726567148784"></attvalue>
         </attvalues>
-        <viz:size value="19.2"></viz:size>
+        <viz:size value="12.355986"></viz:size>
         <viz:position x="244.82733" y="131.6569"></viz:position>
         <viz:color r="255" g="85" b="132"></viz:color>
       </node>
@@ -256,7 +256,7 @@
           <attvalue for="strongcompnum" value="32"></attvalue>
           <attvalue for="eigencentrality" value="0.014832726567148784"></attvalue>
         </attvalues>
-        <viz:size value="19.2"></viz:size>
+        <viz:size value="12.355986"></viz:size>
         <viz:position x="31.585169" y="547.20514"></viz:position>
         <viz:color r="223" g="137" b="255"></viz:color>
       </node>
@@ -277,7 +277,7 @@
           <attvalue for="strongcompnum" value="34"></attvalue>
           <attvalue for="eigencentrality" value="0.014832726567148784"></attvalue>
         </attvalues>
-        <viz:size value="13.2"></viz:size>
+        <viz:size value="12.355986"></viz:size>
         <viz:position x="-1050.9485" y="-1498.9229"></viz:position>
         <viz:color r="192" g="192" b="192"></viz:color>
       </node>
@@ -298,7 +298,7 @@
           <attvalue for="strongcompnum" value="33"></attvalue>
           <attvalue for="eigencentrality" value="0.2733653148350964"></attvalue>
         </attvalues>
-        <viz:size value="14.4"></viz:size>
+        <viz:size value="18.560768"></viz:size>
         <viz:position x="-1070.3455" y="-1567.5278"></viz:position>
         <viz:color r="192" g="192" b="192"></viz:color>
       </node>
@@ -319,7 +319,7 @@
           <attvalue for="strongcompnum" value="38"></attvalue>
           <attvalue for="eigencentrality" value="0.0"></attvalue>
         </attvalues>
-        <viz:size value="15.6"></viz:size>
+        <viz:size value="12.0"></viz:size>
         <viz:position x="-998.83685" y="-1422.2764"></viz:position>
         <viz:color r="192" g="192" b="192"></viz:color>
       </node>
@@ -340,7 +340,7 @@
           <attvalue for="strongcompnum" value="26"></attvalue>
           <attvalue for="eigencentrality" value="0.12838921103978918"></attvalue>
         </attvalues>
-        <viz:size value="13.2"></viz:size>
+        <viz:size value="15.081341"></viz:size>
         <viz:position x="252.48993" y="269.6697"></viz:position>
         <viz:color r="255" g="85" b="132"></viz:color>
       </node>
@@ -361,7 +361,7 @@
           <attvalue for="strongcompnum" value="41"></attvalue>
           <attvalue for="eigencentrality" value="0.0"></attvalue>
         </attvalues>
-        <viz:size value="13.2"></viz:size>
+        <viz:size value="12.0"></viz:size>
         <viz:position x="367.37695" y="58.49077"></viz:position>
         <viz:color r="255" g="85" b="132"></viz:color>
       </node>
@@ -382,7 +382,7 @@
           <attvalue for="strongcompnum" value="39"></attvalue>
           <attvalue for="eigencentrality" value="0.06419460551989462"></attvalue>
         </attvalues>
-        <viz:size value="12.0"></viz:size>
+        <viz:size value="13.54067"></viz:size>
         <viz:position x="472.7374" y="-3.7756357"></viz:position>
         <viz:color r="255" g="85" b="132"></viz:color>
       </node>
@@ -403,7 +403,7 @@
           <attvalue for="strongcompnum" value="23"></attvalue>
           <attvalue for="eigencentrality" value="0.28995220759061363"></attvalue>
         </attvalues>
-        <viz:size value="13.2"></viz:size>
+        <viz:size value="18.958853"></viz:size>
         <viz:position x="140.04425" y="24.3581"></viz:position>
         <viz:color r="255" g="85" b="132"></viz:color>
       </node>
@@ -424,7 +424,7 @@
           <attvalue for="strongcompnum" value="21"></attvalue>
           <attvalue for="eigencentrality" value="0.14497610379530687"></attvalue>
         </attvalues>
-        <viz:size value="12.0"></viz:size>
+        <viz:size value="15.479426"></viz:size>
         <viz:position x="128.80847" y="199.50372"></viz:position>
         <viz:color r="255" g="85" b="132"></viz:color>
       </node>
@@ -445,7 +445,7 @@
           <attvalue for="strongcompnum" value="27"></attvalue>
           <attvalue for="eigencentrality" value="0.19258381655968426"></attvalue>
         </attvalues>
-        <viz:size value="14.4"></viz:size>
+        <viz:size value="16.622011"></viz:size>
         <viz:position x="320.7034" y="-20.620407"></viz:position>
         <viz:color r="115" g="192" b="0"></viz:color>
       </node>
@@ -466,7 +466,7 @@
           <attvalue for="strongcompnum" value="43"></attvalue>
           <attvalue for="eigencentrality" value="0.029665453134297567"></attvalue>
         </attvalues>
-        <viz:size value="14.4"></viz:size>
+        <viz:size value="12.711971"></viz:size>
         <viz:position x="-448.38455" y="-714.499"></viz:position>
         <viz:color r="192" g="192" b="192"></viz:color>
       </node>
@@ -487,7 +487,7 @@
           <attvalue for="strongcompnum" value="45"></attvalue>
           <attvalue for="eigencentrality" value="0.06419460551989462"></attvalue>
         </attvalues>
-        <viz:size value="13.2"></viz:size>
+        <viz:size value="13.54067"></viz:size>
         <viz:position x="-831.43427" y="-1480.5056"></viz:position>
         <viz:color r="192" g="192" b="192"></viz:color>
       </node>
@@ -508,7 +508,7 @@
           <attvalue for="strongcompnum" value="46"></attvalue>
           <attvalue for="eigencentrality" value="0.014832726567148784"></attvalue>
         </attvalues>
-        <viz:size value="15.6"></viz:size>
+        <viz:size value="12.355986"></viz:size>
         <viz:position x="-863.6426" y="-1395.6544"></viz:position>
         <viz:color r="192" g="192" b="192"></viz:color>
       </node>
@@ -529,7 +529,7 @@
           <attvalue for="strongcompnum" value="55"></attvalue>
           <attvalue for="eigencentrality" value="0.0"></attvalue>
         </attvalues>
-        <viz:size value="20.4"></viz:size>
+        <viz:size value="12.0"></viz:size>
         <viz:position x="-311.41995" y="-538.84827"></viz:position>
         <viz:color r="192" g="192" b="192"></viz:color>
       </node>
@@ -550,7 +550,7 @@
           <attvalue for="strongcompnum" value="44"></attvalue>
           <attvalue for="eigencentrality" value="0.20917070931520157"></attvalue>
         </attvalues>
-        <viz:size value="13.2"></viz:size>
+        <viz:size value="17.020098"></viz:size>
         <viz:position x="-925.7367" y="-1462.1948"></viz:position>
         <viz:color r="192" g="192" b="192"></viz:color>
       </node>
@@ -571,7 +571,7 @@
           <attvalue for="strongcompnum" value="42"></attvalue>
           <attvalue for="eigencentrality" value="0.25853258826794734"></attvalue>
         </attvalues>
-        <viz:size value="13.2"></viz:size>
+        <viz:size value="18.204782"></viz:size>
         <viz:position x="-564.84955" y="-890.3807"></viz:position>
         <viz:color r="192" g="192" b="192"></viz:color>
       </node>
@@ -592,7 +592,7 @@
           <attvalue for="strongcompnum" value="37"></attvalue>
           <attvalue for="eigencentrality" value="0.14322193760693813"></attvalue>
         </attvalues>
-        <viz:size value="14.4"></viz:size>
+        <viz:size value="15.437326"></viz:size>
         <viz:position x="-886.1974" y="-1287.6918"></viz:position>
         <viz:color r="192" g="192" b="192"></viz:color>
       </node>
@@ -613,7 +613,7 @@
           <attvalue for="strongcompnum" value="56"></attvalue>
           <attvalue for="eigencentrality" value="0.06419460551989462"></attvalue>
         </attvalues>
-        <viz:size value="13.2"></viz:size>
+        <viz:size value="13.54067"></viz:size>
         <viz:position x="-639.4864" y="-127.19336"></viz:position>
         <viz:color r="255" g="136" b="5"></viz:color>
       </node>
@@ -634,7 +634,7 @@
           <attvalue for="strongcompnum" value="36"></attvalue>
           <attvalue for="eigencentrality" value="0.014832726567148784"></attvalue>
         </attvalues>
-        <viz:size value="12.0"></viz:size>
+        <viz:size value="12.355986"></viz:size>
         <viz:position x="-1086.4307" y="-1438.5502"></viz:position>
         <viz:color r="192" g="192" b="192"></viz:color>
       </node>
@@ -655,7 +655,7 @@
           <attvalue for="strongcompnum" value="61"></attvalue>
           <attvalue for="eigencentrality" value="0.014832726567148784"></attvalue>
         </attvalues>
-        <viz:size value="19.2"></viz:size>
+        <viz:size value="12.355986"></viz:size>
         <viz:position x="-729.84705" y="-46.887882"></viz:position>
         <viz:color r="255" g="136" b="5"></viz:color>
       </node>
@@ -718,7 +718,7 @@
           <attvalue for="strongcompnum" value="65"></attvalue>
           <attvalue for="eigencentrality" value="0.0"></attvalue>
         </attvalues>
-        <viz:size value="13.2"></viz:size>
+        <viz:size value="12.0"></viz:size>
         <viz:position x="-466.96664" y="-808.32404"></viz:position>
         <viz:color r="192" g="192" b="192"></viz:color>
       </node>
@@ -739,7 +739,7 @@
           <attvalue for="strongcompnum" value="69"></attvalue>
           <attvalue for="eigencentrality" value="0.014832726567148784"></attvalue>
         </attvalues>
-        <viz:size value="18.0"></viz:size>
+        <viz:size value="12.355986"></viz:size>
         <viz:position x="-501.4477" y="-204.95482"></viz:position>
         <viz:color r="255" g="136" b="5"></viz:color>
       </node>
@@ -760,7 +760,7 @@
           <attvalue for="strongcompnum" value="54"></attvalue>
           <attvalue for="eigencentrality" value="0.014832726567148784"></attvalue>
         </attvalues>
-        <viz:size value="12.0"></viz:size>
+        <viz:size value="12.355986"></viz:size>
         <viz:position x="-426.44617" y="-596.7992"></viz:position>
         <viz:color r="192" g="192" b="192"></viz:color>
       </node>
@@ -781,7 +781,7 @@
           <attvalue for="strongcompnum" value="58"></attvalue>
           <attvalue for="eigencentrality" value="0.06419460551989462"></attvalue>
         </attvalues>
-        <viz:size value="12.0"></viz:size>
+        <viz:size value="13.54067"></viz:size>
         <viz:position x="-697.77875" y="-178.99062"></viz:position>
         <viz:color r="255" g="136" b="5"></viz:color>
       </node>
@@ -802,7 +802,7 @@
           <attvalue for="strongcompnum" value="52"></attvalue>
           <attvalue for="eigencentrality" value="0.3047849341577624"></attvalue>
         </attvalues>
-        <viz:size value="14.4"></viz:size>
+        <viz:size value="19.314838"></viz:size>
         <viz:position x="-57.562233" y="-475.50772"></viz:position>
         <viz:color r="115" g="192" b="0"></viz:color>
       </node>
@@ -823,7 +823,7 @@
           <attvalue for="strongcompnum" value="68"></attvalue>
           <attvalue for="eigencentrality" value="0.06419460551989462"></attvalue>
         </attvalues>
-        <viz:size value="13.2"></viz:size>
+        <viz:size value="13.54067"></viz:size>
         <viz:position x="-419.66388" y="-104.55036"></viz:position>
         <viz:color r="255" g="136" b="5"></viz:color>
       </node>
@@ -844,7 +844,7 @@
           <attvalue for="strongcompnum" value="47"></attvalue>
           <attvalue for="eigencentrality" value="0.06419460551989462"></attvalue>
         </attvalues>
-        <viz:size value="12.0"></viz:size>
+        <viz:size value="13.54067"></viz:size>
         <viz:position x="-318.99063" y="-730.8635"></viz:position>
         <viz:color r="192" g="192" b="192"></viz:color>
       </node>
@@ -865,7 +865,7 @@
           <attvalue for="strongcompnum" value="60"></attvalue>
           <attvalue for="eigencentrality" value="0.06419460551989462"></attvalue>
         </attvalues>
-        <viz:size value="12.0"></viz:size>
+        <viz:size value="13.54067"></viz:size>
         <viz:position x="-822.7263" y="16.068419"></viz:position>
         <viz:color r="255" g="136" b="5"></viz:color>
       </node>
@@ -886,7 +886,7 @@
           <attvalue for="strongcompnum" value="59"></attvalue>
           <attvalue for="eigencentrality" value="0.06419460551989462"></attvalue>
         </attvalues>
-        <viz:size value="12.0"></viz:size>
+        <viz:size value="13.54067"></viz:size>
         <viz:position x="-720.4153" y="66.01644"></viz:position>
         <viz:color r="255" g="136" b="5"></viz:color>
       </node>
@@ -907,7 +907,7 @@
           <attvalue for="strongcompnum" value="72"></attvalue>
           <attvalue for="eigencentrality" value="0.0"></attvalue>
         </attvalues>
-        <viz:size value="14.4"></viz:size>
+        <viz:size value="12.0"></viz:size>
         <viz:position x="-538.0522" y="-311.94016"></viz:position>
         <viz:color r="255" g="136" b="5"></viz:color>
       </node>
@@ -928,7 +928,7 @@
           <attvalue for="strongcompnum" value="77"></attvalue>
           <attvalue for="eigencentrality" value="0.014832726567148784"></attvalue>
         </attvalues>
-        <viz:size value="14.4"></viz:size>
+        <viz:size value="12.355986"></viz:size>
         <viz:position x="258.3705" y="2035.7839"></viz:position>
         <viz:color r="211" g="179" b="176"></viz:color>
       </node>
@@ -949,7 +949,7 @@
           <attvalue for="strongcompnum" value="78"></attvalue>
           <attvalue for="eigencentrality" value="0.06419460551989462"></attvalue>
         </attvalues>
-        <viz:size value="13.2"></viz:size>
+        <viz:size value="13.54067"></viz:size>
         <viz:position x="-1196.4342" y="-1584.2556"></viz:position>
         <viz:color r="192" g="192" b="192"></viz:color>
       </node>
@@ -970,7 +970,7 @@
           <attvalue for="strongcompnum" value="81"></attvalue>
           <attvalue for="eigencentrality" value="0.014832726567148784"></attvalue>
         </attvalues>
-        <viz:size value="16.8"></viz:size>
+        <viz:size value="12.355986"></viz:size>
         <viz:position x="-1135.753" y="-1680.1992"></viz:position>
         <viz:color r="192" g="192" b="192"></viz:color>
       </node>
@@ -991,7 +991,7 @@
           <attvalue for="strongcompnum" value="74"></attvalue>
           <attvalue for="eigencentrality" value="0.14497610379530687"></attvalue>
         </attvalues>
-        <viz:size value="12.0"></viz:size>
+        <viz:size value="15.479426"></viz:size>
         <viz:position x="329.52805" y="1983.3575"></viz:position>
         <viz:color r="211" g="179" b="176"></viz:color>
       </node>
@@ -1012,7 +1012,7 @@
           <attvalue for="strongcompnum" value="75"></attvalue>
           <attvalue for="eigencentrality" value="0.20917070931520157"></attvalue>
         </attvalues>
-        <viz:size value="13.2"></viz:size>
+        <viz:size value="17.020098"></viz:size>
         <viz:position x="284.1196" y="1871.4916"></viz:position>
         <viz:color r="211" g="179" b="176"></viz:color>
       </node>
@@ -1033,7 +1033,7 @@
           <attvalue for="strongcompnum" value="73"></attvalue>
           <attvalue for="eigencentrality" value="0.06419460551989462"></attvalue>
         </attvalues>
-        <viz:size value="12.0"></viz:size>
+        <viz:size value="13.54067"></viz:size>
         <viz:position x="289.83472" y="2092.021"></viz:position>
         <viz:color r="211" g="179" b="176"></viz:color>
       </node>
@@ -1075,7 +1075,7 @@
           <attvalue for="strongcompnum" value="76"></attvalue>
           <attvalue for="eigencentrality" value="0.06419460551989462"></attvalue>
         </attvalues>
-        <viz:size value="14.4"></viz:size>
+        <viz:size value="13.54067"></viz:size>
         <viz:position x="263.317" y="1949.1818"></viz:position>
         <viz:color r="211" g="179" b="176"></viz:color>
       </node>
@@ -1117,8 +1117,8 @@
           <attvalue for="strongcompnum" value="85"></attvalue>
           <attvalue for="eigencentrality" value="0.014832726567148784"></attvalue>
         </attvalues>
-        <viz:size value="21.6"></viz:size>
-        <viz:position x="23.074451" y="827.1896"></viz:position>
+        <viz:size value="12.355986"></viz:size>
+        <viz:position x="57.485035" y="835.6161"></viz:position>
         <viz:color r="223" g="137" b="255"></viz:color>
       </node>
       <node id="http://wikibase.svc/entity/Q715" label="Narrative of the Life of Frederick Douglass, an American Slave (Schomburg Sc Rare B-Douglass copy)">
@@ -1138,7 +1138,7 @@
           <attvalue for="strongcompnum" value="88"></attvalue>
           <attvalue for="eigencentrality" value="0.0"></attvalue>
         </attvalues>
-        <viz:size value="13.2"></viz:size>
+        <viz:size value="12.0"></viz:size>
         <viz:position x="-143.79393" y="887.86884"></viz:position>
         <viz:color r="223" g="137" b="255"></viz:color>
       </node>
@@ -1159,7 +1159,7 @@
           <attvalue for="strongcompnum" value="90"></attvalue>
           <attvalue for="eigencentrality" value="0.12838921103978918"></attvalue>
         </attvalues>
-        <viz:size value="14.4"></viz:size>
+        <viz:size value="15.081341"></viz:size>
         <viz:position x="142.57396" y="-384.85175"></viz:position>
         <viz:color r="115" g="192" b="0"></viz:color>
       </node>
@@ -1180,7 +1180,7 @@
           <attvalue for="strongcompnum" value="96"></attvalue>
           <attvalue for="eigencentrality" value="0.014832726567148784"></attvalue>
         </attvalues>
-        <viz:size value="20.4"></viz:size>
+        <viz:size value="12.355986"></viz:size>
         <viz:position x="182.73856" y="-239.34155"></viz:position>
         <viz:color r="115" g="192" b="0"></viz:color>
       </node>
@@ -1201,7 +1201,7 @@
           <attvalue for="strongcompnum" value="103"></attvalue>
           <attvalue for="eigencentrality" value="0.014832726567148784"></attvalue>
         </attvalues>
-        <viz:size value="22.8"></viz:size>
+        <viz:size value="12.355986"></viz:size>
         <viz:position x="253.58902" y="-520.3605"></viz:position>
         <viz:color r="115" g="192" b="0"></viz:color>
       </node>
@@ -1222,7 +1222,7 @@
           <attvalue for="strongcompnum" value="105"></attvalue>
           <attvalue for="eigencentrality" value="0.0"></attvalue>
         </attvalues>
-        <viz:size value="13.2"></viz:size>
+        <viz:size value="12.0"></viz:size>
         <viz:position x="337.39337" y="-275.97537"></viz:position>
         <viz:color r="115" g="192" b="0"></viz:color>
       </node>
@@ -1264,7 +1264,7 @@
           <attvalue for="strongcompnum" value="112"></attvalue>
           <attvalue for="eigencentrality" value="0.029665453134297567"></attvalue>
         </attvalues>
-        <viz:size value="18.0"></viz:size>
+        <viz:size value="12.711971"></viz:size>
         <viz:position x="598.4024" y="-904.12506"></viz:position>
         <viz:color r="0" g="189" b="148"></viz:color>
       </node>
@@ -1285,7 +1285,7 @@
           <attvalue for="strongcompnum" value="89"></attvalue>
           <attvalue for="eigencentrality" value="0.27511948102346484"></attvalue>
         </attvalues>
-        <viz:size value="12.0"></viz:size>
+        <viz:size value="18.602867"></viz:size>
         <viz:position x="96.56684" y="-434.54507"></viz:position>
         <viz:color r="115" g="192" b="0"></viz:color>
       </node>
@@ -1306,7 +1306,7 @@
           <attvalue for="strongcompnum" value="94"></attvalue>
           <attvalue for="eigencentrality" value="0.12838921103978918"></attvalue>
         </attvalues>
-        <viz:size value="13.2"></viz:size>
+        <viz:size value="15.081341"></viz:size>
         <viz:position x="325.0112" y="-343.75787"></viz:position>
         <viz:color r="115" g="192" b="0"></viz:color>
       </node>
@@ -1327,7 +1327,7 @@
           <attvalue for="strongcompnum" value="102"></attvalue>
           <attvalue for="eigencentrality" value="0.06419460551989462"></attvalue>
         </attvalues>
-        <viz:size value="12.0"></viz:size>
+        <viz:size value="13.54067"></viz:size>
         <viz:position x="224.70126" y="-667.6584"></viz:position>
         <viz:color r="115" g="192" b="0"></viz:color>
       </node>
@@ -1348,7 +1348,7 @@
           <attvalue for="strongcompnum" value="101"></attvalue>
           <attvalue for="eigencentrality" value="0.06419460551989462"></attvalue>
         </attvalues>
-        <viz:size value="12.0"></viz:size>
+        <viz:size value="13.54067"></viz:size>
         <viz:position x="375.55414" y="-445.08884"></viz:position>
         <viz:color r="115" g="192" b="0"></viz:color>
       </node>
@@ -1369,7 +1369,7 @@
           <attvalue for="strongcompnum" value="100"></attvalue>
           <attvalue for="eigencentrality" value="0.12838921103978918"></attvalue>
         </attvalues>
-        <viz:size value="13.2"></viz:size>
+        <viz:size value="15.081341"></viz:size>
         <viz:position x="378.9275" y="-626.48474"></viz:position>
         <viz:color r="115" g="192" b="0"></viz:color>
       </node>
@@ -1390,7 +1390,7 @@
           <attvalue for="strongcompnum" value="114"></attvalue>
           <attvalue for="eigencentrality" value="0.06419460551989462"></attvalue>
         </attvalues>
-        <viz:size value="13.2"></viz:size>
+        <viz:size value="13.54067"></viz:size>
         <viz:position x="264.22903" y="1622.2628"></viz:position>
         <viz:color r="211" g="179" b="176"></viz:color>
       </node>
@@ -1411,7 +1411,7 @@
           <attvalue for="strongcompnum" value="119"></attvalue>
           <attvalue for="eigencentrality" value="0.014832726567148784"></attvalue>
         </attvalues>
-        <viz:size value="19.2"></viz:size>
+        <viz:size value="12.355986"></viz:size>
         <viz:position x="302.1668" y="1754.9913"></viz:position>
         <viz:color r="211" g="179" b="176"></viz:color>
       </node>
@@ -1453,7 +1453,7 @@
           <attvalue for="strongcompnum" value="117"></attvalue>
           <attvalue for="eigencentrality" value="0.06419460551989462"></attvalue>
         </attvalues>
-        <viz:size value="12.0"></viz:size>
+        <viz:size value="13.54067"></viz:size>
         <viz:position x="208.25662" y="1836.2336"></viz:position>
         <viz:color r="211" g="179" b="176"></viz:color>
       </node>
@@ -1474,7 +1474,7 @@
           <attvalue for="strongcompnum" value="116"></attvalue>
           <attvalue for="eigencentrality" value="0.06419460551989462"></attvalue>
         </attvalues>
-        <viz:size value="12.0"></viz:size>
+        <viz:size value="13.54067"></viz:size>
         <viz:position x="407.09247" y="1793.767"></viz:position>
         <viz:color r="211" g="179" b="176"></viz:color>
       </node>
@@ -1495,7 +1495,7 @@
           <attvalue for="strongcompnum" value="115"></attvalue>
           <attvalue for="eigencentrality" value="0.06419460551989462"></attvalue>
         </attvalues>
-        <viz:size value="12.0"></viz:size>
+        <viz:size value="13.54067"></viz:size>
         <viz:position x="169.44508" y="1736.7738"></viz:position>
         <viz:color r="211" g="179" b="176"></viz:color>
       </node>
@@ -1516,7 +1516,7 @@
           <attvalue for="strongcompnum" value="10"></attvalue>
           <attvalue for="eigencentrality" value="0.014832726567148784"></attvalue>
         </attvalues>
-        <viz:size value="24.0"></viz:size>
+        <viz:size value="12.355986"></viz:size>
         <viz:position x="276.75842" y="869.1769"></viz:position>
         <viz:color r="223" g="137" b="255"></viz:color>
       </node>
@@ -1537,8 +1537,8 @@
           <attvalue for="strongcompnum" value="9"></attvalue>
           <attvalue for="eigencentrality" value="0.19258381655968426"></attvalue>
         </attvalues>
-        <viz:size value="15.6"></viz:size>
-        <viz:position x="107.04471" y="676.3911"></viz:position>
+        <viz:size value="16.622011"></viz:size>
+        <viz:position x="100.724396" y="677.0933"></viz:position>
         <viz:color r="223" g="137" b="255"></viz:color>
       </node>
       <node id="http://wikibase.svc/entity/Q214" label="Frederick Douglass">
@@ -1558,7 +1558,7 @@
           <attvalue for="strongcompnum" value="7"></attvalue>
           <attvalue for="eigencentrality" value="0.9537476541101844"></attvalue>
         </attvalues>
-        <viz:size value="16.8"></viz:size>
+        <viz:size value="34.889942"></viz:size>
         <viz:position x="217.02092" y="565.08966"></viz:position>
         <viz:color r="223" g="137" b="255"></viz:color>
       </node>
@@ -1579,7 +1579,7 @@
           <attvalue for="strongcompnum" value="8"></attvalue>
           <attvalue for="eigencentrality" value="0.12838921103978918"></attvalue>
         </attvalues>
-        <viz:size value="13.2"></viz:size>
+        <viz:size value="15.081341"></viz:size>
         <viz:position x="204.61957" y="694.7268"></viz:position>
         <viz:color r="223" g="137" b="255"></viz:color>
       </node>
@@ -1600,7 +1600,7 @@
           <attvalue for="strongcompnum" value="6"></attvalue>
           <attvalue for="eigencentrality" value="0.20741654312683305"></attvalue>
         </attvalues>
-        <viz:size value="15.6"></viz:size>
+        <viz:size value="16.977997"></viz:size>
         <viz:position x="351.48047" y="657.82214"></viz:position>
         <viz:color r="223" g="137" b="255"></viz:color>
       </node>
@@ -1621,7 +1621,7 @@
           <attvalue for="strongcompnum" value="17"></attvalue>
           <attvalue for="eigencentrality" value="0.1777510899925351"></attvalue>
         </attvalues>
-        <viz:size value="14.4"></viz:size>
+        <viz:size value="16.266026"></viz:size>
         <viz:position x="-566.76825" y="91.92971"></viz:position>
         <viz:color r="255" g="136" b="5"></viz:color>
       </node>
@@ -1642,7 +1642,7 @@
           <attvalue for="strongcompnum" value="127"></attvalue>
           <attvalue for="eigencentrality" value="0.029665453134297567"></attvalue>
         </attvalues>
-        <viz:size value="24.0"></viz:size>
+        <viz:size value="12.711971"></viz:size>
         <viz:position x="-403.80142" y="252.79655"></viz:position>
         <viz:color r="76" g="70" b="62"></viz:color>
       </node>
@@ -1663,7 +1663,7 @@
           <attvalue for="strongcompnum" value="16"></attvalue>
           <attvalue for="eigencentrality" value="1.0"></attvalue>
         </attvalues>
-        <viz:size value="18.0"></viz:size>
+        <viz:size value="36.0"></viz:size>
         <viz:position x="-535.0798" y="-30.29179"></viz:position>
         <viz:color r="255" g="136" b="5"></viz:color>
       </node>
@@ -1684,7 +1684,7 @@
           <attvalue for="strongcompnum" value="123"></attvalue>
           <attvalue for="eigencentrality" value="0.22575760207071913"></attvalue>
         </attvalues>
-        <viz:size value="12.0"></viz:size>
+        <viz:size value="17.418182"></viz:size>
         <viz:position x="-576.3653" y="405.92093"></viz:position>
         <viz:color r="76" g="70" b="62"></viz:color>
       </node>
@@ -1705,7 +1705,7 @@
           <attvalue for="strongcompnum" value="30"></attvalue>
           <attvalue for="eigencentrality" value="0.1777510899925351"></attvalue>
         </attvalues>
-        <viz:size value="13.2"></viz:size>
+        <viz:size value="16.266026"></viz:size>
         <viz:position x="-184.862" y="422.6039"></viz:position>
         <viz:color r="223" g="137" b="255"></viz:color>
       </node>
@@ -1726,7 +1726,7 @@
           <attvalue for="strongcompnum" value="13"></attvalue>
           <attvalue for="eigencentrality" value="0.1777510899925351"></attvalue>
         </attvalues>
-        <viz:size value="13.2"></viz:size>
+        <viz:size value="16.266026"></viz:size>
         <viz:position x="-590.8582" y="314.80545"></viz:position>
         <viz:color r="76" g="70" b="62"></viz:color>
       </node>
@@ -1747,7 +1747,7 @@
           <attvalue for="strongcompnum" value="126"></attvalue>
           <attvalue for="eigencentrality" value="0.11355648447264048"></attvalue>
         </attvalues>
-        <viz:size value="12.0"></viz:size>
+        <viz:size value="14.725355"></viz:size>
         <viz:position x="-475.07565" y="398.08896"></viz:position>
         <viz:color r="76" g="70" b="62"></viz:color>
       </node>
@@ -1768,7 +1768,7 @@
           <attvalue for="strongcompnum" value="14"></attvalue>
           <attvalue for="eigencentrality" value="0.1777510899925351"></attvalue>
         </attvalues>
-        <viz:size value="13.2"></viz:size>
+        <viz:size value="16.266026"></viz:size>
         <viz:position x="-552.2051" y="165.1272"></viz:position>
         <viz:color r="76" g="70" b="62"></viz:color>
       </node>
@@ -1789,7 +1789,7 @@
           <attvalue for="strongcompnum" value="130"></attvalue>
           <attvalue for="eigencentrality" value="0.0"></attvalue>
         </attvalues>
-        <viz:size value="13.2"></viz:size>
+        <viz:size value="12.0"></viz:size>
         <viz:position x="-241.55557" y="324.16675"></viz:position>
         <viz:color r="76" g="70" b="62"></viz:color>
       </node>
@@ -1831,7 +1831,7 @@
           <attvalue for="strongcompnum" value="128"></attvalue>
           <attvalue for="eigencentrality" value="0.06419460551989462"></attvalue>
         </attvalues>
-        <viz:size value="12.0"></viz:size>
+        <viz:size value="13.54067"></viz:size>
         <viz:position x="-117.67835" y="365.83255"></viz:position>
         <viz:color r="76" g="70" b="62"></viz:color>
       </node>
@@ -1852,7 +1852,7 @@
           <attvalue for="strongcompnum" value="133"></attvalue>
           <attvalue for="eigencentrality" value="0.0"></attvalue>
         </attvalues>
-        <viz:size value="13.2"></viz:size>
+        <viz:size value="12.0"></viz:size>
         <viz:position x="-1239.2137" y="-1713.8842"></viz:position>
         <viz:color r="192" g="192" b="192"></viz:color>
       </node>
@@ -1873,7 +1873,7 @@
           <attvalue for="strongcompnum" value="80"></attvalue>
           <attvalue for="eigencentrality" value="0.06419460551989462"></attvalue>
         </attvalues>
-        <viz:size value="12.0"></viz:size>
+        <viz:size value="13.54067"></viz:size>
         <viz:position x="-1066.2947" y="-1730.3789"></viz:position>
         <viz:color r="192" g="192" b="192"></viz:color>
       </node>
@@ -1894,7 +1894,7 @@
           <attvalue for="strongcompnum" value="138"></attvalue>
           <attvalue for="eigencentrality" value="0.014832726567148784"></attvalue>
         </attvalues>
-        <viz:size value="18.0"></viz:size>
+        <viz:size value="12.355986"></viz:size>
         <viz:position x="-779.97015" y="-1171.6082"></viz:position>
         <viz:color r="192" g="192" b="192"></viz:color>
       </node>
@@ -1915,7 +1915,7 @@
           <attvalue for="strongcompnum" value="137"></attvalue>
           <attvalue for="eigencentrality" value="0.06419460551989462"></attvalue>
         </attvalues>
-        <viz:size value="13.2"></viz:size>
+        <viz:size value="13.54067"></viz:size>
         <viz:position x="-675.4348" y="-1036.4762"></viz:position>
         <viz:color r="192" g="192" b="192"></viz:color>
       </node>
@@ -1957,7 +1957,7 @@
           <attvalue for="strongcompnum" value="134"></attvalue>
           <attvalue for="eigencentrality" value="0.06419460551989462"></attvalue>
         </attvalues>
-        <viz:size value="12.0"></viz:size>
+        <viz:size value="13.54067"></viz:size>
         <viz:position x="-865.42993" y="-1213.8911"></viz:position>
         <viz:color r="192" g="192" b="192"></viz:color>
       </node>
@@ -1978,7 +1978,7 @@
           <attvalue for="strongcompnum" value="142"></attvalue>
           <attvalue for="eigencentrality" value="0.0"></attvalue>
         </attvalues>
-        <viz:size value="13.2"></viz:size>
+        <viz:size value="12.0"></viz:size>
         <viz:position x="509.74246" y="-999.1436"></viz:position>
         <viz:color r="0" g="189" b="148"></viz:color>
       </node>
@@ -1999,7 +1999,7 @@
           <attvalue for="strongcompnum" value="144"></attvalue>
           <attvalue for="eigencentrality" value="0.0"></attvalue>
         </attvalues>
-        <viz:size value="13.2"></viz:size>
+        <viz:size value="12.0"></viz:size>
         <viz:position x="780.4416" y="-837.84814"></viz:position>
         <viz:color r="0" g="189" b="148"></viz:color>
       </node>
@@ -2020,7 +2020,7 @@
           <attvalue for="strongcompnum" value="143"></attvalue>
           <attvalue for="eigencentrality" value="0.014832726567148784"></attvalue>
         </attvalues>
-        <viz:size value="12.0"></viz:size>
+        <viz:size value="12.355986"></viz:size>
         <viz:position x="887.96124" y="-860.73584"></viz:position>
         <viz:color r="0" g="189" b="148"></viz:color>
       </node>
@@ -2041,7 +2041,7 @@
           <attvalue for="strongcompnum" value="148"></attvalue>
           <attvalue for="eigencentrality" value="0.014832726567148784"></attvalue>
         </attvalues>
-        <viz:size value="19.2"></viz:size>
+        <viz:size value="12.355986"></viz:size>
         <viz:position x="366.89584" y="232.18205"></viz:position>
         <viz:color r="255" g="85" b="132"></viz:color>
       </node>
@@ -2062,7 +2062,7 @@
           <attvalue for="strongcompnum" value="140"></attvalue>
           <attvalue for="eigencentrality" value="0.06419460551989462"></attvalue>
         </attvalues>
-        <viz:size value="12.0"></viz:size>
+        <viz:size value="13.54067"></viz:size>
         <viz:position x="666.68854" y="-1148.4108"></viz:position>
         <viz:color r="0" g="189" b="148"></viz:color>
       </node>
@@ -2083,7 +2083,7 @@
           <attvalue for="strongcompnum" value="149"></attvalue>
           <attvalue for="eigencentrality" value="0.014832726567148784"></attvalue>
         </attvalues>
-        <viz:size value="12.0"></viz:size>
+        <viz:size value="12.355986"></viz:size>
         <viz:position x="668.55786" y="269.02365"></viz:position>
         <viz:color r="0" g="196" b="255"></viz:color>
       </node>
@@ -2125,7 +2125,7 @@
           <attvalue for="strongcompnum" value="152"></attvalue>
           <attvalue for="eigencentrality" value="0.0"></attvalue>
         </attvalues>
-        <viz:size value="13.2"></viz:size>
+        <viz:size value="12.0"></viz:size>
         <viz:position x="-784.02856" y="285.96075"></viz:position>
         <viz:color r="76" g="70" b="62"></viz:color>
       </node>
@@ -2146,7 +2146,7 @@
           <attvalue for="strongcompnum" value="18"></attvalue>
           <attvalue for="eigencentrality" value="0.06419460551989462"></attvalue>
         </attvalues>
-        <viz:size value="12.0"></viz:size>
+        <viz:size value="13.54067"></viz:size>
         <viz:position x="-712.5344" y="110.33339"></viz:position>
         <viz:color r="76" g="70" b="62"></viz:color>
       </node>
@@ -2167,7 +2167,7 @@
           <attvalue for="strongcompnum" value="19"></attvalue>
           <attvalue for="eigencentrality" value="0.06419460551989462"></attvalue>
         </attvalues>
-        <viz:size value="12.0"></viz:size>
+        <viz:size value="13.54067"></viz:size>
         <viz:position x="-783.7922" y="167.2246"></viz:position>
         <viz:color r="76" g="70" b="62"></viz:color>
       </node>
@@ -2188,7 +2188,7 @@
           <attvalue for="strongcompnum" value="49"></attvalue>
           <attvalue for="eigencentrality" value="0.14322193760693813"></attvalue>
         </attvalues>
-        <viz:size value="14.4"></viz:size>
+        <viz:size value="15.437326"></viz:size>
         <viz:position x="-417.79166" y="-367.7475"></viz:position>
         <viz:color r="192" g="192" b="192"></viz:color>
       </node>
@@ -2209,7 +2209,7 @@
           <attvalue for="strongcompnum" value="51"></attvalue>
           <attvalue for="eigencentrality" value="0.014832726567148784"></attvalue>
         </attvalues>
-        <viz:size value="12.0"></viz:size>
+        <viz:size value="12.355986"></viz:size>
         <viz:position x="-167.49944" y="-572.06476"></viz:position>
         <viz:color r="192" g="192" b="192"></viz:color>
       </node>
@@ -2230,7 +2230,7 @@
           <attvalue for="strongcompnum" value="53"></attvalue>
           <attvalue for="eigencentrality" value="0.014832726567148784"></attvalue>
         </attvalues>
-        <viz:size value="12.0"></viz:size>
+        <viz:size value="12.355986"></viz:size>
         <viz:position x="-244.25317" y="-646.28156"></viz:position>
         <viz:color r="192" g="192" b="192"></viz:color>
       </node>
@@ -2251,7 +2251,7 @@
           <attvalue for="strongcompnum" value="66"></attvalue>
           <attvalue for="eigencentrality" value="0.06419460551989462"></attvalue>
         </attvalues>
-        <viz:size value="12.0"></viz:size>
+        <viz:size value="13.54067"></viz:size>
         <viz:position x="-589.9901" y="-162.31053"></viz:position>
         <viz:color r="255" g="136" b="5"></viz:color>
       </node>
@@ -2272,7 +2272,7 @@
           <attvalue for="strongcompnum" value="67"></attvalue>
           <attvalue for="eigencentrality" value="0.06419460551989462"></attvalue>
         </attvalues>
-        <viz:size value="12.0"></viz:size>
+        <viz:size value="13.54067"></viz:size>
         <viz:position x="-603.367" y="-255.66557"></viz:position>
         <viz:color r="255" g="136" b="5"></viz:color>
       </node>
@@ -2293,7 +2293,7 @@
           <attvalue for="strongcompnum" value="171"></attvalue>
           <attvalue for="eigencentrality" value="0.0"></attvalue>
         </attvalues>
-        <viz:size value="36.0"></viz:size>
+        <viz:size value="12.0"></viz:size>
         <viz:position x="637.2196" y="597.4084"></viz:position>
         <viz:color r="0" g="196" b="255"></viz:color>
       </node>
@@ -2314,7 +2314,7 @@
           <attvalue for="strongcompnum" value="166"></attvalue>
           <attvalue for="eigencentrality" value="0.014832726567148784"></attvalue>
         </attvalues>
-        <viz:size value="12.0"></viz:size>
+        <viz:size value="12.355986"></viz:size>
         <viz:position x="611.50653" y="250.47795"></viz:position>
         <viz:color r="0" g="196" b="255"></viz:color>
       </node>
@@ -2335,7 +2335,7 @@
           <attvalue for="strongcompnum" value="167"></attvalue>
           <attvalue for="eigencentrality" value="0.014832726567148784"></attvalue>
         </attvalues>
-        <viz:size value="12.0"></viz:size>
+        <viz:size value="12.355986"></viz:size>
         <viz:position x="801.2807" y="870.2485"></viz:position>
         <viz:color r="0" g="196" b="255"></viz:color>
       </node>
@@ -2356,7 +2356,7 @@
           <attvalue for="strongcompnum" value="165"></attvalue>
           <attvalue for="eigencentrality" value="0.014832726567148784"></attvalue>
         </attvalues>
-        <viz:size value="12.0"></viz:size>
+        <viz:size value="12.355986"></viz:size>
         <viz:position x="347.29904" y="568.1125"></viz:position>
         <viz:color r="0" g="196" b="255"></viz:color>
       </node>
@@ -2377,7 +2377,7 @@
           <attvalue for="strongcompnum" value="164"></attvalue>
           <attvalue for="eigencentrality" value="0.014832726567148784"></attvalue>
         </attvalues>
-        <viz:size value="12.0"></viz:size>
+        <viz:size value="12.355986"></viz:size>
         <viz:position x="742.4213" y="896.0566"></viz:position>
         <viz:color r="0" g="196" b="255"></viz:color>
       </node>
@@ -2398,7 +2398,7 @@
           <attvalue for="strongcompnum" value="163"></attvalue>
           <attvalue for="eigencentrality" value="0.014832726567148784"></attvalue>
         </attvalues>
-        <viz:size value="12.0"></viz:size>
+        <viz:size value="12.355986"></viz:size>
         <viz:position x="757.0832" y="334.7"></viz:position>
         <viz:color r="0" g="196" b="255"></viz:color>
       </node>
@@ -2419,7 +2419,7 @@
           <attvalue for="strongcompnum" value="162"></attvalue>
           <attvalue for="eigencentrality" value="0.014832726567148784"></attvalue>
         </attvalues>
-        <viz:size value="12.0"></viz:size>
+        <viz:size value="12.355986"></viz:size>
         <viz:position x="547.441" y="850.93823"></viz:position>
         <viz:color r="0" g="196" b="255"></viz:color>
       </node>
@@ -2440,7 +2440,7 @@
           <attvalue for="strongcompnum" value="161"></attvalue>
           <attvalue for="eigencentrality" value="0.014832726567148784"></attvalue>
         </attvalues>
-        <viz:size value="12.0"></viz:size>
+        <viz:size value="12.355986"></viz:size>
         <viz:position x="912.2545" y="470.01123"></viz:position>
         <viz:color r="0" g="196" b="255"></viz:color>
       </node>
@@ -2461,7 +2461,7 @@
           <attvalue for="strongcompnum" value="146"></attvalue>
           <attvalue for="eigencentrality" value="0.2240034358823504"></attvalue>
         </attvalues>
-        <viz:size value="14.4"></viz:size>
+        <viz:size value="17.376083"></viz:size>
         <viz:position x="498.79028" y="298.1416"></viz:position>
         <viz:color r="255" g="85" b="132"></viz:color>
       </node>
@@ -2482,7 +2482,7 @@
           <attvalue for="strongcompnum" value="160"></attvalue>
           <attvalue for="eigencentrality" value="0.014832726567148784"></attvalue>
         </attvalues>
-        <viz:size value="12.0"></viz:size>
+        <viz:size value="12.355986"></viz:size>
         <viz:position x="643.3552" y="901.37134"></viz:position>
         <viz:color r="0" g="196" b="255"></viz:color>
       </node>
@@ -2503,7 +2503,7 @@
           <attvalue for="strongcompnum" value="159"></attvalue>
           <attvalue for="eigencentrality" value="0.014832726567148784"></attvalue>
         </attvalues>
-        <viz:size value="12.0"></viz:size>
+        <viz:size value="12.355986"></viz:size>
         <viz:position x="850.1018" y="768.9938"></viz:position>
         <viz:color r="0" g="196" b="255"></viz:color>
       </node>
@@ -2524,7 +2524,7 @@
           <attvalue for="strongcompnum" value="158"></attvalue>
           <attvalue for="eigencentrality" value="0.014832726567148784"></attvalue>
         </attvalues>
-        <viz:size value="12.0"></viz:size>
+        <viz:size value="12.355986"></viz:size>
         <viz:position x="879.97107" y="739.4733"></viz:position>
         <viz:color r="0" g="196" b="255"></viz:color>
       </node>
@@ -2545,7 +2545,7 @@
           <attvalue for="strongcompnum" value="157"></attvalue>
           <attvalue for="eigencentrality" value="0.014832726567148784"></attvalue>
         </attvalues>
-        <viz:size value="12.0"></viz:size>
+        <viz:size value="12.355986"></viz:size>
         <viz:position x="383.33075" y="419.948"></viz:position>
         <viz:color r="0" g="196" b="255"></viz:color>
       </node>
@@ -2566,7 +2566,7 @@
           <attvalue for="strongcompnum" value="156"></attvalue>
           <attvalue for="eigencentrality" value="0.014832726567148784"></attvalue>
         </attvalues>
-        <viz:size value="12.0"></viz:size>
+        <viz:size value="12.355986"></viz:size>
         <viz:position x="395.74628" y="713.809"></viz:position>
         <viz:color r="0" g="196" b="255"></viz:color>
       </node>
@@ -2587,7 +2587,7 @@
           <attvalue for="strongcompnum" value="155"></attvalue>
           <attvalue for="eigencentrality" value="0.014832726567148784"></attvalue>
         </attvalues>
-        <viz:size value="12.0"></viz:size>
+        <viz:size value="12.355986"></viz:size>
         <viz:position x="940.16174" y="609.4111"></viz:position>
         <viz:color r="0" g="196" b="255"></viz:color>
       </node>
@@ -2608,7 +2608,7 @@
           <attvalue for="strongcompnum" value="154"></attvalue>
           <attvalue for="eigencentrality" value="0.014832726567148784"></attvalue>
         </attvalues>
-        <viz:size value="12.0"></viz:size>
+        <viz:size value="12.355986"></viz:size>
         <viz:position x="927.0714" y="539.0661"></viz:position>
         <viz:color r="0" g="196" b="255"></viz:color>
       </node>
@@ -2629,7 +2629,7 @@
           <attvalue for="strongcompnum" value="153"></attvalue>
           <attvalue for="eigencentrality" value="0.014832726567148784"></attvalue>
         </attvalues>
-        <viz:size value="12.0"></viz:size>
+        <viz:size value="12.355986"></viz:size>
         <viz:position x="819.5488" y="367.1619"></viz:position>
         <viz:color r="0" g="196" b="255"></viz:color>
       </node>
@@ -2650,8 +2650,8 @@
           <attvalue for="strongcompnum" value="86"></attvalue>
           <attvalue for="eigencentrality" value="0.06419460551989462"></attvalue>
         </attvalues>
-        <viz:size value="12.0"></viz:size>
-        <viz:position x="-98.50052" y="944.0474"></viz:position>
+        <viz:size value="13.54067"></viz:size>
+        <viz:position x="-240.49309" y="1009.5406"></viz:position>
         <viz:color r="223" g="137" b="255"></viz:color>
       </node>
       <node id="http://wikibase.svc/entity/Q830" label="A Short Personal Narrative (1860 edition)">
@@ -2671,7 +2671,7 @@
           <attvalue for="strongcompnum" value="181"></attvalue>
           <attvalue for="eigencentrality" value="0.014832726567148784"></attvalue>
         </attvalues>
-        <viz:size value="25.2"></viz:size>
+        <viz:size value="12.355986"></viz:size>
         <viz:position x="205.30913" y="1290.1979"></viz:position>
         <viz:color r="192" g="192" b="192"></viz:color>
       </node>
@@ -2692,7 +2692,7 @@
           <attvalue for="strongcompnum" value="180"></attvalue>
           <attvalue for="eigencentrality" value="0.06419460551989462"></attvalue>
         </attvalues>
-        <viz:size value="13.2"></viz:size>
+        <viz:size value="13.54067"></viz:size>
         <viz:position x="167.81178" y="1476.6829"></viz:position>
         <viz:color r="192" g="192" b="192"></viz:color>
       </node>
@@ -2734,7 +2734,7 @@
           <attvalue for="strongcompnum" value="113"></attvalue>
           <attvalue for="eigencentrality" value="0.3541468131105085"></attvalue>
         </attvalues>
-        <viz:size value="14.4"></viz:size>
+        <viz:size value="20.499523"></viz:size>
         <viz:position x="266.0351" y="1519.6782"></viz:position>
         <viz:color r="192" g="192" b="192"></viz:color>
       </node>
@@ -2755,7 +2755,7 @@
           <attvalue for="strongcompnum" value="177"></attvalue>
           <attvalue for="eigencentrality" value="0.06419460551989462"></attvalue>
         </attvalues>
-        <viz:size value="12.0"></viz:size>
+        <viz:size value="13.54067"></viz:size>
         <viz:position x="96.54783" y="1431.0391"></viz:position>
         <viz:color r="192" g="192" b="192"></viz:color>
       </node>
@@ -2776,7 +2776,7 @@
           <attvalue for="strongcompnum" value="176"></attvalue>
           <attvalue for="eigencentrality" value="0.06419460551989462"></attvalue>
         </attvalues>
-        <viz:size value="12.0"></viz:size>
+        <viz:size value="13.54067"></viz:size>
         <viz:position x="110.55744" y="1145.3519"></viz:position>
         <viz:color r="192" g="192" b="192"></viz:color>
       </node>
@@ -2797,7 +2797,7 @@
           <attvalue for="strongcompnum" value="174"></attvalue>
           <attvalue for="eigencentrality" value="0.06419460551989462"></attvalue>
         </attvalues>
-        <viz:size value="12.0"></viz:size>
+        <viz:size value="13.54067"></viz:size>
         <viz:position x="359.30643" y="1217.7828"></viz:position>
         <viz:color r="192" g="192" b="192"></viz:color>
       </node>
@@ -2818,7 +2818,7 @@
           <attvalue for="strongcompnum" value="175"></attvalue>
           <attvalue for="eigencentrality" value="0.06419460551989462"></attvalue>
         </attvalues>
-        <viz:size value="12.0"></viz:size>
+        <viz:size value="13.54067"></viz:size>
         <viz:position x="337.25497" y="1420.4052"></viz:position>
         <viz:color r="192" g="192" b="192"></viz:color>
       </node>
@@ -2839,7 +2839,7 @@
           <attvalue for="strongcompnum" value="173"></attvalue>
           <attvalue for="eigencentrality" value="0.06419460551989462"></attvalue>
         </attvalues>
-        <viz:size value="12.0"></viz:size>
+        <viz:size value="13.54067"></viz:size>
         <viz:position x="295.80872" y="1459.0944"></viz:position>
         <viz:color r="192" g="192" b="192"></viz:color>
       </node>
@@ -2860,7 +2860,7 @@
           <attvalue for="strongcompnum" value="179"></attvalue>
           <attvalue for="eigencentrality" value="0.06419460551989462"></attvalue>
         </attvalues>
-        <viz:size value="12.0"></viz:size>
+        <viz:size value="13.54067"></viz:size>
         <viz:position x="401.66504" y="1321.0096"></viz:position>
         <viz:color r="192" g="192" b="192"></viz:color>
       </node>
@@ -2881,7 +2881,7 @@
           <attvalue for="strongcompnum" value="178"></attvalue>
           <attvalue for="eigencentrality" value="0.06419460551989462"></attvalue>
         </attvalues>
-        <viz:size value="12.0"></viz:size>
+        <viz:size value="13.54067"></viz:size>
         <viz:position x="45.476646" y="1256.5736"></viz:position>
         <viz:color r="192" g="192" b="192"></viz:color>
       </node>
@@ -2902,7 +2902,7 @@
           <attvalue for="strongcompnum" value="111"></attvalue>
           <attvalue for="eigencentrality" value="0.1777510899925351"></attvalue>
         </attvalues>
-        <viz:size value="15.6"></viz:size>
+        <viz:size value="16.266026"></viz:size>
         <viz:position x="641.1036" y="-772.50995"></viz:position>
         <viz:color r="0" g="189" b="148"></viz:color>
       </node>
@@ -2944,7 +2944,7 @@
           <attvalue for="strongcompnum" value="136"></attvalue>
           <attvalue for="eigencentrality" value="0.06419460551989462"></attvalue>
         </attvalues>
-        <viz:size value="12.0"></viz:size>
+        <viz:size value="13.54067"></viz:size>
         <viz:position x="-856.0411" y="-1101.8944"></viz:position>
         <viz:color r="192" g="192" b="192"></viz:color>
       </node>
@@ -2965,7 +2965,7 @@
           <attvalue for="strongcompnum" value="135"></attvalue>
           <attvalue for="eigencentrality" value="0.06419460551989462"></attvalue>
         </attvalues>
-        <viz:size value="12.0"></viz:size>
+        <viz:size value="13.54067"></viz:size>
         <viz:position x="-685.75287" y="-1211.2742"></viz:position>
         <viz:color r="192" g="192" b="192"></viz:color>
       </node>
@@ -2986,7 +2986,7 @@
           <attvalue for="strongcompnum" value="95"></attvalue>
           <attvalue for="eigencentrality" value="0.12838921103978918"></attvalue>
         </attvalues>
-        <viz:size value="13.2"></viz:size>
+        <viz:size value="15.081341"></viz:size>
         <viz:position x="261.44913" y="-361.82672"></viz:position>
         <viz:color r="115" g="192" b="0"></viz:color>
       </node>
@@ -3007,7 +3007,7 @@
           <attvalue for="strongcompnum" value="108"></attvalue>
           <attvalue for="eigencentrality" value="0.5336520692914128"></attvalue>
         </attvalues>
-        <viz:size value="14.4"></viz:size>
+        <viz:size value="24.80765"></viz:size>
         <viz:position x="524.7466" y="-808.6693"></viz:position>
         <viz:color r="0" g="189" b="148"></viz:color>
       </node>
@@ -3028,7 +3028,7 @@
           <attvalue for="strongcompnum" value="110"></attvalue>
           <attvalue for="eigencentrality" value="0.37073370586602616"></attvalue>
         </attvalues>
-        <viz:size value="13.2"></viz:size>
+        <viz:size value="20.89761"></viz:size>
         <viz:position x="727.6848" y="-745.96564"></viz:position>
         <viz:color r="0" g="189" b="148"></viz:color>
       </node>
@@ -3049,7 +3049,7 @@
           <attvalue for="strongcompnum" value="109"></attvalue>
           <attvalue for="eigencentrality" value="0.1777510899925351"></attvalue>
         </attvalues>
-        <viz:size value="13.2"></viz:size>
+        <viz:size value="16.266026"></viz:size>
         <viz:position x="454.3578" y="-885.64557"></viz:position>
         <viz:color r="0" g="189" b="148"></viz:color>
       </node>
@@ -3070,7 +3070,7 @@
           <attvalue for="strongcompnum" value="184"></attvalue>
           <attvalue for="eigencentrality" value="0.014832726567148784"></attvalue>
         </attvalues>
-        <viz:size value="18.0"></viz:size>
+        <viz:size value="12.355986"></viz:size>
         <viz:position x="457.91083" y="-701.1815"></viz:position>
         <viz:color r="0" g="189" b="148"></viz:color>
       </node>
@@ -3112,7 +3112,7 @@
           <attvalue for="strongcompnum" value="118"></attvalue>
           <attvalue for="eigencentrality" value="0.06419460551989462"></attvalue>
         </attvalues>
-        <viz:size value="12.0"></viz:size>
+        <viz:size value="13.54067"></viz:size>
         <viz:position x="410.9538" y="1694.3558"></viz:position>
         <viz:color r="211" g="179" b="176"></viz:color>
       </node>
@@ -3133,7 +3133,7 @@
           <attvalue for="strongcompnum" value="35"></attvalue>
           <attvalue for="eigencentrality" value="0.014832726567148784"></attvalue>
         </attvalues>
-        <viz:size value="12.0"></viz:size>
+        <viz:size value="12.355986"></viz:size>
         <viz:position x="-1054.9248" y="-1357.3253"></viz:position>
         <viz:color r="192" g="192" b="192"></viz:color>
       </node>
@@ -3154,7 +3154,7 @@
           <attvalue for="strongcompnum" value="25"></attvalue>
           <attvalue for="eigencentrality" value="0.06419460551989462"></attvalue>
         </attvalues>
-        <viz:size value="13.2"></viz:size>
+        <viz:size value="13.54067"></viz:size>
         <viz:position x="116.080956" y="113.23927"></viz:position>
         <viz:color r="255" g="85" b="132"></viz:color>
       </node>
@@ -3175,7 +3175,7 @@
           <attvalue for="strongcompnum" value="24"></attvalue>
           <attvalue for="eigencentrality" value="0.06419460551989462"></attvalue>
         </attvalues>
-        <viz:size value="13.2"></viz:size>
+        <viz:size value="13.54067"></viz:size>
         <viz:position x="218.62486" y="-1.8095502"></viz:position>
         <viz:color r="255" g="85" b="132"></viz:color>
       </node>
@@ -3196,7 +3196,7 @@
           <attvalue for="strongcompnum" value="22"></attvalue>
           <attvalue for="eigencentrality" value="0.06419460551989462"></attvalue>
         </attvalues>
-        <viz:size value="13.2"></viz:size>
+        <viz:size value="13.54067"></viz:size>
         <viz:position x="180.96161" y="251.98605"></viz:position>
         <viz:color r="255" g="85" b="132"></viz:color>
       </node>
@@ -3217,7 +3217,7 @@
           <attvalue for="strongcompnum" value="15"></attvalue>
           <attvalue for="eigencentrality" value="0.06419460551989462"></attvalue>
         </attvalues>
-        <viz:size value="12.0"></viz:size>
+        <viz:size value="13.54067"></viz:size>
         <viz:position x="-660.4959" y="347.5282"></viz:position>
         <viz:color r="76" g="70" b="62"></viz:color>
       </node>
@@ -3238,7 +3238,7 @@
           <attvalue for="strongcompnum" value="29"></attvalue>
           <attvalue for="eigencentrality" value="0.06419460551989462"></attvalue>
         </attvalues>
-        <viz:size value="12.0"></viz:size>
+        <viz:size value="13.54067"></viz:size>
         <viz:position x="-81.76415" y="621.23254"></viz:position>
         <viz:color r="223" g="137" b="255"></viz:color>
       </node>
@@ -3259,7 +3259,7 @@
           <attvalue for="strongcompnum" value="31"></attvalue>
           <attvalue for="eigencentrality" value="0.06419460551989462"></attvalue>
         </attvalues>
-        <viz:size value="13.2"></viz:size>
+        <viz:size value="13.54067"></viz:size>
         <viz:position x="152.33128" y="482.9883"></viz:position>
         <viz:color r="223" g="137" b="255"></viz:color>
       </node>
@@ -3280,7 +3280,7 @@
           <attvalue for="strongcompnum" value="50"></attvalue>
           <attvalue for="eigencentrality" value="0.014832726567148784"></attvalue>
         </attvalues>
-        <viz:size value="13.2"></viz:size>
+        <viz:size value="12.355986"></viz:size>
         <viz:position x="-405.76404" y="-452.32544"></viz:position>
         <viz:color r="192" g="192" b="192"></viz:color>
       </node>
@@ -3301,7 +3301,7 @@
           <attvalue for="strongcompnum" value="48"></attvalue>
           <attvalue for="eigencentrality" value="0.014832726567148784"></attvalue>
         </attvalues>
-        <viz:size value="13.2"></viz:size>
+        <viz:size value="12.355986"></viz:size>
         <viz:position x="-351.70438" y="-671.0939"></viz:position>
         <viz:color r="192" g="192" b="192"></viz:color>
       </node>
@@ -3322,7 +3322,7 @@
           <attvalue for="strongcompnum" value="57"></attvalue>
           <attvalue for="eigencentrality" value="0.06419460551989462"></attvalue>
         </attvalues>
-        <viz:size value="12.0"></viz:size>
+        <viz:size value="13.54067"></viz:size>
         <viz:position x="-775.1527" y="-152.24763"></viz:position>
         <viz:color r="255" g="136" b="5"></viz:color>
       </node>
@@ -3343,7 +3343,7 @@
           <attvalue for="strongcompnum" value="168"></attvalue>
           <attvalue for="eigencentrality" value="0.014832726567148784"></attvalue>
         </attvalues>
-        <viz:size value="12.0"></viz:size>
+        <viz:size value="12.355986"></viz:size>
         <viz:position x="453.44363" y="840.70917"></viz:position>
         <viz:color r="0" g="196" b="255"></viz:color>
       </node>
@@ -3364,7 +3364,7 @@
           <attvalue for="strongcompnum" value="170"></attvalue>
           <attvalue for="eigencentrality" value="0.014832726567148784"></attvalue>
         </attvalues>
-        <viz:size value="12.0"></viz:size>
+        <viz:size value="12.355986"></viz:size>
         <viz:position x="428.14374" y="386.35947"></viz:position>
         <viz:color r="0" g="196" b="255"></viz:color>
       </node>
@@ -3385,7 +3385,7 @@
           <attvalue for="strongcompnum" value="169"></attvalue>
           <attvalue for="eigencentrality" value="0.014832726567148784"></attvalue>
         </attvalues>
-        <viz:size value="12.0"></viz:size>
+        <viz:size value="12.355986"></viz:size>
         <viz:position x="332.75027" y="528.3405"></viz:position>
         <viz:color r="0" g="196" b="255"></viz:color>
       </node>
@@ -3406,7 +3406,7 @@
           <attvalue for="strongcompnum" value="99"></attvalue>
           <attvalue for="eigencentrality" value="0.06419460551989462"></attvalue>
         </attvalues>
-        <viz:size value="13.2"></viz:size>
+        <viz:size value="13.54067"></viz:size>
         <viz:position x="69.26618" y="-504.26584"></viz:position>
         <viz:color r="115" g="192" b="0"></viz:color>
       </node>
@@ -3427,7 +3427,7 @@
           <attvalue for="strongcompnum" value="107"></attvalue>
           <attvalue for="eigencentrality" value="0.11355648447264048"></attvalue>
         </attvalues>
-        <viz:size value="12.0"></viz:size>
+        <viz:size value="14.725355"></viz:size>
         <viz:position x="686.5391" y="-862.08704"></viz:position>
         <viz:color r="0" g="189" b="148"></viz:color>
       </node>
@@ -3448,7 +3448,7 @@
           <attvalue for="strongcompnum" value="98"></attvalue>
           <attvalue for="eigencentrality" value="0.06419460551989462"></attvalue>
         </attvalues>
-        <viz:size value="12.0"></viz:size>
+        <viz:size value="13.54067"></viz:size>
         <viz:position x="405.40686" y="-551.587"></viz:position>
         <viz:color r="115" g="192" b="0"></viz:color>
       </node>
@@ -3469,7 +3469,7 @@
           <attvalue for="strongcompnum" value="97"></attvalue>
           <attvalue for="eigencentrality" value="0.06419460551989462"></attvalue>
         </attvalues>
-        <viz:size value="12.0"></viz:size>
+        <viz:size value="13.54067"></viz:size>
         <viz:position x="328.9996" y="-643.5742"></viz:position>
         <viz:color r="115" g="192" b="0"></viz:color>
       </node>
@@ -3490,7 +3490,7 @@
           <attvalue for="strongcompnum" value="141"></attvalue>
           <attvalue for="eigencentrality" value="0.014832726567148784"></attvalue>
         </attvalues>
-        <viz:size value="13.2"></viz:size>
+        <viz:size value="12.355986"></viz:size>
         <viz:position x="611.91315" y="-1066.3706"></viz:position>
         <viz:color r="0" g="189" b="148"></viz:color>
       </node>
@@ -3511,7 +3511,7 @@
           <attvalue for="strongcompnum" value="147"></attvalue>
           <attvalue for="eigencentrality" value="0.06419460551989462"></attvalue>
         </attvalues>
-        <viz:size value="13.2"></viz:size>
+        <viz:size value="13.54067"></viz:size>
         <viz:position x="578.8425" y="292.55957"></viz:position>
         <viz:color r="255" g="85" b="132"></viz:color>
       </node>
@@ -3532,7 +3532,7 @@
           <attvalue for="strongcompnum" value="124"></attvalue>
           <attvalue for="eigencentrality" value="0.11355648447264048"></attvalue>
         </attvalues>
-        <viz:size value="13.2"></viz:size>
+        <viz:size value="14.725355"></viz:size>
         <viz:position x="-540.2063" y="359.30145"></viz:position>
         <viz:color r="76" g="70" b="62"></viz:color>
       </node>
@@ -3553,7 +3553,7 @@
           <attvalue for="strongcompnum" value="122"></attvalue>
           <attvalue for="eigencentrality" value="0.11355648447264048"></attvalue>
         </attvalues>
-        <viz:size value="12.0"></viz:size>
+        <viz:size value="14.725355"></viz:size>
         <viz:position x="-371.14426" y="75.42998"></viz:position>
         <viz:color r="76" g="70" b="62"></viz:color>
       </node>
@@ -3574,7 +3574,7 @@
           <attvalue for="strongcompnum" value="125"></attvalue>
           <attvalue for="eigencentrality" value="0.11355648447264048"></attvalue>
         </attvalues>
-        <viz:size value="13.2"></viz:size>
+        <viz:size value="14.725355"></viz:size>
         <viz:position x="-456.1491" y="75.80143"></viz:position>
         <viz:color r="255" g="136" b="5"></viz:color>
       </node>
@@ -3595,7 +3595,7 @@
           <attvalue for="strongcompnum" value="121"></attvalue>
           <attvalue for="eigencentrality" value="0.11355648447264048"></attvalue>
         </attvalues>
-        <viz:size value="12.0"></viz:size>
+        <viz:size value="14.725355"></viz:size>
         <viz:position x="-253.82323" y="205.17236"></viz:position>
         <viz:color r="76" g="70" b="62"></viz:color>
       </node>
@@ -3616,7 +3616,7 @@
           <attvalue for="strongcompnum" value="129"></attvalue>
           <attvalue for="eigencentrality" value="0.014832726567148784"></attvalue>
         </attvalues>
-        <viz:size value="13.2"></viz:size>
+        <viz:size value="12.355986"></viz:size>
         <viz:position x="-168.36176" y="342.639"></viz:position>
         <viz:color r="76" g="70" b="62"></viz:color>
       </node>
@@ -3637,7 +3637,7 @@
           <attvalue for="strongcompnum" value="5"></attvalue>
           <attvalue for="eigencentrality" value="0.06419460551989462"></attvalue>
         </attvalues>
-        <viz:size value="12.0"></viz:size>
+        <viz:size value="13.54067"></viz:size>
         <viz:position x="258.75177" y="1014.1523"></viz:position>
         <viz:color r="223" g="137" b="255"></viz:color>
       </node>
@@ -3658,7 +3658,7 @@
           <attvalue for="strongcompnum" value="40"></attvalue>
           <attvalue for="eigencentrality" value="0.014832726567148784"></attvalue>
         </attvalues>
-        <viz:size value="13.2"></viz:size>
+        <viz:size value="12.355986"></viz:size>
         <viz:position x="432.96136" y="34.285286"></viz:position>
         <viz:color r="255" g="85" b="132"></viz:color>
       </node>
@@ -3679,7 +3679,7 @@
           <attvalue for="strongcompnum" value="151"></attvalue>
           <attvalue for="eigencentrality" value="0.014832726567148784"></attvalue>
         </attvalues>
-        <viz:size value="12.0"></viz:size>
+        <viz:size value="12.355986"></viz:size>
         <viz:position x="-834.092" y="309.81033"></viz:position>
         <viz:color r="76" g="70" b="62"></viz:color>
       </node>
@@ -3700,7 +3700,7 @@
           <attvalue for="strongcompnum" value="64"></attvalue>
           <attvalue for="eigencentrality" value="0.014832726567148784"></attvalue>
         </attvalues>
-        <viz:size value="12.0"></viz:size>
+        <viz:size value="12.355986"></viz:size>
         <viz:position x="-467.30667" y="-879.6829"></viz:position>
         <viz:color r="192" g="192" b="192"></viz:color>
       </node>
@@ -3721,7 +3721,7 @@
           <attvalue for="strongcompnum" value="71"></attvalue>
           <attvalue for="eigencentrality" value="0.014832726567148784"></attvalue>
         </attvalues>
-        <viz:size value="12.0"></viz:size>
+        <viz:size value="12.355986"></viz:size>
         <viz:position x="-626.4743" y="-330.50912"></viz:position>
         <viz:color r="255" g="136" b="5"></viz:color>
       </node>
@@ -3742,7 +3742,7 @@
           <attvalue for="strongcompnum" value="70"></attvalue>
           <attvalue for="eigencentrality" value="0.014832726567148784"></attvalue>
         </attvalues>
-        <viz:size value="12.0"></viz:size>
+        <viz:size value="12.355986"></viz:size>
         <viz:position x="-551.4572" y="-392.59955"></viz:position>
         <viz:color r="255" g="136" b="5"></viz:color>
       </node>
@@ -3763,7 +3763,7 @@
           <attvalue for="strongcompnum" value="79"></attvalue>
           <attvalue for="eigencentrality" value="0.06419460551989462"></attvalue>
         </attvalues>
-        <viz:size value="12.0"></viz:size>
+        <viz:size value="13.54067"></viz:size>
         <viz:position x="-1160.3672" y="-1765.0951"></viz:position>
         <viz:color r="192" g="192" b="192"></viz:color>
       </node>
@@ -3784,7 +3784,7 @@
           <attvalue for="strongcompnum" value="132"></attvalue>
           <attvalue for="eigencentrality" value="0.014832726567148784"></attvalue>
         </attvalues>
-        <viz:size value="12.0"></viz:size>
+        <viz:size value="12.355986"></viz:size>
         <viz:position x="-1263.2682" y="-1777.109"></viz:position>
         <viz:color r="192" g="192" b="192"></viz:color>
       </node>
@@ -3805,8 +3805,8 @@
           <attvalue for="strongcompnum" value="87"></attvalue>
           <attvalue for="eigencentrality" value="0.014832726567148784"></attvalue>
         </attvalues>
-        <viz:size value="13.2"></viz:size>
-        <viz:position x="-43.4035" y="960.569"></viz:position>
+        <viz:size value="12.355986"></viz:size>
+        <viz:position x="-191.63931" y="952.6848"></viz:position>
         <viz:color r="223" g="137" b="255"></viz:color>
       </node>
       <node id="http://wikibase.svc/entity/statement/Q706-defeea86-4b1b-8dd7-5ef4-73d4fa8b794f" label="frontispiece">
@@ -3826,7 +3826,7 @@
           <attvalue for="strongcompnum" value="84"></attvalue>
           <attvalue for="eigencentrality" value="0.06419460551989462"></attvalue>
         </attvalues>
-        <viz:size value="12.0"></viz:size>
+        <viz:size value="13.54067"></viz:size>
         <viz:position x="84.55036" y="941.78906"></viz:position>
         <viz:color r="223" g="137" b="255"></viz:color>
       </node>
@@ -3847,7 +3847,7 @@
           <attvalue for="strongcompnum" value="93"></attvalue>
           <attvalue for="eigencentrality" value="0.06419460551989462"></attvalue>
         </attvalues>
-        <viz:size value="13.2"></viz:size>
+        <viz:size value="13.54067"></viz:size>
         <viz:position x="49.792347" y="-368.86203"></viz:position>
         <viz:color r="115" g="192" b="0"></viz:color>
       </node>
@@ -3868,7 +3868,7 @@
           <attvalue for="strongcompnum" value="92"></attvalue>
           <attvalue for="eigencentrality" value="0.06419460551989462"></attvalue>
         </attvalues>
-        <viz:size value="12.0"></viz:size>
+        <viz:size value="13.54067"></viz:size>
         <viz:position x="54.472004" y="-220.33063"></viz:position>
         <viz:color r="115" g="192" b="0"></viz:color>
       </node>
@@ -3889,7 +3889,7 @@
           <attvalue for="strongcompnum" value="91"></attvalue>
           <attvalue for="eigencentrality" value="0.06419460551989462"></attvalue>
         </attvalues>
-        <viz:size value="12.0"></viz:size>
+        <viz:size value="13.54067"></viz:size>
         <viz:position x="225.38034" y="-116.89333"></viz:position>
         <viz:color r="115" g="192" b="0"></viz:color>
       </node>
@@ -3910,7 +3910,7 @@
           <attvalue for="strongcompnum" value="104"></attvalue>
           <attvalue for="eigencentrality" value="0.014832726567148784"></attvalue>
         </attvalues>
-        <viz:size value="12.0"></viz:size>
+        <viz:size value="12.355986"></viz:size>
         <viz:position x="400.62125" y="-257.71014"></viz:position>
         <viz:color r="115" g="192" b="0"></viz:color>
       </node>
@@ -3931,7 +3931,7 @@
           <attvalue for="strongcompnum" value="183"></attvalue>
           <attvalue for="eigencentrality" value="0.06419460551989462"></attvalue>
         </attvalues>
-        <viz:size value="12.0"></viz:size>
+        <viz:size value="13.54067"></viz:size>
         <viz:position x="574.4411" y="-671.42444"></viz:position>
         <viz:color r="0" g="189" b="148"></viz:color>
       </node>
@@ -3952,7 +3952,7 @@
           <attvalue for="strongcompnum" value="145"></attvalue>
           <attvalue for="eigencentrality" value="0.06419460551989462"></attvalue>
         </attvalues>
-        <viz:size value="12.0"></viz:size>
+        <viz:size value="13.54067"></viz:size>
         <viz:position x="522.2093" y="215.60962"></viz:position>
         <viz:color r="255" g="85" b="132"></viz:color>
       </node>
@@ -3973,7 +3973,7 @@
           <attvalue for="strongcompnum" value="172"></attvalue>
           <attvalue for="eigencentrality" value="0.06419460551989462"></attvalue>
         </attvalues>
-        <viz:size value="12.0"></viz:size>
+        <viz:size value="13.54067"></viz:size>
         <viz:position x="51.75574" y="1356.3984"></viz:position>
         <viz:color r="192" g="192" b="192"></viz:color>
       </node>
