@@ -68,7 +68,7 @@
           <attvalue for="eigencentrality" value="0.0"></attvalue>
         </attvalues>
         <viz:size value="12.0"></viz:size>
-        <viz:position x="166.36012" y="513.3959"></viz:position>
+        <viz:position x="219.64088" y="640.31537"></viz:position>
         <viz:color r="115" g="192" b="0"></viz:color>
       </node>
       <node id="http://wikibase.svc/entity/Q830" label="A Short Personal Narrative (1860 edition)">
@@ -89,7 +89,7 @@
           <attvalue for="eigencentrality" value="0.014832726567148784"></attvalue>
         </attvalues>
         <viz:size value="12.593309"></viz:size>
-        <viz:position x="-41.675163" y="1434.4814"></viz:position>
+        <viz:position x="-30.001453" y="1745.618"></viz:position>
         <viz:color r="255" g="188" b="133"></viz:color>
       </node>
       <node id="http://wikibase.svc/entity/Q223" label="Narrative of the Life of Frederick Douglass, an American Slave (1846 Second Dublin Edition)">
@@ -110,7 +110,7 @@
           <attvalue for="eigencentrality" value="0.014832726567148784"></attvalue>
         </attvalues>
         <viz:size value="12.593309"></viz:size>
-        <viz:position x="-82.487" y="845.6713"></viz:position>
+        <viz:position x="-78.975655" y="1039.0459"></viz:position>
         <viz:color r="223" g="137" b="255"></viz:color>
       </node>
       <node id="http://wikibase.svc/entity/Q118" label="Narrative of William W. Brown, A Fugitive Slave (1848 Boston Anti-Slavery Office edition)">
@@ -131,7 +131,7 @@
           <attvalue for="eigencentrality" value="0.029665453134297567"></attvalue>
         </attvalues>
         <viz:size value="13.186618"></viz:size>
-        <viz:position x="-702.6468" y="9.763925"></viz:position>
+        <viz:position x="-823.1674" y="35.957012"></viz:position>
         <viz:color r="76" g="70" b="62"></viz:color>
       </node>
       <node id="http://wikibase.svc/entity/Q886" label="Twelve Years a Slave (1853 Auburn, Buffalo, and London edition)">
@@ -152,7 +152,7 @@
           <attvalue for="eigencentrality" value="0.014832726567148784"></attvalue>
         </attvalues>
         <viz:size value="12.593309"></viz:size>
-        <viz:position x="374.18988" y="-710.9853"></viz:position>
+        <viz:position x="469.0366" y="-828.9421"></viz:position>
         <viz:color r="0" g="196" b="255"></viz:color>
       </node>
       <node id="http://wikibase.svc/entity/Q706" label="Narrative of the Life of Frederick Douglass, an American Slave (1845 Dublin Webb and Chapman edition)">
@@ -173,7 +173,7 @@
           <attvalue for="eigencentrality" value="0.014832726567148784"></attvalue>
         </attvalues>
         <viz:size value="12.593309"></viz:size>
-        <viz:position x="-269.17047" y="834.0496"></viz:position>
+        <viz:position x="-302.99582" y="1025.0999"></viz:position>
         <viz:color r="223" g="137" b="255"></viz:color>
       </node>
       <node id="http://wikibase.svc/entity/Q457" label="Truth Stranger Than Fiction: Father Henson's Story of His Own Life (1858 Boston and Cleveland Jewett and Company edition)">
@@ -194,7 +194,7 @@
           <attvalue for="eigencentrality" value="0.0"></attvalue>
         </attvalues>
         <viz:size value="12.0"></viz:size>
-        <viz:position x="-267.53537" y="-950.24347"></viz:position>
+        <viz:position x="-301.0337" y="-1116.0519"></viz:position>
         <viz:color r="194" g="0" b="192"></viz:color>
       </node>
       <node id="http://wikibase.svc/entity/Q881" label="Twelve Years a Slave (1857 New York, Miller, Orton and Co., edition)">
@@ -215,7 +215,7 @@
           <attvalue for="eigencentrality" value="0.014832726567148784"></attvalue>
         </attvalues>
         <viz:size value="12.593309"></viz:size>
-        <viz:position x="274.94897" y="-441.44305"></viz:position>
+        <viz:position x="349.9475" y="-505.49136"></viz:position>
         <viz:color r="0" g="196" b="255"></viz:color>
       </node>
       <node id="http://wikibase.svc/entity/Q334" label="Narrative of William W. Brown, A Fugitive Slave (1847 Boston Anti-Slavery Office edition)">
@@ -236,7 +236,7 @@
           <attvalue for="eigencentrality" value="0.014832726567148784"></attvalue>
         </attvalues>
         <viz:size value="12.593309"></viz:size>
-        <viz:position x="-991.42816" y="-155.49663"></viz:position>
+        <viz:position x="-1169.7051" y="-162.35565"></viz:position>
         <viz:color r="76" g="70" b="62"></viz:color>
       </node>
       <node id="http://wikibase.svc/entity/Q335" label="My Bondage and My Freedom (1855 New York Miller Edition)">
@@ -257,7 +257,7 @@
           <attvalue for="eigencentrality" value="0.014832726567148784"></attvalue>
         </attvalues>
         <viz:size value="12.593309"></viz:size>
-        <viz:position x="260.53735" y="156.85402"></viz:position>
+        <viz:position x="332.65356" y="212.46512"></viz:position>
         <viz:color r="248" g="255" b="112"></viz:color>
       </node>
       <node id="http://wikibase.svc/entity/Q426" label="Narrative of the Life of Frederick Douglass, An American Slave (1845 Boston Anti-Slavery Office edition)">
@@ -278,7 +278,7 @@
           <attvalue for="eigencentrality" value="0.014832726567148784"></attvalue>
         </attvalues>
         <viz:size value="12.593309"></viz:size>
-        <viz:position x="-287.35635" y="661.9224"></viz:position>
+        <viz:position x="-324.81888" y="818.5472"></viz:position>
         <viz:color r="223" g="137" b="255"></viz:color>
       </node>
       <node id="http://wikibase.svc/entity/Q474" label="Three Years in Europe; or, Places I Have Seen and People I Have Met (1852 London Oliver and Boyd edition)">
@@ -299,7 +299,7 @@
           <attvalue for="eigencentrality" value="0.014832726567148784"></attvalue>
         </attvalues>
         <viz:size value="12.593309"></viz:size>
-        <viz:position x="-937.60986" y="-495.35556"></viz:position>
+        <viz:position x="-1105.123" y="-570.1864"></viz:position>
         <viz:color r="255" g="136" b="5"></viz:color>
       </node>
       <node id="http://wikibase.svc/entity/Q948" label="American Prejudice Against Color (1853 W. and F.G. Cash edition)">
@@ -320,7 +320,7 @@
           <attvalue for="eigencentrality" value="0.014832726567148784"></attvalue>
         </attvalues>
         <viz:size value="12.593309"></viz:size>
-        <viz:position x="66.48543" y="2034.57"></viz:position>
+        <viz:position x="99.79126" y="2465.724"></viz:position>
         <viz:color r="82" g="255" b="213"></viz:color>
       </node>
       <node id="http://wikibase.svc/entity/Q1158" label="My Bondage and My Freedom (1856 Miller, Orton &amp; Mulligan edition)">
@@ -341,7 +341,7 @@
           <attvalue for="eigencentrality" value="0.014832726567148784"></attvalue>
         </attvalues>
         <viz:size value="12.593309"></viz:size>
-        <viz:position x="102.828705" y="117.18062"></viz:position>
+        <viz:position x="143.40318" y="164.85704"></viz:position>
         <viz:color r="248" g="255" b="112"></viz:color>
       </node>
       <node id="http://wikibase.svc/entity/Q485" label="American Fugitive in Europe:  Sketches of Places and People Abroad (1855 Boston John P. Jewett edition)">
@@ -362,7 +362,7 @@
           <attvalue for="eigencentrality" value="0.014832726567148784"></attvalue>
         </attvalues>
         <viz:size value="12.593309"></viz:size>
-        <viz:position x="-609.3914" y="-538.23016"></viz:position>
+        <viz:position x="-711.261" y="-621.6359"></viz:position>
         <viz:color r="255" g="136" b="5"></viz:color>
       </node>
       <node id="http://wikibase.svc/entity/Q904" label="Life and Adventures of James P. Beckwourth (Harper &amp; Brothers 1856 Edition)">
@@ -383,7 +383,7 @@
           <attvalue for="eigencentrality" value="0.029665453134297567"></attvalue>
         </attvalues>
         <viz:size value="13.186618"></viz:size>
-        <viz:position x="1079.5126" y="-1111.5619"></viz:position>
+        <viz:position x="1315.4238" y="-1309.6339"></viz:position>
         <viz:color r="255" g="85" b="132"></viz:color>
       </node>
       <node id="http://wikibase.svc/entity/Q135" label="William Wells Brown">
@@ -404,7 +404,7 @@
           <attvalue for="eigencentrality" value="1.0"></attvalue>
         </attvalues>
         <viz:size value="52.0"></viz:size>
-        <viz:position x="-604.48254" y="-297.37967"></viz:position>
+        <viz:position x="-705.3703" y="-332.6153"></viz:position>
         <viz:color r="255" g="136" b="5"></viz:color>
       </node>
       <node id="http://wikibase.svc/entity/Q854" label="Life of Josiah Henson, Formerly a Slave (1851 London Gilpin edition)">
@@ -425,7 +425,7 @@
           <attvalue for="eigencentrality" value="0.014832726567148784"></attvalue>
         </attvalues>
         <viz:size value="12.593309"></viz:size>
-        <viz:position x="-516.263" y="-2025.1068"></viz:position>
+        <viz:position x="-599.50684" y="-2405.888"></viz:position>
         <viz:color r="0" g="189" b="148"></viz:color>
       </node>
       <node id="http://wikibase.svc/entity/Q901" label="Life and Adventures of James P. Beckwourth (Sampson Low 1856 Edition)">
@@ -446,7 +446,7 @@
           <attvalue for="eigencentrality" value="0.014832726567148784"></attvalue>
         </attvalues>
         <viz:size value="12.593309"></viz:size>
-        <viz:position x="829.49005" y="-876.28705"></viz:position>
+        <viz:position x="1015.3968" y="-1027.3042"></viz:position>
         <viz:color r="255" g="85" b="132"></viz:color>
       </node>
       <node id="http://wikibase.svc/entity/Q553" label="Autobiography, with Details of a Visit to England (1862 Philadelphia edition published by the author)">
@@ -467,7 +467,7 @@
           <attvalue for="eigencentrality" value="0.014832726567148784"></attvalue>
         </attvalues>
         <viz:size value="12.593309"></viz:size>
-        <viz:position x="-545.5497" y="-2746.4084"></viz:position>
+        <viz:position x="-634.6509" y="-3271.45"></viz:position>
         <viz:color r="192" g="192" b="192"></viz:color>
       </node>
       <node id="http://wikibase.svc/entity/Q214" label="Frederick Douglass">
@@ -488,7 +488,7 @@
           <attvalue for="eigencentrality" value="0.9537476541101844"></attvalue>
         </attvalues>
         <viz:size value="50.149906"></viz:size>
-        <viz:position x="-180.47243" y="462.43137"></viz:position>
+        <viz:position x="-196.55817" y="579.15796"></viz:position>
         <viz:color r="223" g="137" b="255"></viz:color>
       </node>
       <node id="http://wikibase.svc/entity/Q436" label="Incidents in the Life of the Rev. J. Asher (1850 London Gilpin edition)">
@@ -509,7 +509,7 @@
           <attvalue for="eigencentrality" value="0.0"></attvalue>
         </attvalues>
         <viz:size value="12.0"></viz:size>
-        <viz:position x="-514.6635" y="-2385.5073"></viz:position>
+        <viz:position x="-597.58746" y="-2838.3684"></viz:position>
         <viz:color r="0" g="189" b="148"></viz:color>
       </node>
       <node id="http://wikibase.svc/entity/Q456" label="Fugitive Blacksmith (1850 London Gilpin edition)">
@@ -530,7 +530,7 @@
           <attvalue for="eigencentrality" value="0.014832726567148784"></attvalue>
         </attvalues>
         <viz:size value="12.593309"></viz:size>
-        <viz:position x="-604.93915" y="-2235.1978"></viz:position>
+        <viz:position x="-705.9182" y="-2657.997"></viz:position>
         <viz:color r="0" g="189" b="148"></viz:color>
       </node>
       <node id="http://wikibase.svc/entity/Q210" label="Narrative of the Life of Frederick Douglass, an American Slave (work)">
@@ -551,7 +551,7 @@
           <attvalue for="eigencentrality" value="0.19258381655968426"></attvalue>
         </attvalues>
         <viz:size value="19.703352"></viz:size>
-        <viz:position x="-175.49991" y="745.5331"></viz:position>
+        <viz:position x="-190.59114" y="918.88"></viz:position>
         <viz:color r="223" g="137" b="255"></viz:color>
       </node>
       <node id="http://wikibase.svc/entity/Q630" label="William Lloyd Garrison">
@@ -572,7 +572,7 @@
           <attvalue for="eigencentrality" value="0.20741654312683305"></attvalue>
         </attvalues>
         <viz:size value="20.296661"></viz:size>
-        <viz:position x="-8.628859" y="733.8177"></viz:position>
+        <viz:position x="9.654113" y="904.82153"></viz:position>
         <viz:color r="223" g="137" b="255"></viz:color>
       </node>
       <node id="http://wikibase.svc/entity/Q899" label="Life and Adventures of James P. Beckwourth (work)">
@@ -593,7 +593,7 @@
           <attvalue for="eigencentrality" value="0.1777510899925351"></attvalue>
         </attvalues>
         <viz:size value="19.110043"></viz:size>
-        <viz:position x="1061.7445" y="-790.0492"></viz:position>
+        <viz:position x="1294.1022" y="-923.8187"></viz:position>
         <viz:color r="255" g="85" b="132"></viz:color>
       </node>
       <node id="http://wikibase.svc/entity/Q258" label="Wendell Phillips">
@@ -614,7 +614,7 @@
           <attvalue for="eigencentrality" value="0.19258381655968426"></attvalue>
         </attvalues>
         <viz:size value="19.703352"></viz:size>
-        <viz:position x="-383.10315" y="758.1252"></viz:position>
+        <viz:position x="-439.71503" y="933.99054"></viz:position>
         <viz:color r="223" g="137" b="255"></viz:color>
       </node>
       <node id="http://wikibase.svc/entity/Q265" label="Richard D. Webb">
@@ -635,7 +635,7 @@
           <attvalue for="eigencentrality" value="0.19258381655968426"></attvalue>
         </attvalues>
         <viz:size value="19.703352"></viz:size>
-        <viz:position x="-67.22858" y="1139.9128"></viz:position>
+        <viz:position x="-60.66555" y="1392.1357"></viz:position>
         <viz:color r="223" g="137" b="255"></viz:color>
       </node>
       <node id="http://wikibase.svc/entity/Q294" label="My Bondage and My Freedom (work)">
@@ -656,7 +656,7 @@
           <attvalue for="eigencentrality" value="0.12838921103978918"></attvalue>
         </attvalues>
         <viz:size value="17.135569"></viz:size>
-        <viz:position x="15.8300295" y="213.76613"></viz:position>
+        <viz:position x="39.00478" y="280.75964"></viz:position>
         <viz:color r="223" g="137" b="255"></viz:color>
       </node>
       <node id="http://wikibase.svc/entity/Q430" label="Jeremiah Asher">
@@ -677,7 +677,7 @@
           <attvalue for="eigencentrality" value="0.2733653148350964"></attvalue>
         </attvalues>
         <viz:size value="22.934612"></viz:size>
-        <viz:position x="-593.9831" y="-2618.9165"></viz:position>
+        <viz:position x="-692.771" y="-3118.4595"></viz:position>
         <viz:color r="192" g="192" b="192"></viz:color>
       </node>
       <node id="http://wikibase.svc/entity/Q357" label="Miller, Orton and Mulligan (organization)">
@@ -698,7 +698,7 @@
           <attvalue for="eigencentrality" value="0.19258381655968426"></attvalue>
         </attvalues>
         <viz:size value="19.703352"></viz:size>
-        <viz:position x="233.14516" y="-134.49715"></viz:position>
+        <viz:position x="299.78293" y="-137.15628"></viz:position>
         <viz:color r="0" g="196" b="255"></viz:color>
       </node>
       <node id="http://wikibase.svc/entity/Q447" label="Truth Stranger Than Fiction (work)">
@@ -719,7 +719,7 @@
           <attvalue for="eigencentrality" value="0.029665453134297567"></attvalue>
         </attvalues>
         <viz:size value="13.186618"></viz:size>
-        <viz:position x="-360.68628" y="-1225.2076"></viz:position>
+        <viz:position x="-412.8148" y="-1446.0089"></viz:position>
         <viz:color r="194" g="0" b="192"></viz:color>
       </node>
       <node id="http://wikibase.svc/entity/Q449" label="Charles Gilpin">
@@ -740,7 +740,7 @@
           <attvalue for="eigencentrality" value="0.14322193760693813"></attvalue>
         </attvalues>
         <viz:size value="17.728878"></viz:size>
-        <viz:position x="-465.52646" y="-2223.5208"></viz:position>
+        <viz:position x="-538.623" y="-2643.9846"></viz:position>
         <viz:color r="0" g="189" b="148"></viz:color>
       </node>
       <node id="http://wikibase.svc/entity/Q475" label="Harriet Beecher Stowe">
@@ -761,7 +761,7 @@
           <attvalue for="eigencentrality" value="0.3047849341577624"></attvalue>
         </attvalues>
         <viz:size value="24.191397"></viz:size>
-        <viz:position x="27.559757" y="-815.0651"></viz:position>
+        <viz:position x="53.080452" y="-953.8378"></viz:position>
         <viz:color r="0" g="196" b="255"></viz:color>
       </node>
       <node id="http://wikibase.svc/entity/Q536" label="American Fugitive in Europe:  Sketches of Places and People Abroad (Schomburg 914.2 B)">
@@ -782,7 +782,7 @@
           <attvalue for="eigencentrality" value="0.0"></attvalue>
         </attvalues>
         <viz:size value="12.0"></viz:size>
-        <viz:position x="-644.11926" y="-653.27844"></viz:position>
+        <viz:position x="-752.9344" y="-759.69385"></viz:position>
         <viz:color r="255" g="136" b="5"></viz:color>
       </node>
       <node id="http://wikibase.svc/entity/Q540" label="Narrative of the Life of Moses Grandy, Late a Slave in the United States of America (1844 Boston Oliver Johnson Edition)">
@@ -803,7 +803,7 @@
           <attvalue for="eigencentrality" value="0.014832726567148784"></attvalue>
         </attvalues>
         <viz:size value="12.593309"></viz:size>
-        <viz:position x="195.56245" y="2487.4158"></viz:position>
+        <viz:position x="254.68369" y="3009.1392"></viz:position>
         <viz:color r="82" g="255" b="213"></viz:color>
       </node>
       <node id="http://wikibase.svc/entity/Q523" label="Narrative of the Life of Moses Grandy, Late a Slave in the United States of America (work)">
@@ -824,7 +824,7 @@
           <attvalue for="eigencentrality" value="0.06419460551989462"></attvalue>
         </attvalues>
         <viz:size value="14.567784"></viz:size>
-        <viz:position x="237.80708" y="2363.3643"></viz:position>
+        <viz:position x="305.37723" y="2860.2773"></viz:position>
         <viz:color r="82" g="255" b="213"></viz:color>
       </node>
       <node id="http://wikibase.svc/entity/Q879" label="Twelve Years A Slave (work)">
@@ -845,7 +845,7 @@
           <attvalue for="eigencentrality" value="0.12838921103978918"></attvalue>
         </attvalues>
         <viz:size value="17.135569"></viz:size>
-        <viz:position x="433.67044" y="-591.06464"></viz:position>
+        <viz:position x="540.41327" y="-685.0373"></viz:position>
         <viz:color r="0" g="196" b="255"></viz:color>
       </node>
       <node id="http://wikibase.svc/entity/Q115" label="Narrative of William W. Brown, A Fugitive Slave (work)">
@@ -866,7 +866,7 @@
           <attvalue for="eigencentrality" value="0.1777510899925351"></attvalue>
         </attvalues>
         <viz:size value="19.110043"></viz:size>
-        <viz:position x="-876.6342" y="-245.3311"></viz:position>
+        <viz:position x="-1031.9523" y="-270.157"></viz:position>
         <viz:color r="255" g="136" b="5"></viz:color>
       </node>
       <node id="http://wikibase.svc/entity/Q460" label="John P. Jewett and Company (organization)">
@@ -887,7 +887,7 @@
           <attvalue for="eigencentrality" value="0.14322193760693813"></attvalue>
         </attvalues>
         <viz:size value="17.728878"></viz:size>
-        <viz:position x="-457.75555" y="-810.3618"></viz:position>
+        <viz:position x="-529.2979" y="-948.1939"></viz:position>
         <viz:color r="194" g="0" b="192"></viz:color>
       </node>
       <node id="http://wikibase.svc/entity/Q827" label="William G. Allen">
@@ -908,7 +908,7 @@
           <attvalue for="eigencentrality" value="0.3541468131105085"></attvalue>
         </attvalues>
         <viz:size value="26.165873"></viz:size>
-        <viz:position x="28.815525" y="1782.6132"></viz:position>
+        <viz:position x="54.58737" y="2163.376"></viz:position>
         <viz:color r="255" g="188" b="133"></viz:color>
       </node>
       <node id="http://wikibase.svc/entity/Q898" label="T. D. Bonner">
@@ -929,7 +929,7 @@
           <attvalue for="eigencentrality" value="0.5336520692914128"></attvalue>
         </attvalues>
         <viz:size value="33.346085"></viz:size>
-        <viz:position x="974.04865" y="-967.9693"></viz:position>
+        <viz:position x="1188.8671" y="-1137.3229"></viz:position>
         <viz:color r="255" g="85" b="132"></viz:color>
       </node>
       <node id="http://wikibase.svc/entity/Q264" label="James Haughton">
@@ -950,7 +950,7 @@
           <attvalue for="eigencentrality" value="0.12838921103978918"></attvalue>
         </attvalues>
         <viz:size value="17.135569"></viz:size>
-        <viz:position x="-163.44145" y="934.35675"></viz:position>
+        <viz:position x="-176.121" y="1145.4684"></viz:position>
         <viz:color r="223" g="137" b="255"></viz:color>
       </node>
       <node id="http://wikibase.svc/entity/Q427" label="Incidents in the Life of the Rev. J. Asher (work)">
@@ -971,7 +971,7 @@
           <attvalue for="eigencentrality" value="0.014832726567148784"></attvalue>
         </attvalues>
         <viz:size value="12.593309"></viz:size>
-        <viz:position x="-562.3648" y="-2487.5522"></viz:position>
+        <viz:position x="-654.82904" y="-2960.8225"></viz:position>
         <viz:color r="0" g="189" b="148"></viz:color>
       </node>
       <node id="http://wikibase.svc/entity/Q371" label="James McCune Smith">
@@ -992,7 +992,7 @@
           <attvalue for="eigencentrality" value="0.12838921103978918"></attvalue>
         </attvalues>
         <viz:size value="17.135569"></viz:size>
-        <viz:position x="189.28784" y="32.09804"></viz:position>
+        <viz:position x="247.15416" y="62.75795"></viz:position>
         <viz:color r="248" g="255" b="112"></viz:color>
       </node>
       <node id="http://wikibase.svc/entity/Q393" label="My Bondage and My Freedom (Sc Rare B-Douglass (Douglass, F. My bondage and my freedom. 1855))">
@@ -1013,7 +1013,7 @@
           <attvalue for="eigencentrality" value="0.0"></attvalue>
         </attvalues>
         <viz:size value="12.0"></viz:size>
-        <viz:position x="457.70267" y="244.65091"></viz:position>
+        <viz:position x="569.25195" y="317.82138"></viz:position>
         <viz:color r="248" g="255" b="112"></viz:color>
       </node>
       <node id="http://wikibase.svc/entity/Q387" label="Nathaniel Orr (1822-1908)">
@@ -1034,7 +1034,7 @@
           <attvalue for="eigencentrality" value="0.28995220759061363"></attvalue>
         </attvalues>
         <viz:size value="23.59809"></viz:size>
-        <viz:position x="459.91028" y="-30.393593"></viz:position>
+        <viz:position x="571.90106" y="-12.232011"></viz:position>
         <viz:color r="248" g="255" b="112"></viz:color>
       </node>
       <node id="http://wikibase.svc/entity/Q448" label="Fugitive Blacksmith (work)">
@@ -1055,7 +1055,7 @@
           <attvalue for="eigencentrality" value="0.06419460551989462"></attvalue>
         </attvalues>
         <viz:size value="14.567784"></viz:size>
-        <viz:position x="-773.8902" y="-2317.201"></viz:position>
+        <viz:position x="-908.6595" y="-2756.401"></viz:position>
         <viz:color r="0" g="189" b="148"></viz:color>
       </node>
       <node id="http://wikibase.svc/entity/Q446" label="James W.C. Pennington">
@@ -1076,7 +1076,7 @@
           <attvalue for="eigencentrality" value="0.20917070931520157"></attvalue>
         </attvalues>
         <viz:size value="20.366829"></viz:size>
-        <viz:position x="-637.9237" y="-2357.0881"></viz:position>
+        <viz:position x="-745.4997" y="-2804.2654"></viz:position>
         <viz:color r="0" g="189" b="148"></viz:color>
       </node>
       <node id="http://wikibase.svc/entity/Q450" label="Josiah Henson">
@@ -1097,7 +1097,7 @@
           <attvalue for="eigencentrality" value="0.25853258826794734"></attvalue>
         </attvalues>
         <viz:size value="22.341303"></viz:size>
-        <viz:position x="-411.66174" y="-1575.0433"></viz:position>
+        <viz:position x="-473.98535" y="-1865.8116"></viz:position>
         <viz:color r="0" g="189" b="148"></viz:color>
       </node>
       <node id="http://wikibase.svc/entity/Q461" label="Three Years in Europe; or, Places I have Seen and People I have Met (work)">
@@ -1118,7 +1118,7 @@
           <attvalue for="eigencentrality" value="0.06419460551989462"></attvalue>
         </attvalues>
         <viz:size value="14.567784"></viz:size>
-        <viz:position x="-803.7898" y="-463.36868"></viz:position>
+        <viz:position x="-944.539" y="-531.8021"></viz:position>
         <viz:color r="255" g="136" b="5"></viz:color>
       </node>
       <node id="http://wikibase.svc/entity/Q483" label="Truth Stranger Than Fiction: Father Henson's Story of His Own Life (Schomburg Sc Rare 326.92-H (Henson, J. Truth stranger than fiction. 1858) copy)">
@@ -1139,7 +1139,7 @@
           <attvalue for="eigencentrality" value="0.0"></attvalue>
         </attvalues>
         <viz:size value="12.0"></viz:size>
-        <viz:position x="-353.21704" y="-1341.913"></viz:position>
+        <viz:position x="-403.8517" y="-1586.0553"></viz:position>
         <viz:color r="194" g="0" b="192"></viz:color>
       </node>
       <node id="http://wikibase.svc/entity/Q480" label="American Fugitive in Europe:  Sketches of Places and People Abroad (work)">
@@ -1160,7 +1160,7 @@
           <attvalue for="eigencentrality" value="0.06419460551989462"></attvalue>
         </attvalues>
         <viz:size value="14.567784"></viz:size>
-        <viz:position x="-715.6235" y="-510.81866"></viz:position>
+        <viz:position x="-838.73944" y="-588.7421"></viz:position>
         <viz:color r="255" g="136" b="5"></viz:color>
       </node>
       <node id="http://wikibase.svc/entity/Q548" label="Autobiography, with Details of a Visit to England (work)">
@@ -1181,7 +1181,7 @@
           <attvalue for="eigencentrality" value="0.06419460551989462"></attvalue>
         </attvalues>
         <viz:size value="14.567784"></viz:size>
-        <viz:position x="-659.58545" y="-2758.119"></viz:position>
+        <viz:position x="-771.4938" y="-3285.5024"></viz:position>
         <viz:color r="192" g="192" b="192"></viz:color>
       </node>
       <node id="http://wikibase.svc/entity/Q539" label="George Thompson">
@@ -1202,7 +1202,7 @@
           <attvalue for="eigencentrality" value="0.20917070931520157"></attvalue>
         </attvalues>
         <viz:size value="20.366829"></viz:size>
-        <viz:position x="142.26698" y="2269.983"></viz:position>
+        <viz:position x="190.72913" y="2748.2197"></viz:position>
         <viz:color r="82" g="255" b="213"></viz:color>
       </node>
       <node id="http://wikibase.svc/entity/Q715" label="Narrative of the Life of Frederick Douglass, an American Slave (Schomburg Sc Rare B-Douglass copy)">
@@ -1223,7 +1223,7 @@
           <attvalue for="eigencentrality" value="0.0"></attvalue>
         </attvalues>
         <viz:size value="12.0"></viz:size>
-        <viz:position x="-276.66885" y="957.59406"></viz:position>
+        <viz:position x="-311.9939" y="1173.3531"></viz:position>
         <viz:color r="223" g="137" b="255"></viz:color>
       </node>
       <node id="http://wikibase.svc/entity/Q884" label="Twelve Years A Slave (Schomburg SC Rare C 89-34 copy)">
@@ -1244,7 +1244,7 @@
           <attvalue for="eigencentrality" value="0.0"></attvalue>
         </attvalues>
         <viz:size value="12.0"></viz:size>
-        <viz:position x="342.20636" y="-356.9186"></viz:position>
+        <viz:position x="430.65637" y="-404.06204"></viz:position>
         <viz:color r="0" g="196" b="255"></viz:color>
       </node>
       <node id="http://wikibase.svc/entity/Q883" label="David Wilson">
@@ -1265,7 +1265,7 @@
           <attvalue for="eigencentrality" value="0.12838921103978918"></attvalue>
         </attvalues>
         <viz:size value="17.135569"></viz:size>
-        <viz:position x="300.50443" y="-559.4663"></viz:position>
+        <viz:position x="380.61404" y="-647.11926"></viz:position>
         <viz:color r="0" g="196" b="255"></viz:color>
       </node>
       <node id="http://wikibase.svc/entity/Q889" label="Sampson, Low, Son, and Company">
@@ -1286,7 +1286,7 @@
           <attvalue for="eigencentrality" value="0.12838921103978918"></attvalue>
         </attvalues>
         <viz:size value="17.135569"></viz:size>
-        <viz:position x="677.14294" y="-812.63403"></viz:position>
+        <viz:position x="832.58026" y="-950.92053"></viz:position>
         <viz:color r="255" g="85" b="132"></viz:color>
       </node>
       <node id="http://wikibase.svc/entity/Q947" label="American Prejudice Against Color (work)">
@@ -1307,7 +1307,7 @@
           <attvalue for="eigencentrality" value="0.06419460551989462"></attvalue>
         </attvalues>
         <viz:size value="14.567784"></viz:size>
-        <viz:position x="62.85264" y="1931.2189"></viz:position>
+        <viz:position x="95.43191" y="2341.703"></viz:position>
         <viz:color r="255" g="188" b="133"></viz:color>
       </node>
       <node id="http://wikibase.svc/entity/Q250" label="Webb and Chapman (organization)">
@@ -1328,7 +1328,7 @@
           <attvalue for="eigencentrality" value="0.12838921103978918"></attvalue>
         </attvalues>
         <viz:size value="17.135569"></viz:size>
-        <viz:position x="-207.76445" y="1066.3556"></viz:position>
+        <viz:position x="-229.3086" y="1303.8671"></viz:position>
         <viz:color r="223" g="137" b="255"></viz:color>
       </node>
       <node id="http://wikibase.svc/entity/Q153" label="Boston Anti-Slavery Society (organization)">
@@ -1349,7 +1349,7 @@
           <attvalue for="eigencentrality" value="0.1777510899925351"></attvalue>
         </attvalues>
         <viz:size value="19.110043"></viz:size>
-        <viz:position x="-542.70544" y="339.26263"></viz:position>
+        <viz:position x="-631.2378" y="431.35547"></viz:position>
         <viz:color r="223" g="137" b="255"></viz:color>
       </node>
       <node id="http://wikibase.svc/entity/Q162" label="Edmund Quincy">
@@ -1370,7 +1370,7 @@
           <attvalue for="eigencentrality" value="0.1777510899925351"></attvalue>
         </attvalues>
         <viz:size value="19.110043"></viz:size>
-        <viz:position x="-1017.3768" y="-1.9422938"></viz:position>
+        <viz:position x="-1200.8434" y="21.909548"></viz:position>
         <viz:color r="76" g="70" b="62"></viz:color>
       </node>
       <node id="http://wikibase.svc/entity/Q164" label="J.C. Hathaway">
@@ -1391,7 +1391,7 @@
           <attvalue for="eigencentrality" value="0.1777510899925351"></attvalue>
         </attvalues>
         <viz:size value="19.110043"></viz:size>
-        <viz:position x="-883.02954" y="-73.26003"></viz:position>
+        <viz:position x="-1039.6267" y="-63.671738"></viz:position>
         <viz:color r="76" g="70" b="62"></viz:color>
       </node>
       <node id="http://wikibase.svc/entity/Q171" label="Narrative of William W. Brown, A Fugitive Slave. (Sterling Cb77 7qb copy)">
@@ -1412,7 +1412,7 @@
           <attvalue for="eigencentrality" value="0.0"></attvalue>
         </attvalues>
         <viz:size value="12.0"></viz:size>
-        <viz:position x="-986.3561" y="126.4048"></viz:position>
+        <viz:position x="-1163.6185" y="175.92606"></viz:position>
         <viz:color r="76" g="70" b="62"></viz:color>
       </node>
       <node id="http://wikibase.svc/entity/Q586" label="Autobiography, with Details of a Visit to England (Schomburg Sc-Rare B-Asher copy)">
@@ -1433,7 +1433,7 @@
           <attvalue for="eigencentrality" value="0.0"></attvalue>
         </attvalues>
         <viz:size value="12.0"></viz:size>
-        <viz:position x="-662.9692" y="-2875.236"></viz:position>
+        <viz:position x="-775.55426" y="-3426.043"></viz:position>
         <viz:color r="192" g="192" b="192"></viz:color>
       </node>
       <node id="http://wikibase.svc/entity/Q853" label="Life of Josiah Henson, Formerly a Slave (work)">
@@ -1454,7 +1454,7 @@
           <attvalue for="eigencentrality" value="0.06419460551989462"></attvalue>
         </attvalues>
         <viz:size value="14.567784"></viz:size>
-        <viz:position x="-462.3331" y="-1801.1238"></viz:position>
+        <viz:position x="-534.79095" y="-2137.1082"></viz:position>
         <viz:color r="0" g="189" b="148"></viz:color>
       </node>
       <node id="http://wikibase.svc/entity/Q1122" label="Life and Adventure of James P. Beckwourth (NYHS CT.B3976 A3 copy)">
@@ -1475,7 +1475,7 @@
           <attvalue for="eigencentrality" value="0.0"></attvalue>
         </attvalues>
         <viz:size value="12.0"></viz:size>
-        <viz:position x="1166.9124" y="-1188.6603"></viz:position>
+        <viz:position x="1420.3036" y="-1402.152"></viz:position>
         <viz:color r="255" g="85" b="132"></viz:color>
       </node>
       <node id="http://wikibase.svc/entity/Q1117" label="Life and Adventures of James P. Beckwourth, Mountaineer, Scout, and Pioneer, and Chief of the Crow Nation of Indians (work)">
@@ -1496,7 +1496,7 @@
           <attvalue for="eigencentrality" value="0.0"></attvalue>
         </attvalues>
         <viz:size value="12.0"></viz:size>
-        <viz:position x="1244.7057" y="-994.98804"></viz:position>
+        <viz:position x="1513.6555" y="-1169.7454"></viz:position>
         <viz:color r="255" g="85" b="132"></viz:color>
       </node>
       <node id="http://wikibase.svc/entity/Q402" label="Narrative of William W. Brown, A Fugitive Slave (Schomburg 326.92-B)">
@@ -1517,7 +1517,7 @@
           <attvalue for="eigencentrality" value="0.0"></attvalue>
         </attvalues>
         <viz:size value="12.0"></viz:size>
-        <viz:position x="-1161.2506" y="-14.404855"></viz:position>
+        <viz:position x="-1373.492" y="6.954475"></viz:position>
         <viz:color r="76" g="70" b="62"></viz:color>
       </node>
       <node id="http://wikibase.svc/entity/Q828" label="A Short Personal Narrative">
@@ -1538,7 +1538,7 @@
           <attvalue for="eigencentrality" value="0.06419460551989462"></attvalue>
         </attvalues>
         <viz:size value="14.567784"></viz:size>
-        <viz:position x="0.6980989" y="1637.4882"></viz:position>
+        <viz:position x="20.846462" y="1989.2261"></viz:position>
         <viz:color r="255" g="188" b="133"></viz:color>
       </node>
       <node id="http://wikibase.svc/entity/Q882" label="Frederick Coffin">
@@ -1559,7 +1559,7 @@
           <attvalue for="eigencentrality" value="0.12838921103978918"></attvalue>
         </attvalues>
         <viz:size value="17.135569"></viz:size>
-        <viz:position x="256.32822" y="-695.71173"></viz:position>
+        <viz:position x="327.6026" y="-810.6138"></viz:position>
         <viz:color r="0" g="196" b="255"></viz:color>
       </node>
       <node id="http://wikibase.svc/entity/Q897" label="James P. Beckwourth">
@@ -1580,7 +1580,7 @@
           <attvalue for="eigencentrality" value="0.37073370586602616"></attvalue>
         </attvalues>
         <viz:size value="26.82935"></viz:size>
-        <viz:position x="1219.0277" y="-844.8649"></viz:position>
+        <viz:position x="1482.842" y="-989.5976"></viz:position>
         <viz:color r="255" g="85" b="132"></viz:color>
       </node>
       <node id="http://wikibase.svc/entity/Q902" label="Harper and Brothers">
@@ -1601,7 +1601,7 @@
           <attvalue for="eigencentrality" value="0.1777510899925351"></attvalue>
         </attvalues>
         <viz:size value="19.110043"></viz:size>
-        <viz:position x="840.0151" y="-1126.9805"></viz:position>
+        <viz:position x="1028.0269" y="-1328.1362"></viz:position>
         <viz:color r="255" g="85" b="132"></viz:color>
       </node>
       <node id="http://wikibase.svc/entity/statement/Q335-3fa37788-48ff-63a0-1620-b0121c4d2fe0" label="plate">
@@ -1622,7 +1622,7 @@
           <attvalue for="eigencentrality" value="0.06419460551989462"></attvalue>
         </attvalues>
         <viz:size value="14.567784"></viz:size>
-        <viz:position x="356.99783" y="96.95269"></viz:position>
+        <viz:position x="448.40613" y="140.58353"></viz:position>
         <viz:color r="248" g="255" b="112"></viz:color>
       </node>
       <node id="http://wikibase.svc/entity/statement/Q335-401d8429-4eff-a8e2-bed0-bb95456ca799" label="plate">
@@ -1643,7 +1643,7 @@
           <attvalue for="eigencentrality" value="0.06419460551989462"></attvalue>
         </attvalues>
         <viz:size value="14.567784"></viz:size>
-        <viz:position x="313.52615" y="-6.399534"></viz:position>
+        <viz:position x="396.2401" y="16.56086"></viz:position>
         <viz:color r="248" g="255" b="112"></viz:color>
       </node>
       <node id="http://wikibase.svc/entity/statement/Q335-8f86b79e-40a4-4407-6f7c-de48b6b38097" label="frontispiece">
@@ -1664,7 +1664,7 @@
           <attvalue for="eigencentrality" value="0.06419460551989462"></attvalue>
         </attvalues>
         <viz:size value="14.567784"></viz:size>
-        <viz:position x="358.0856" y="209.06308"></viz:position>
+        <viz:position x="449.71146" y="275.116"></viz:position>
         <viz:color r="248" g="255" b="112"></viz:color>
       </node>
       <node id="http://wikibase.svc/entity/statement/Q426-310ed43a-4216-718a-60c3-7ed9ce5e0df0" label="statement">
@@ -1685,7 +1685,7 @@
           <attvalue for="eigencentrality" value="0.06419460551989462"></attvalue>
         </attvalues>
         <viz:size value="14.567784"></viz:size>
-        <viz:position x="-363.36072" y="583.0492"></viz:position>
+        <viz:position x="-416.0241" y="723.89935"></viz:position>
         <viz:color r="223" g="137" b="255"></viz:color>
       </node>
       <node id="http://wikibase.svc/entity/statement/Q457-33604f8e-4805-27e7-9995-336b110d0a99" label="statement">
@@ -1706,7 +1706,7 @@
           <attvalue for="eigencentrality" value="0.014832726567148784"></attvalue>
         </attvalues>
         <viz:size value="12.593309"></viz:size>
-        <viz:position x="-336.71188" y="-858.54095"></viz:position>
+        <viz:position x="-384.04553" y="-1006.00885"></viz:position>
         <viz:color r="194" g="0" b="192"></viz:color>
       </node>
       <node id="http://wikibase.svc/entity/statement/Q457-e7ca2e87-4009-6a3c-7f86-53615a1576c5" label="frontispiece">
@@ -1727,7 +1727,7 @@
           <attvalue for="eigencentrality" value="0.014832726567148784"></attvalue>
         </attvalues>
         <viz:size value="12.593309"></viz:size>
-        <viz:position x="-246.05693" y="-1059.8904"></viz:position>
+        <viz:position x="-275.25958" y="-1247.6282"></viz:position>
         <viz:color r="194" g="0" b="192"></viz:color>
       </node>
       <node id="http://wikibase.svc/entity/statement/Q886-4a030ad5-4754-a2f8-c2ad-399143253375" label="statement">
@@ -1748,7 +1748,7 @@
           <attvalue for="eigencentrality" value="0.06419460551989462"></attvalue>
         </attvalues>
         <viz:size value="14.567784"></viz:size>
-        <viz:position x="173.64134" y="-838.783"></viz:position>
+        <viz:position x="228.37836" y="-982.2993"></viz:position>
         <viz:color r="0" g="196" b="255"></viz:color>
       </node>
       <node id="http://wikibase.svc/entity/statement/Q1122-ec28e617-4107-e49e-f3d9-b0e993fcf904" label="bookplate">
@@ -1769,7 +1769,7 @@
           <attvalue for="eigencentrality" value="0.014832726567148784"></attvalue>
         </attvalues>
         <viz:size value="12.593309"></viz:size>
-        <viz:position x="1231.7089" y="-1097.0045"></viz:position>
+        <viz:position x="1498.0593" y="-1292.1652"></viz:position>
         <viz:color r="255" g="85" b="132"></viz:color>
       </node>
       <node id="http://wikibase.svc/entity/statement/Q1158-c0446bc3-4f50-05f0-ea7e-cf7b3aeb7869" label="frontispiece">
@@ -1790,7 +1790,7 @@
           <attvalue for="eigencentrality" value="0.06419460551989462"></attvalue>
         </attvalues>
         <viz:size value="14.567784"></viz:size>
-        <viz:position x="167.53383" y="208.3627"></viz:position>
+        <viz:position x="221.04933" y="274.27554"></viz:position>
         <viz:color r="248" g="255" b="112"></viz:color>
       </node>
       <node id="http://wikibase.svc/entity/statement/Q118-1e8ab067-4dad-97ce-5563-0df97f52016b" label="statement">
@@ -1811,7 +1811,7 @@
           <attvalue for="eigencentrality" value="0.11355648447264048"></attvalue>
         </attvalues>
         <viz:size value="16.54226"></viz:size>
-        <viz:position x="-813.60834" y="209.14279"></viz:position>
+        <viz:position x="-956.3213" y="275.21164"></viz:position>
         <viz:color r="76" g="70" b="62"></viz:color>
       </node>
       <node id="http://wikibase.svc/entity/statement/Q118-bc333ce4-4e33-1ad6-833d-eb6e9c0bf56d" label="statement">
@@ -1832,7 +1832,7 @@
           <attvalue for="eigencentrality" value="0.11355648447264048"></attvalue>
         </attvalues>
         <viz:size value="16.54226"></viz:size>
-        <viz:position x="-742.4549" y="-100.94756"></viz:position>
+        <viz:position x="-870.93713" y="-96.896774"></viz:position>
         <viz:color r="255" g="136" b="5"></viz:color>
       </node>
       <node id="http://wikibase.svc/entity/statement/Q171-8cf4e2a5-480a-045b-11a2-a0d9f12297a2" label="bookplate">
@@ -1853,7 +1853,7 @@
           <attvalue for="eigencentrality" value="0.014832726567148784"></attvalue>
         </attvalues>
         <viz:size value="12.593309"></viz:size>
-        <viz:position x="-941.32385" y="216.78387"></viz:position>
+        <viz:position x="-1109.5798" y="284.38095"></viz:position>
         <viz:color r="76" g="70" b="62"></viz:color>
       </node>
       <node id="http://wikibase.svc/entity/statement/Q393-cfc67e3d-4493-2c81-c4c7-fe933cb27b4d" label="autograph">
@@ -1874,7 +1874,7 @@
           <attvalue for="eigencentrality" value="0.014832726567148784"></attvalue>
         </attvalues>
         <viz:size value="12.593309"></viz:size>
-        <viz:position x="460.62244" y="140.40804"></viz:position>
+        <viz:position x="572.7557" y="192.72995"></viz:position>
         <viz:color r="248" g="255" b="112"></viz:color>
       </node>
       <node id="http://wikibase.svc/entity/statement/Q715-7eaf056a-4e2d-a5bb-17da-35117fcfb93f" label="autograph">
@@ -1895,7 +1895,7 @@
           <attvalue for="eigencentrality" value="0.014832726567148784"></attvalue>
         </attvalues>
         <viz:size value="12.593309"></viz:size>
-        <viz:position x="-362.4566" y="1013.3216"></viz:position>
+        <viz:position x="-414.93918" y="1240.2262"></viz:position>
         <viz:color r="223" g="137" b="255"></viz:color>
       </node>
       <node id="http://wikibase.svc/entity/statement/Q881-aa53b9ee-4792-1adb-ecb7-6e2d8f1d8677" label="statement">
@@ -1916,7 +1916,7 @@
           <attvalue for="eigencentrality" value="0.06419460551989462"></attvalue>
         </attvalues>
         <viz:size value="14.567784"></viz:size>
-        <viz:position x="122.43268" y="-651.9484"></viz:position>
+        <viz:position x="166.92796" y="-758.09784"></viz:position>
         <viz:color r="0" g="196" b="255"></viz:color>
       </node>
       <node id="http://wikibase.svc/entity/Q263" label="Hibernian Anti-Slavery Society (organization)">
@@ -1937,7 +1937,7 @@
           <attvalue for="eigencentrality" value="0.06419460551989462"></attvalue>
         </attvalues>
         <viz:size value="14.567784"></viz:size>
-        <viz:position x="142.69699" y="962.5153"></viz:position>
+        <viz:position x="191.24513" y="1179.2587"></viz:position>
         <viz:color r="223" g="137" b="255"></viz:color>
       </node>
       <node id="http://wikibase.svc/entity/Q282" label="Henry Swan">
@@ -1958,7 +1958,7 @@
           <attvalue for="eigencentrality" value="0.06419460551989462"></attvalue>
         </attvalues>
         <viz:size value="14.567784"></viz:size>
-        <viz:position x="11.356342" y="974.7987"></viz:position>
+        <viz:position x="33.636353" y="1193.9988"></viz:position>
         <viz:color r="223" g="137" b="255"></viz:color>
       </node>
       <node id="http://wikibase.svc/entity/Q288" label="Narrative of the Life of Frederick Douglass, an American Slave (Beinecke JWJ Zan D747 845nc)">
@@ -1979,7 +1979,7 @@
           <attvalue for="eigencentrality" value="0.0"></attvalue>
         </attvalues>
         <viz:size value="12.0"></viz:size>
-        <viz:position x="-86.03339" y="1022.22375"></viz:position>
+        <viz:position x="-83.23132" y="1250.9088"></viz:position>
         <viz:color r="223" g="137" b="255"></viz:color>
       </node>
       <node id="http://wikibase.svc/entity/Q397" label="John Peterson">
@@ -2000,7 +2000,7 @@
           <attvalue for="eigencentrality" value="0.06419460551989462"></attvalue>
         </attvalues>
         <viz:size value="14.567784"></viz:size>
-        <viz:position x="574.4474" y="84.734"></viz:position>
+        <viz:position x="709.3456" y="125.921104"></viz:position>
         <viz:color r="248" g="255" b="112"></viz:color>
       </node>
       <node id="http://wikibase.svc/entity/Q384" label="John Chester Buttre">
@@ -2021,7 +2021,7 @@
           <attvalue for="eigencentrality" value="0.14497610379530687"></attvalue>
         </attvalues>
         <viz:size value="17.799046"></viz:size>
-        <viz:position x="263.98145" y="291.02545"></viz:position>
+        <viz:position x="336.78647" y="373.47086"></viz:position>
         <viz:color r="248" g="255" b="112"></viz:color>
       </node>
       <node id="http://wikibase.svc/entity/Q466" label="Wilson Armistead">
@@ -2042,7 +2042,7 @@
           <attvalue for="eigencentrality" value="0.014832726567148784"></attvalue>
         </attvalues>
         <viz:size value="12.593309"></viz:size>
-        <viz:position x="-452.8139" y="-2477.2664"></viz:position>
+        <viz:position x="-523.3679" y="-2948.4792"></viz:position>
         <viz:color r="0" g="189" b="148"></viz:color>
       </node>
       <node id="http://wikibase.svc/entity/Q473" label="Narrative of the Life of Frederick Douglass, An American Slave (Schomburg Sc Rare B-Douglass copy)">
@@ -2063,7 +2063,7 @@
           <attvalue for="eigencentrality" value="0.0"></attvalue>
         </attvalues>
         <viz:size value="12.0"></viz:size>
-        <viz:position x="-401.83282" y="484.99643"></viz:position>
+        <viz:position x="-462.19064" y="606.236"></viz:position>
         <viz:color r="223" g="137" b="255"></viz:color>
       </node>
       <node id="http://wikibase.svc/entity/Q482" label="Fugitive Blacksmith (Schomburg SC Rare 326.92-P copy)">
@@ -2084,7 +2084,7 @@
           <attvalue for="eigencentrality" value="0.0"></attvalue>
         </attvalues>
         <viz:size value="12.0"></viz:size>
-        <viz:position x="-707.01996" y="-2193.165"></viz:position>
+        <viz:position x="-828.4152" y="-2607.5579"></viz:position>
         <viz:color r="0" g="189" b="148"></viz:color>
       </node>
       <node id="http://wikibase.svc/entity/Q465" label="Henry P. B. Jewett">
@@ -2105,7 +2105,7 @@
           <attvalue for="eigencentrality" value="0.014832726567148784"></attvalue>
         </attvalues>
         <viz:size value="12.593309"></viz:size>
-        <viz:position x="-385.2033" y="-970.85736"></viz:position>
+        <viz:position x="-442.23523" y="-1140.7886"></viz:position>
         <viz:color r="194" g="0" b="192"></viz:color>
       </node>
       <node id="http://wikibase.svc/entity/Q469" label="William Farmer">
@@ -2126,7 +2126,7 @@
           <attvalue for="eigencentrality" value="0.06419460551989462"></attvalue>
         </attvalues>
         <viz:size value="14.567784"></viz:size>
-        <viz:position x="-1006.5926" y="-317.0491"></viz:position>
+        <viz:position x="-1187.9023" y="-356.21863"></viz:position>
         <viz:color r="255" g="136" b="5"></viz:color>
       </node>
       <node id="http://wikibase.svc/entity/Q481" label="Francis O. Freeman">
@@ -2147,7 +2147,7 @@
           <attvalue for="eigencentrality" value="0.06419460551989462"></attvalue>
         </attvalues>
         <viz:size value="14.567784"></viz:size>
-        <viz:position x="-266.58557" y="-1166.4105"></viz:position>
+        <viz:position x="-299.89395" y="-1375.4523"></viz:position>
         <viz:color r="194" g="0" b="192"></viz:color>
       </node>
       <node id="http://wikibase.svc/entity/Q486" label="Oliver and Boyd (organization)">
@@ -2168,7 +2168,7 @@
           <attvalue for="eigencentrality" value="0.06419460551989462"></attvalue>
         </attvalues>
         <viz:size value="14.567784"></viz:size>
-        <viz:position x="-1015.7413" y="-580.1353"></viz:position>
+        <viz:position x="-1198.8807" y="-671.92206"></viz:position>
         <viz:color r="255" g="136" b="5"></viz:color>
       </node>
       <node id="http://wikibase.svc/entity/Q492" label="Richard Woodman">
@@ -2189,7 +2189,7 @@
           <attvalue for="eigencentrality" value="0.06419460551989462"></attvalue>
         </attvalues>
         <viz:size value="14.567784"></viz:size>
-        <viz:position x="-858.01605" y="-592.83405"></viz:position>
+        <viz:position x="-1009.61053" y="-687.1606"></viz:position>
         <viz:color r="255" g="136" b="5"></viz:color>
       </node>
       <node id="http://wikibase.svc/entity/Q530" label="Moses Grandy">
@@ -2210,7 +2210,7 @@
           <attvalue for="eigencentrality" value="0.14497610379530687"></attvalue>
         </attvalues>
         <viz:size value="17.799046"></viz:size>
-        <viz:position x="98.62935" y="2421.7996"></viz:position>
+        <viz:position x="138.36397" y="2930.3997"></viz:position>
         <viz:color r="82" g="255" b="213"></viz:color>
       </node>
       <node id="http://wikibase.svc/entity/Q547" label="Oliver Johnson">
@@ -2231,7 +2231,7 @@
           <attvalue for="eigencentrality" value="0.06419460551989462"></attvalue>
         </attvalues>
         <viz:size value="14.567784"></viz:size>
-        <viz:position x="303.57242" y="2522.9148"></viz:position>
+        <viz:position x="384.29565" y="3051.738"></viz:position>
         <viz:color r="82" g="255" b="213"></viz:color>
       </node>
       <node id="http://wikibase.svc/entity/Q515" label="Three Years in Europe; or, Places I Have Seen and People I Have Met (Schomburg Center Rare 914.2-B copy)">
@@ -2252,7 +2252,7 @@
           <attvalue for="eigencentrality" value="0.0"></attvalue>
         </attvalues>
         <viz:size value="12.0"></viz:size>
-        <viz:position x="-1048.0321" y="-444.59418"></viz:position>
+        <viz:position x="-1237.6298" y="-509.2727"></viz:position>
         <viz:color r="255" g="136" b="5"></viz:color>
       </node>
       <node id="http://wikibase.svc/entity/Q556" label="Narrative of the Life of Moses Grandy, Late a Slave in the United States of America (Sc Rare 326.92-G (Grandy, M. Narrative of the life of Moses Grandy))">
@@ -2273,7 +2273,7 @@
           <attvalue for="eigencentrality" value="0.0"></attvalue>
         </attvalues>
         <viz:size value="12.0"></viz:size>
-        <viz:position x="126.18539" y="2558.4517"></viz:position>
+        <viz:position x="171.43121" y="3094.3823"></viz:position>
         <viz:color r="82" g="255" b="213"></viz:color>
       </node>
       <node id="http://wikibase.svc/entity/Q885" label="Twelve Years A Slave (Schomburg SC Rare C 326.92-N copy)">
@@ -2294,7 +2294,7 @@
           <attvalue for="eigencentrality" value="0.0"></attvalue>
         </attvalues>
         <viz:size value="12.0"></viz:size>
-        <viz:position x="304.85062" y="-798.8979"></viz:position>
+        <viz:position x="385.82947" y="-934.4372"></viz:position>
         <viz:color r="0" g="196" b="255"></viz:color>
       </node>
       <node id="http://wikibase.svc/entity/Q878" label="Solomon Northup">
@@ -2315,7 +2315,7 @@
           <attvalue for="eigencentrality" value="0.27511948102346484"></attvalue>
         </attvalues>
         <viz:size value="23.00478"></viz:size>
-        <viz:position x="558.656" y="-492.01904"></viz:position>
+        <viz:position x="690.39594" y="-566.18256"></viz:position>
         <viz:color r="0" g="196" b="255"></viz:color>
       </node>
       <node id="http://wikibase.svc/entity/Q887" label="Derby and Miller">
@@ -2336,7 +2336,7 @@
           <attvalue for="eigencentrality" value="0.06419460551989462"></attvalue>
         </attvalues>
         <viz:size value="14.567784"></viz:size>
-        <viz:position x="541.35895" y="-819.4379"></viz:position>
+        <viz:position x="669.63947" y="-959.0852"></viz:position>
         <viz:color r="0" g="196" b="255"></viz:color>
       </node>
       <node id="http://wikibase.svc/entity/Q888" label="Derby, Orton, and Mulligan">
@@ -2357,7 +2357,7 @@
           <attvalue for="eigencentrality" value="0.06419460551989462"></attvalue>
         </attvalues>
         <viz:size value="14.567784"></viz:size>
-        <viz:position x="597.1026" y="-634.48663"></viz:position>
+        <viz:position x="736.53186" y="-737.1437"></viz:position>
         <viz:color r="0" g="196" b="255"></viz:color>
       </node>
       <node id="http://wikibase.svc/entity/Q954" label="American Prejudice Against Color (NYHS E 185.62 .A43 1853 copy)">
@@ -2378,7 +2378,7 @@
           <attvalue for="eigencentrality" value="0.0"></attvalue>
         </attvalues>
         <viz:size value="12.0"></viz:size>
-        <viz:position x="225.36162" y="2163.0588"></viz:position>
+        <viz:position x="290.4427" y="2619.911"></viz:position>
         <viz:color r="82" g="255" b="213"></viz:color>
       </node>
       <node id="http://wikibase.svc/entity/Q950" label="John Calcutt">
@@ -2399,7 +2399,7 @@
           <attvalue for="eigencentrality" value="0.06419460551989462"></attvalue>
         </attvalues>
         <viz:size value="14.567784"></viz:size>
-        <viz:position x="3.3952973" y="2214.724"></viz:position>
+        <viz:position x="24.0831" y="2681.9092"></viz:position>
         <viz:color r="82" g="255" b="213"></viz:color>
       </node>
       <node id="http://wikibase.svc/entity/Q952" label="Gerrit Smith">
@@ -2420,7 +2420,7 @@
           <attvalue for="eigencentrality" value="0.06419460551989462"></attvalue>
         </attvalues>
         <viz:size value="14.567784"></viz:size>
-        <viz:position x="202.63231" y="2044.8806"></viz:position>
+        <viz:position x="263.1675" y="2478.097"></viz:position>
         <viz:color r="82" g="255" b="213"></viz:color>
       </node>
       <node id="http://wikibase.svc/entity/Q953" label="Joseph Sturge">
@@ -2441,7 +2441,7 @@
           <attvalue for="eigencentrality" value="0.06419460551989462"></attvalue>
         </attvalues>
         <viz:size value="14.567784"></viz:size>
-        <viz:position x="122.184944" y="2139.5151"></viz:position>
+        <viz:position x="166.63068" y="2591.6584"></viz:position>
         <viz:color r="82" g="255" b="213"></viz:color>
       </node>
       <node id="http://wikibase.svc/entity/Q137" label="Wells Brown">
@@ -2462,7 +2462,7 @@
           <attvalue for="eigencentrality" value="0.22575760207071913"></attvalue>
         </attvalues>
         <viz:size value="21.030304"></viz:size>
-        <viz:position x="-885.0045" y="339.8796"></viz:position>
+        <viz:position x="-1041.9967" y="432.09583"></viz:position>
         <viz:color r="76" g="70" b="62"></viz:color>
       </node>
       <node id="http://wikibase.svc/entity/Q166" label="George A. Curtis">
@@ -2483,7 +2483,7 @@
           <attvalue for="eigencentrality" value="0.11355648447264048"></attvalue>
         </attvalues>
         <viz:size value="16.54226"></viz:size>
-        <viz:position x="-596.17194" y="-64.93188"></viz:position>
+        <viz:position x="-695.3976" y="-53.67795"></viz:position>
         <viz:color r="76" g="70" b="62"></viz:color>
       </node>
       <node id="http://wikibase.svc/entity/Q176" label="Narrative of William W. Brown, A Fugitive Slave (Beinecke JWJ Zan B816 847Nb)">
@@ -2504,7 +2504,7 @@
           <attvalue for="eigencentrality" value="0.0"></attvalue>
         </attvalues>
         <viz:size value="12.0"></viz:size>
-        <viz:position x="-766.6779" y="114.926704"></viz:position>
+        <viz:position x="-900.00476" y="162.15234"></viz:position>
         <viz:color r="76" g="70" b="62"></viz:color>
       </node>
       <node id="http://wikibase.svc/entity/Q181" label="Abel Cary Thomas">
@@ -2525,7 +2525,7 @@
           <attvalue for="eigencentrality" value="0.06419460551989462"></attvalue>
         </attvalues>
         <viz:size value="14.567784"></viz:size>
-        <viz:position x="-1029.1486" y="282.6655"></viz:position>
+        <viz:position x="-1214.9695" y="363.4389"></viz:position>
         <viz:color r="76" g="70" b="62"></viz:color>
       </node>
       <node id="http://wikibase.svc/entity/Q565" label="J. Wheaton Smith">
@@ -2546,7 +2546,7 @@
           <attvalue for="eigencentrality" value="0.06419460551989462"></attvalue>
         </attvalues>
         <viz:size value="14.567784"></viz:size>
-        <viz:position x="-500.7749" y="-2860.0125"></viz:position>
+        <viz:position x="-580.92114" y="-3407.7747"></viz:position>
         <viz:color r="192" g="192" b="192"></viz:color>
       </node>
       <node id="http://wikibase.svc/entity/Q867" label="Life of Josiah Henson, Formerly a Slave (Schomburg Sc Rare 326.92-H copy)">
@@ -2567,7 +2567,7 @@
           <attvalue for="eigencentrality" value="0.0"></attvalue>
         </attvalues>
         <viz:size value="12.0"></viz:size>
-        <viz:position x="-615.343" y="-1993.4071"></viz:position>
+        <viz:position x="-718.4029" y="-2367.8481"></viz:position>
         <viz:color r="0" g="189" b="148"></viz:color>
       </node>
       <node id="http://wikibase.svc/entity/Q865" label="Thomas Binney">
@@ -2588,7 +2588,7 @@
           <attvalue for="eigencentrality" value="0.06419460551989462"></attvalue>
         </attvalues>
         <viz:size value="14.567784"></viz:size>
-        <viz:position x="-581.7403" y="-2116.593"></viz:position>
+        <viz:position x="-678.0796" y="-2515.6714"></viz:position>
         <viz:color r="0" g="189" b="148"></viz:color>
       </node>
       <node id="http://wikibase.svc/entity/Q1118" label="Thomas D. Bonner">
@@ -2609,7 +2609,7 @@
           <attvalue for="eigencentrality" value="0.014832726567148784"></attvalue>
         </attvalues>
         <viz:size value="12.593309"></viz:size>
-        <viz:position x="1347.7942" y="-966.08936"></viz:position>
+        <viz:position x="1637.3618" y="-1135.0669"></viz:position>
         <viz:color r="255" g="85" b="132"></viz:color>
       </node>
       <node id="http://wikibase.svc/entity/Q1125" label="William J. McAlpine">
@@ -2630,7 +2630,7 @@
           <attvalue for="eigencentrality" value="0.06419460551989462"></attvalue>
         </attvalues>
         <viz:size value="14.567784"></viz:size>
-        <viz:position x="1299.1946" y="-1202.8005"></viz:position>
+        <viz:position x="1579.0422" y="-1419.1204"></viz:position>
         <viz:color r="255" g="85" b="132"></viz:color>
       </node>
       <node id="http://wikibase.svc/entity/Q1179" label="Allings and Cory">
@@ -2651,7 +2651,7 @@
           <attvalue for="eigencentrality" value="0.014832726567148784"></attvalue>
         </attvalues>
         <viz:size value="12.593309"></viz:size>
-        <viz:position x="307.64902" y="445.0567"></viz:position>
+        <viz:position x="389.18756" y="558.30835"></viz:position>
         <viz:color r="115" g="192" b="0"></viz:color>
       </node>
       <node id="http://wikibase.svc/entity/Q1159" label="My Bondage and My Freedom (Sc Rare B-Douglass 1856 copy)">
@@ -2672,7 +2672,7 @@
           <attvalue for="eigencentrality" value="0.0"></attvalue>
         </attvalues>
         <viz:size value="12.0"></viz:size>
-        <viz:position x="60.93673" y="10.690041"></viz:position>
+        <viz:position x="93.13282" y="37.068348"></viz:position>
         <viz:color r="248" g="255" b="112"></viz:color>
       </node>
       <node id="http://wikibase.svc/entity/Q363" label="Andrews and Prentiss (organization)">
@@ -2693,7 +2693,7 @@
           <attvalue for="eigencentrality" value="0.06419460551989462"></attvalue>
         </attvalues>
         <viz:size value="14.567784"></viz:size>
-        <viz:position x="-1146.8074" y="97.33432"></viz:position>
+        <viz:position x="-1356.1602" y="141.04149"></viz:position>
         <viz:color r="76" g="70" b="62"></viz:color>
       </node>
       <node id="http://wikibase.svc/entity/Q367" label="Anti-Slavery Office (organization)">
@@ -2714,7 +2714,7 @@
           <attvalue for="eigencentrality" value="0.06419460551989462"></attvalue>
         </attvalues>
         <viz:size value="14.567784"></viz:size>
-        <viz:position x="-1092.0238" y="-233.7971"></viz:position>
+        <viz:position x="-1290.4198" y="-256.31622"></viz:position>
         <viz:color r="76" g="70" b="62"></viz:color>
       </node>
       <node id="http://wikibase.svc/entity/Q471" label="Cowles and Company (organization)">
@@ -2735,7 +2735,7 @@
           <attvalue for="eigencentrality" value="0.014832726567148784"></attvalue>
         </attvalues>
         <viz:size value="12.593309"></viz:size>
-        <viz:position x="-349.49457" y="-1081.5055"></viz:position>
+        <viz:position x="-399.38474" y="-1273.5663"></viz:position>
         <viz:color r="194" g="0" b="192"></viz:color>
       </node>
       <node id="http://wikibase.svc/entity/Q468" label="Press of Geo. C. Rand &amp; Avery (organization)">
@@ -2756,7 +2756,7 @@
           <attvalue for="eigencentrality" value="0.014832726567148784"></attvalue>
         </attvalues>
         <viz:size value="12.593309"></viz:size>
-        <viz:position x="-160.42928" y="-979.4667"></viz:position>
+        <viz:position x="-172.5064" y="-1151.1198"></viz:position>
         <viz:color r="194" g="0" b="192"></viz:color>
       </node>
       <node id="http://wikibase.svc/entity/Q514" label="Hobart and Robbins (organization)">
@@ -2777,7 +2777,7 @@
           <attvalue for="eigencentrality" value="0.06419460551989462"></attvalue>
         </attvalues>
         <viz:size value="14.567784"></viz:size>
-        <viz:position x="-746.58075" y="-621.05316"></viz:position>
+        <viz:position x="-875.8882" y="-721.0235"></viz:position>
         <viz:color r="255" g="136" b="5"></viz:color>
       </node>
       <node id="http://wikibase.svc/entity/Q522" label="New England Type and Stereotype Foundry (organization)">
@@ -2798,7 +2798,7 @@
           <attvalue for="eigencentrality" value="0.06419460551989462"></attvalue>
         </attvalues>
         <viz:size value="14.567784"></viz:size>
-        <viz:position x="-498.45892" y="-614.32477"></viz:position>
+        <viz:position x="-578.14197" y="-712.9494"></viz:position>
         <viz:color r="255" g="136" b="5"></viz:color>
       </node>
       <node id="http://wikibase.svc/entity/Q618" label="Myron H. Clark">
@@ -2819,7 +2819,7 @@
           <attvalue for="eigencentrality" value="0.014832726567148784"></attvalue>
         </attvalues>
         <viz:size value="12.593309"></viz:size>
-        <viz:position x="359.54193" y="386.38135"></viz:position>
+        <viz:position x="451.45905" y="487.89792"></viz:position>
         <viz:color r="115" g="192" b="0"></viz:color>
       </node>
       <node id="http://wikibase.svc/entity/Q617" label="Colvin &amp; Crowell">
@@ -2840,7 +2840,7 @@
           <attvalue for="eigencentrality" value="0.014832726567148784"></attvalue>
         </attvalues>
         <viz:size value="12.593309"></viz:size>
-        <viz:position x="15.926528" y="335.463"></viz:position>
+        <viz:position x="39.120575" y="426.79593"></viz:position>
         <viz:color r="115" g="192" b="0"></viz:color>
       </node>
       <node id="http://wikibase.svc/entity/Q622" label="Frederick Starr">
@@ -2861,7 +2861,7 @@
           <attvalue for="eigencentrality" value="0.014832726567148784"></attvalue>
         </attvalues>
         <viz:size value="12.593309"></viz:size>
-        <viz:position x="256.5893" y="729.5683"></viz:position>
+        <viz:position x="327.9159" y="899.7222"></viz:position>
         <viz:color r="115" g="192" b="0"></viz:color>
       </node>
       <node id="http://wikibase.svc/entity/Q623" label="Chas. J. Hill">
@@ -2882,7 +2882,7 @@
           <attvalue for="eigencentrality" value="0.014832726567148784"></attvalue>
         </attvalues>
         <viz:size value="12.593309"></viz:size>
-        <viz:position x="214.73499" y="344.39163"></viz:position>
+        <viz:position x="277.69073" y="437.51025"></viz:position>
         <viz:color r="115" g="192" b="0"></viz:color>
       </node>
       <node id="http://wikibase.svc/entity/Q620" label="Ashley Sampson">
@@ -2903,7 +2903,7 @@
           <attvalue for="eigencentrality" value="0.014832726567148784"></attvalue>
         </attvalues>
         <viz:size value="12.593309"></viz:size>
-        <viz:position x="125.42639" y="768.7778"></viz:position>
+        <viz:position x="170.52042" y="946.7736"></viz:position>
         <viz:color r="115" g="192" b="0"></viz:color>
       </node>
       <node id="http://wikibase.svc/entity/Q621" label="Thomas Kempshall">
@@ -2924,7 +2924,7 @@
           <attvalue for="eigencentrality" value="0.014832726567148784"></attvalue>
         </attvalues>
         <viz:size value="12.593309"></viz:size>
-        <viz:position x="8.2719555" y="525.06146"></viz:position>
+        <viz:position x="29.93509" y="654.314"></viz:position>
         <viz:color r="115" g="192" b="0"></viz:color>
       </node>
       <node id="http://wikibase.svc/entity/Q626" label="Jacob Gould">
@@ -2945,7 +2945,7 @@
           <attvalue for="eigencentrality" value="0.014832726567148784"></attvalue>
         </attvalues>
         <viz:size value="12.593309"></viz:size>
-        <viz:position x="-7.932783" y="606.36786"></viz:position>
+        <viz:position x="10.489404" y="751.8817"></viz:position>
         <viz:color r="115" g="192" b="0"></viz:color>
       </node>
       <node id="http://wikibase.svc/entity/Q624" label="L. A. Ward">
@@ -2966,7 +2966,7 @@
           <attvalue for="eigencentrality" value="0.014832726567148784"></attvalue>
         </attvalues>
         <viz:size value="12.593309"></viz:size>
-        <viz:position x="438.14594" y="617.48706"></viz:position>
+        <viz:position x="545.7839" y="765.2248"></viz:position>
         <viz:color r="115" g="192" b="0"></viz:color>
       </node>
       <node id="http://wikibase.svc/entity/Q625" label="Edwin Scrantom">
@@ -2987,7 +2987,7 @@
           <attvalue for="eigencentrality" value="0.014832726567148784"></attvalue>
         </attvalues>
         <viz:size value="12.593309"></viz:size>
-        <viz:position x="357.1789" y="765.8033"></viz:position>
+        <viz:position x="448.6234" y="943.2042"></viz:position>
         <viz:color r="115" g="192" b="0"></viz:color>
       </node>
       <node id="http://wikibase.svc/entity/Q631" label="Cornal Baker">
@@ -3008,7 +3008,7 @@
           <attvalue for="eigencentrality" value="0.014832726567148784"></attvalue>
         </attvalues>
         <viz:size value="12.593309"></viz:size>
-        <viz:position x="459.83136" y="414.69458"></viz:position>
+        <viz:position x="571.8064" y="521.8738"></viz:position>
         <viz:color r="115" g="192" b="0"></viz:color>
       </node>
       <node id="http://wikibase.svc/entity/Q634" label="Junius C. Morrell">
@@ -3029,7 +3029,7 @@
           <attvalue for="eigencentrality" value="0.014832726567148784"></attvalue>
         </attvalues>
         <viz:size value="12.593309"></viz:size>
-        <viz:position x="104.34773" y="664.3128"></viz:position>
+        <viz:position x="145.22603" y="821.41565"></viz:position>
         <viz:color r="115" g="192" b="0"></viz:color>
       </node>
       <node id="http://wikibase.svc/entity/Q633" label="Lyman A. Spalding">
@@ -3050,7 +3050,7 @@
           <attvalue for="eigencentrality" value="0.014832726567148784"></attvalue>
         </attvalues>
         <viz:size value="12.593309"></viz:size>
-        <viz:position x="212.44214" y="678.48303"></viz:position>
+        <viz:position x="274.9393" y="838.4199"></viz:position>
         <viz:color r="115" g="192" b="0"></viz:color>
       </node>
       <node id="http://wikibase.svc/entity/Q638" label="B. Lundy">
@@ -3071,7 +3071,7 @@
           <attvalue for="eigencentrality" value="0.014832726567148784"></attvalue>
         </attvalues>
         <viz:size value="12.593309"></viz:size>
-        <viz:position x="222.75293" y="826.1953"></viz:position>
+        <viz:position x="287.31226" y="1015.6747"></viz:position>
         <viz:color r="115" g="192" b="0"></viz:color>
       </node>
       <node id="http://wikibase.svc/entity/Q636" label="N. Paul">
@@ -3092,7 +3092,7 @@
           <attvalue for="eigencentrality" value="0.014832726567148784"></attvalue>
         </attvalues>
         <viz:size value="12.593309"></viz:size>
-        <viz:position x="325.03503" y="595.25696"></viz:position>
+        <viz:position x="410.05078" y="738.54865"></viz:position>
         <viz:color r="115" g="192" b="0"></viz:color>
       </node>
       <node id="http://wikibase.svc/entity/Q637" label="Samuel E. Cornish">
@@ -3113,7 +3113,7 @@
           <attvalue for="eigencentrality" value="0.014832726567148784"></attvalue>
         </attvalues>
         <viz:size value="12.593309"></viz:size>
-        <viz:position x="73.80663" y="379.65765"></viz:position>
+        <viz:position x="108.576706" y="479.8295"></viz:position>
         <viz:color r="115" g="192" b="0"></viz:color>
       </node>
       <node id="http://wikibase.svc/entity/Q720" label="J. Oswald Jackson">
@@ -3134,7 +3134,7 @@
           <attvalue for="eigencentrality" value="0.06419460551989462"></attvalue>
         </attvalues>
         <viz:size value="14.567784"></viz:size>
-        <viz:position x="-443.06656" y="1077.513"></viz:position>
+        <viz:position x="-511.67114" y="1317.2559"></viz:position>
         <viz:color r="223" g="137" b="255"></viz:color>
       </node>
       <node id="http://wikibase.svc/entity/Q846" label="A Short Personal Narrative (Schomburg Sc Rare B-Allen)">
@@ -3155,7 +3155,7 @@
           <attvalue for="eigencentrality" value="0.0"></attvalue>
         </attvalues>
         <viz:size value="12.0"></viz:size>
-        <viz:position x="-114.393845" y="1664.3346"></viz:position>
+        <viz:position x="-117.26387" y="2021.4418"></viz:position>
         <viz:color r="255" g="188" b="133"></viz:color>
       </node>
       <node id="http://wikibase.svc/entity/Q834" label="Lord Shaftesbury">
@@ -3176,7 +3176,7 @@
           <attvalue for="eigencentrality" value="0.06419460551989462"></attvalue>
         </attvalues>
         <viz:size value="14.567784"></viz:size>
-        <viz:position x="122.210464" y="1438.3428"></viz:position>
+        <viz:position x="166.6613" y="1750.2516"></viz:position>
         <viz:color r="255" g="188" b="133"></viz:color>
       </node>
       <node id="http://wikibase.svc/entity/Q838" label="W. Urwick">
@@ -3197,7 +3197,7 @@
           <attvalue for="eigencentrality" value="0.06419460551989462"></attvalue>
         </attvalues>
         <viz:size value="14.567784"></viz:size>
-        <viz:position x="39.353546" y="1521.1404"></viz:position>
+        <viz:position x="67.233" y="1849.6088"></viz:position>
         <viz:color r="255" g="188" b="133"></viz:color>
       </node>
       <node id="http://wikibase.svc/entity/Q842" label="Edw. N. Hoare">
@@ -3218,7 +3218,7 @@
           <attvalue for="eigencentrality" value="0.06419460551989462"></attvalue>
         </attvalues>
         <viz:size value="14.567784"></viz:size>
-        <viz:position x="-118.74063" y="1347.7125"></viz:position>
+        <viz:position x="-122.48001" y="1641.4954"></viz:position>
         <viz:color r="255" g="188" b="133"></viz:color>
       </node>
       <node id="http://wikibase.svc/entity/Q837" label="W. Fitzgerald">
@@ -3239,7 +3239,7 @@
           <attvalue for="eigencentrality" value="0.06419460551989462"></attvalue>
         </attvalues>
         <viz:size value="14.567784"></viz:size>
-        <viz:position x="143.31302" y="1592.7112"></viz:position>
+        <viz:position x="191.98436" y="1935.4938"></viz:position>
         <viz:color r="255" g="188" b="133"></viz:color>
       </node>
       <node id="http://wikibase.svc/entity/Q843" label="John Browne">
@@ -3260,7 +3260,7 @@
           <attvalue for="eigencentrality" value="0.06419460551989462"></attvalue>
         </attvalues>
         <viz:size value="14.567784"></viz:size>
-        <viz:position x="-169.78304" y="1458.8322"></viz:position>
+        <viz:position x="-183.7309" y="1774.8389"></viz:position>
         <viz:color r="255" g="188" b="133"></viz:color>
       </node>
       <node id="http://wikibase.svc/entity/Q840" label="Robert Chapman">
@@ -3281,7 +3281,7 @@
           <attvalue for="eigencentrality" value="0.06419460551989462"></attvalue>
         </attvalues>
         <viz:size value="14.567784"></viz:size>
-        <viz:position x="-82.452484" y="1546.3673"></viz:position>
+        <viz:position x="-78.934235" y="1879.8811"></viz:position>
         <viz:color r="255" g="188" b="133"></viz:color>
       </node>
       <node id="http://wikibase.svc/entity/Q841" label="William Curry &amp; Co.">
@@ -3302,7 +3302,7 @@
           <attvalue for="eigencentrality" value="0.06419460551989462"></attvalue>
         </attvalues>
         <viz:size value="14.567784"></viz:size>
-        <viz:position x="-195.04956" y="1587.4901"></viz:position>
+        <viz:position x="-214.05074" y="1929.2284"></viz:position>
         <viz:color r="255" g="188" b="133"></viz:color>
       </node>
       <node id="http://wikibase.svc/entity/Q903" label="Life and Adventures of James P. Beckwourth (Beinecke Zc16 C92 856beb)">
@@ -3323,7 +3323,7 @@
           <attvalue for="eigencentrality" value="0.0"></attvalue>
         </attvalues>
         <viz:size value="12.0"></viz:size>
-        <viz:position x="790.71234" y="-978.2637"></viz:position>
+        <viz:position x="968.8635" y="-1149.6761"></viz:position>
         <viz:color r="255" g="85" b="132"></viz:color>
       </node>
       <node id="http://wikibase.svc/entity/Q860" label="Adam and Charles Black">
@@ -3344,7 +3344,7 @@
           <attvalue for="eigencentrality" value="0.06419460551989462"></attvalue>
         </attvalues>
         <viz:size value="14.567784"></viz:size>
-        <viz:position x="-427.39172" y="-2094.1692"></viz:position>
+        <viz:position x="-492.86133" y="-2488.7627"></viz:position>
         <viz:color r="0" g="189" b="148"></viz:color>
       </node>
       <node id="http://wikibase.svc/entity/Q864" label="J. Unwin">
@@ -3365,7 +3365,7 @@
           <attvalue for="eigencentrality" value="0.06419460551989462"></attvalue>
         </attvalues>
         <viz:size value="14.567784"></viz:size>
-        <viz:position x="-427.023" y="-1956.151"></viz:position>
+        <viz:position x="-492.41888" y="-2323.1409"></viz:position>
         <viz:color r="0" g="189" b="148"></viz:color>
       </node>
       <node id="http://wikibase.svc/entity/Q905" label="Life and Adventures of James P. Beckwourth (Beinecke Zc16 C92 856be Copy 1)">
@@ -3386,7 +3386,7 @@
           <attvalue for="eigencentrality" value="0.0"></attvalue>
         </attvalues>
         <viz:size value="12.0"></viz:size>
-        <viz:position x="1133.1646" y="-1013.33356"></viz:position>
+        <viz:position x="1379.8062" y="-1191.76"></viz:position>
         <viz:color r="255" g="85" b="132"></viz:color>
       </node>
       <node id="http://wikibase.svc/entity/Q949" label="W. and F.G. Cash">
@@ -3407,7 +3407,7 @@
           <attvalue for="eigencentrality" value="0.06419460551989462"></attvalue>
         </attvalues>
         <viz:size value="14.567784"></viz:size>
-        <viz:position x="-23.19659" y="2090.3486"></viz:position>
+        <viz:position x="-7.827165" y="2532.6587"></viz:position>
         <viz:color r="82" g="255" b="213"></viz:color>
       </node>
       <node id="http://wikibase.svc/entity/Q70" label="unattributed work">
@@ -3428,7 +3428,7 @@
           <attvalue for="eigencentrality" value="0.014832726567148784"></attvalue>
         </attvalues>
         <viz:size value="12.593309"></viz:size>
-        <viz:position x="-678.24347" y="-2498.0918"></viz:position>
+        <viz:position x="-793.8834" y="-2973.47"></viz:position>
         <viz:color r="0" g="189" b="148"></viz:color>
       </node>
       <node id="http://wikibase.svc/entity/statement/Q334-235ac0b5-49a9-53c2-f913-cd6a48f2ebe2" label="frontispiece">
@@ -3449,7 +3449,7 @@
           <attvalue for="eigencentrality" value="0.06419460551989462"></attvalue>
         </attvalues>
         <viz:size value="14.567784"></viz:size>
-        <viz:position x="-1095.066" y="-110.43931"></viz:position>
+        <viz:position x="-1294.0706" y="-108.286865"></viz:position>
         <viz:color r="76" g="70" b="62"></viz:color>
       </node>
       <node id="http://wikibase.svc/entity/statement/Q426-0c357422-44f6-e356-b704-9d989405f2e5" label="frontispiece">
@@ -3470,7 +3470,7 @@
           <attvalue for="eigencentrality" value="0.06419460551989462"></attvalue>
         </attvalues>
         <viz:size value="14.567784"></viz:size>
-        <viz:position x="-462.21072" y="641.2519"></viz:position>
+        <viz:position x="-534.6441" y="793.74255"></viz:position>
         <viz:color r="223" g="137" b="255"></viz:color>
       </node>
       <node id="http://wikibase.svc/entity/statement/Q474-d9e0db56-4c57-a975-dd69-3483c2bf7a2b" label="frontispiece">
@@ -3491,7 +3491,7 @@
           <attvalue for="eigencentrality" value="0.06419460551989462"></attvalue>
         </attvalues>
         <viz:size value="14.567784"></viz:size>
-        <viz:position x="-913.7932" y="-381.22018"></viz:position>
+        <viz:position x="-1076.5431" y="-433.2239"></viz:position>
         <viz:color r="255" g="136" b="5"></viz:color>
       </node>
       <node id="http://wikibase.svc/entity/statement/Q612-1ef5ec0c-4808-7ab8-d158-650d1a091bc1" label="portrait">
@@ -3512,7 +3512,7 @@
           <attvalue for="eigencentrality" value="0.014832726567148784"></attvalue>
         </attvalues>
         <viz:size value="12.593309"></viz:size>
-        <viz:position x="390.14514" y="509.89194"></viz:position>
+        <viz:position x="488.18292" y="636.1106"></viz:position>
         <viz:color r="115" g="192" b="0"></viz:color>
       </node>
       <node id="http://wikibase.svc/entity/statement/Q612-2a53e3e1-4f56-707b-d546-d28129def22a" label="plate">
@@ -3533,7 +3533,7 @@
           <attvalue for="eigencentrality" value="0.014832726567148784"></attvalue>
         </attvalues>
         <viz:size value="12.593309"></viz:size>
-        <viz:position x="135.5256" y="314.60657"></viz:position>
+        <viz:position x="182.63947" y="401.7682"></viz:position>
         <viz:color r="115" g="192" b="0"></viz:color>
       </node>
       <node id="http://wikibase.svc/entity/statement/Q612-a92b54e9-46d9-4925-27b8-48be97fd8ded" label="frontispiece">
@@ -3554,7 +3554,7 @@
           <attvalue for="eigencentrality" value="0.014832726567148784"></attvalue>
         </attvalues>
         <viz:size value="12.593309"></viz:size>
-        <viz:position x="343.23785" y="661.44025"></viz:position>
+        <viz:position x="431.89417" y="817.96857"></viz:position>
         <viz:color r="115" g="192" b="0"></viz:color>
       </node>
       <node id="http://wikibase.svc/entity/statement/Q904-7c0ccd2c-4230-54f3-eecf-809f807a523c" label="illustrated">
@@ -3575,7 +3575,7 @@
           <attvalue for="eigencentrality" value="0.11355648447264048"></attvalue>
         </attvalues>
         <viz:size value="16.54226"></viz:size>
-        <viz:position x="1034.7727" y="-1216.5076"></viz:position>
+        <viz:position x="1261.736" y="-1435.5687"></viz:position>
         <viz:color r="255" g="85" b="132"></viz:color>
       </node>
       <node id="http://wikibase.svc/entity/statement/Q886-19c7e7df-4401-71c8-9879-f7fc2f20f743" label="frontispiece">
@@ -3596,7 +3596,7 @@
           <attvalue for="eigencentrality" value="0.06419460551989462"></attvalue>
         </attvalues>
         <viz:size value="14.567784"></viz:size>
-        <viz:position x="495.07492" y="-699.3768"></viz:position>
+        <viz:position x="614.09863" y="-815.01184"></viz:position>
         <viz:color r="0" g="196" b="255"></viz:color>
       </node>
       <node id="http://wikibase.svc/entity/statement/Q886-a5a1525d-4be6-f216-4531-c4f8d01161b9" label="illustration">
@@ -3617,7 +3617,7 @@
           <attvalue for="eigencentrality" value="0.06419460551989462"></attvalue>
         </attvalues>
         <viz:size value="14.567784"></viz:size>
-        <viz:position x="429.91037" y="-819.0275"></viz:position>
+        <viz:position x="535.9012" y="-958.5927"></viz:position>
         <viz:color r="0" g="196" b="255"></viz:color>
       </node>
       <node id="http://wikibase.svc/entity/statement/Q118-814dfacb-46ef-a6b7-2716-b9891d5cf176" label="illustration">
@@ -3638,7 +3638,7 @@
           <attvalue for="eigencentrality" value="0.11355648447264048"></attvalue>
         </attvalues>
         <viz:size value="16.54226"></viz:size>
-        <viz:position x="-886.5922" y="45.777607"></viz:position>
+        <viz:position x="-1043.902" y="79.17343"></viz:position>
         <viz:color r="76" g="70" b="62"></viz:color>
       </node>
       <node id="http://wikibase.svc/entity/statement/Q118-e2305633-4bde-b40a-79ae-4ba1a1400e89" label="frontispiece">
@@ -3659,7 +3659,7 @@
           <attvalue for="eigencentrality" value="0.11355648447264048"></attvalue>
         </attvalues>
         <viz:size value="16.54226"></viz:size>
-        <viz:position x="-568.9256" y="62.647724"></viz:position>
+        <viz:position x="-662.70197" y="99.41757"></viz:position>
         <viz:color r="76" g="70" b="62"></viz:color>
       </node>
       <node id="http://wikibase.svc/entity/statement/Q223-0c687a34-4e5e-9d04-8992-f030292fccf1" label="frontispiece">
@@ -3680,7 +3680,7 @@
           <attvalue for="eigencentrality" value="0.06419460551989462"></attvalue>
         </attvalues>
         <viz:size value="14.567784"></viz:size>
-        <viz:position x="61.932262" y="856.9422"></viz:position>
+        <viz:position x="94.32746" y="1052.5709"></viz:position>
         <viz:color r="223" g="137" b="255"></viz:color>
       </node>
       <node id="http://wikibase.svc/entity/statement/Q402-226d7a2b-4e98-f094-6946-92027c14ec52" label="bookplate">
@@ -3701,7 +3701,7 @@
           <attvalue for="eigencentrality" value="0.014832726567148784"></attvalue>
         </attvalues>
         <viz:size value="12.593309"></viz:size>
-        <viz:position x="-1256.9727" y="-39.3814"></viz:position>
+        <viz:position x="-1488.3584" y="-23.01738"></viz:position>
         <viz:color r="76" g="70" b="62"></viz:color>
       </node>
       <node id="http://wikibase.svc/entity/statement/Q483-1b0ac906-4edc-9213-c9e0-bdede5be950a" label="bookplate">
@@ -3722,7 +3722,7 @@
           <attvalue for="eigencentrality" value="0.014832726567148784"></attvalue>
         </attvalues>
         <viz:size value="12.593309"></viz:size>
-        <viz:position x="-289.8911" y="-1430.4628"></viz:position>
+        <viz:position x="-327.8606" y="-1692.3151"></viz:position>
         <viz:color r="194" g="0" b="192"></viz:color>
       </node>
       <node id="http://wikibase.svc/entity/statement/Q536-22245729-4eb1-4547-beb8-4f38c12336cb" label="bookplate">
@@ -3743,7 +3743,7 @@
           <attvalue for="eigencentrality" value="0.014832726567148784"></attvalue>
         </attvalues>
         <viz:size value="12.593309"></viz:size>
-        <viz:position x="-783.64954" y="-734.5839"></viz:position>
+        <viz:position x="-920.3707" y="-857.26044"></viz:position>
         <viz:color r="255" g="136" b="5"></viz:color>
       </node>
       <node id="http://wikibase.svc/entity/statement/Q536-6d7f83e5-4244-9780-8e6a-460f993de15e" label="stamp">
@@ -3764,7 +3764,7 @@
           <attvalue for="eigencentrality" value="0.014832726567148784"></attvalue>
         </attvalues>
         <viz:size value="12.593309"></viz:size>
-        <viz:position x="-651.3302" y="-764.04144"></viz:position>
+        <viz:position x="-761.5875" y="-892.60944"></viz:position>
         <viz:color r="255" g="136" b="5"></viz:color>
       </node>
       <node id="http://wikibase.svc/entity/statement/Q553-2df98814-43b6-146e-3ebb-2f70701cf0a4" label="frontispiece">
@@ -3785,7 +3785,7 @@
           <attvalue for="eigencentrality" value="0.06419460551989462"></attvalue>
         </attvalues>
         <viz:size value="14.567784"></viz:size>
-        <viz:position x="-769.69635" y="-2792.3325"></viz:position>
+        <viz:position x="-903.6269" y="-3326.5588"></viz:position>
         <viz:color r="192" g="192" b="192"></viz:color>
       </node>
       <node id="http://wikibase.svc/entity/statement/Q586-c8bf3bdc-4eb6-35e0-6319-ffadc4344c33" label="bookplate">
@@ -3806,7 +3806,7 @@
           <attvalue for="eigencentrality" value="0.014832726567148784"></attvalue>
         </attvalues>
         <viz:size value="12.593309"></viz:size>
-        <viz:position x="-636.38904" y="-2974.2664"></viz:position>
+        <viz:position x="-743.6581" y="-3544.8794"></viz:position>
         <viz:color r="192" g="192" b="192"></viz:color>
       </node>
       <node id="http://wikibase.svc/entity/statement/Q706-defeea86-4b1b-8dd7-5ef4-73d4fa8b794f" label="frontispiece">
@@ -3827,7 +3827,7 @@
           <attvalue for="eigencentrality" value="0.06419460551989462"></attvalue>
         </attvalues>
         <viz:size value="14.567784"></viz:size>
-        <viz:position x="-371.05045" y="884.8407"></viz:position>
+        <viz:position x="-425.2518" y="1086.0492"></viz:position>
         <viz:color r="223" g="137" b="255"></viz:color>
       </node>
       <node id="http://wikibase.svc/entity/statement/Q881-1a5d536d-4cdc-6b67-fac6-ab5d0e4ea2fa" label="frontispiece">
@@ -3848,7 +3848,7 @@
           <attvalue for="eigencentrality" value="0.06419460551989462"></attvalue>
         </attvalues>
         <viz:size value="14.567784"></viz:size>
-        <viz:position x="408.68463" y="-465.44693"></viz:position>
+        <viz:position x="510.4303" y="-534.296"></viz:position>
         <viz:color r="0" g="196" b="255"></viz:color>
       </node>
       <node id="http://wikibase.svc/entity/statement/Q881-5d459787-4cae-18ee-b890-2687603d61f5" label="illustration">
@@ -3869,7 +3869,7 @@
           <attvalue for="eigencentrality" value="0.06419460551989462"></attvalue>
         </attvalues>
         <viz:size value="14.567784"></viz:size>
-        <viz:position x="162.12172" y="-470.76675"></viz:position>
+        <viz:position x="214.55481" y="-540.6798"></viz:position>
         <viz:color r="0" g="196" b="255"></viz:color>
       </node>
       <node id="http://wikibase.svc/entity/statement/Q884-6a8de7cc-4692-f808-ae27-b96e249ae96c" label="autograph">
@@ -3890,7 +3890,7 @@
           <attvalue for="eigencentrality" value="0.014832726567148784"></attvalue>
         </attvalues>
         <viz:size value="12.593309"></viz:size>
-        <viz:position x="441.24716" y="-308.76773"></viz:position>
+        <viz:position x="549.5053" y="-346.28098"></viz:position>
         <viz:color r="0" g="196" b="255"></viz:color>
       </node>
       <node id="http://wikibase.svc/entity/statement/Q901-86d291f0-411d-63f1-f713-7c301b465c34" label="illustrated">
@@ -3911,7 +3911,7 @@
           <attvalue for="eigencentrality" value="0.06419460551989462"></attvalue>
         </attvalues>
         <viz:size value="14.567784"></viz:size>
-        <viz:position x="904.6739" y="-800.4979"></viz:position>
+        <viz:position x="1105.6174" y="-936.35724"></viz:position>
         <viz:color r="255" g="85" b="132"></viz:color>
       </node>
       <node id="http://wikibase.svc/entity/t17605" label="unknown">
@@ -3932,7 +3932,7 @@
           <attvalue for="eigencentrality" value="0.06419460551989462"></attvalue>
         </attvalues>
         <viz:size value="14.567784"></viz:size>
-        <viz:position x="-13.906736" y="97.261925"></viz:position>
+        <viz:position x="3.3206594" y="140.9546"></viz:position>
         <viz:color r="248" g="255" b="112"></viz:color>
       </node>
       <node id="http://wikibase.svc/entity/t17523" label="unknown">
@@ -3953,7 +3953,7 @@
           <attvalue for="eigencentrality" value="0.06419460551989462"></attvalue>
         </attvalues>
         <viz:size value="14.567784"></viz:size>
-        <viz:position x="43.159603" y="1345.5394"></viz:position>
+        <viz:position x="71.80027" y="1638.8876"></viz:position>
         <viz:color r="255" g="188" b="133"></viz:color>
       </node>
     </nodes>
