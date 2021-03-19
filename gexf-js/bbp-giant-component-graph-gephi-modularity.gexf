@@ -24,6 +24,9 @@
       <attribute id="eigencentrality" title="Eigenvector Centrality" type="double">
         <default>0.0</default>
       </attribute>
+      <attribute id="modularity_class" title="Modularity Class" type="integer">
+        <default>0</default>
+      </attribute>
     </attributes>
     <nodes>
       <node id="http://wikibase.svc/entity/Q258" label="Wendell Phillips">
@@ -34,9 +37,11 @@
           <attvalue for="harmonicclosnesscentrality" value="0.0"></attvalue>
           <attvalue for="betweenesscentrality" value="0.0"></attvalue>
           <attvalue for="eigencentrality" value="0.5289952311782233"></attvalue>
+          <attvalue for="modularity_class" value="6"></attvalue>
         </attvalues>
         <viz:size value="12.0"></viz:size>
         <viz:position x="-2352.3115" y="1006.6189"></viz:position>
+        <viz:color r="115" g="192" b="0"></viz:color>
       </node>
       <node id="http://wikibase.svc/entity/Q263" label="Hibernian Anti-Slavery Society (organization)">
         <attvalues>
@@ -46,9 +51,11 @@
           <attvalue for="harmonicclosnesscentrality" value="0.0"></attvalue>
           <attvalue for="betweenesscentrality" value="0.0"></attvalue>
           <attvalue for="eigencentrality" value="0.056646887318055526"></attvalue>
+          <attvalue for="modularity_class" value="6"></attvalue>
         </attvalues>
         <viz:size value="12.0"></viz:size>
-        <viz:position x="-3305.0864" y="23.88113"></viz:position>
+        <viz:position x="-3411.6428" y="1.0553827"></viz:position>
+        <viz:color r="115" g="192" b="0"></viz:color>
       </node>
       <node id="http://wikibase.svc/entity/Q270" label="James Haughton">
         <attvalues>
@@ -58,9 +65,11 @@
           <attvalue for="harmonicclosnesscentrality" value="0.0"></attvalue>
           <attvalue for="betweenesscentrality" value="0.0"></attvalue>
           <attvalue for="eigencentrality" value="0.23297863104412997"></attvalue>
+          <attvalue for="modularity_class" value="6"></attvalue>
         </attvalues>
         <viz:size value="12.0"></viz:size>
-        <viz:position x="-3395.994" y="961.2657"></viz:position>
+        <viz:position x="-3333.3215" y="1022.4558"></viz:position>
+        <viz:color r="115" g="192" b="0"></viz:color>
       </node>
       <node id="http://wikibase.svc/entity/Q271" label="Richard D. Webb">
         <attvalues>
@@ -70,9 +79,11 @@
           <attvalue for="harmonicclosnesscentrality" value="0.0"></attvalue>
           <attvalue for="betweenesscentrality" value="0.0"></attvalue>
           <attvalue for="eigencentrality" value="0.4093103747702047"></attvalue>
+          <attvalue for="modularity_class" value="6"></attvalue>
         </attvalues>
         <viz:size value="12.0"></viz:size>
-        <viz:position x="-3844.9543" y="890.44885"></viz:position>
+        <viz:position x="-3820.6267" y="865.73895"></viz:position>
+        <viz:color r="115" g="192" b="0"></viz:color>
       </node>
       <node id="http://wikibase.svc/entity/Q282" label="Henry Swan">
         <attvalues>
@@ -82,9 +93,11 @@
           <attvalue for="harmonicclosnesscentrality" value="0.0"></attvalue>
           <attvalue for="betweenesscentrality" value="0.0"></attvalue>
           <attvalue for="eigencentrality" value="0.056646887318055526"></attvalue>
+          <attvalue for="modularity_class" value="6"></attvalue>
         </attvalues>
         <viz:size value="12.0"></viz:size>
         <viz:position x="-2932.7822" y="342.60355"></viz:position>
+        <viz:color r="115" g="192" b="0"></viz:color>
       </node>
       <node id="http://wikibase.svc/entity/Q288" label="Narrative of the Life of Frederick Douglass, an American Slave (Beinecke JWJ Zan D747 845nc)">
         <attvalues>
@@ -94,9 +107,11 @@
           <attvalue for="harmonicclosnesscentrality" value="0.5416666666666666"></attvalue>
           <attvalue for="betweenesscentrality" value="0.0"></attvalue>
           <attvalue for="eigencentrality" value="0.0"></attvalue>
+          <attvalue for="modularity_class" value="6"></attvalue>
         </attvalues>
         <viz:size value="12.0"></viz:size>
-        <viz:position x="-3801.3232" y="241.86394"></viz:position>
+        <viz:position x="-3839.3713" y="238.85735"></viz:position>
+        <viz:color r="115" g="192" b="0"></viz:color>
       </node>
       <node id="http://wikibase.svc/entity/Q294" label="My Bondage and My Freedom (work)">
         <attvalues>
@@ -106,9 +121,11 @@
           <attvalue for="harmonicclosnesscentrality" value="1.0"></attvalue>
           <attvalue for="betweenesscentrality" value="6.127450980392157E-5"></attvalue>
           <attvalue for="eigencentrality" value="0.11329377463611111"></attvalue>
+          <attvalue for="modularity_class" value="1"></attvalue>
         </attvalues>
         <viz:size value="17.473684"></viz:size>
-        <viz:position x="-1262.7196" y="-70.85432"></viz:position>
+        <viz:position x="-1287.829" y="-49.306355"></viz:position>
+        <viz:color r="0" g="196" b="255"></viz:color>
       </node>
       <node id="http://wikibase.svc/entity/Q334" label="Narrative of William W. Brown, A Fugitive Slave (1847 Boston Anti-Slavery Office edition)">
         <attvalues>
@@ -118,9 +135,11 @@
           <attvalue for="harmonicclosnesscentrality" value="0.9375"></attvalue>
           <attvalue for="betweenesscentrality" value="1.2254901960784314E-4"></attvalue>
           <attvalue for="eigencentrality" value="0.014125738582206981"></attvalue>
+          <attvalue for="modularity_class" value="0"></attvalue>
         </attvalues>
         <viz:size value="22.947369"></viz:size>
-        <viz:position x="767.28546" y="1962.2356"></viz:position>
+        <viz:position x="767.73486" y="2001.8926"></viz:position>
+        <viz:color r="255" g="136" b="5"></viz:color>
       </node>
       <node id="http://wikibase.svc/entity/Q335" label="My Bondage and My Freedom (1855 New York Miller Edition)">
         <attvalues>
@@ -130,9 +149,11 @@
           <attvalue for="harmonicclosnesscentrality" value="0.8846153846153846"></attvalue>
           <attvalue for="betweenesscentrality" value="1.991421568627451E-4"></attvalue>
           <attvalue for="eigencentrality" value="0.014125738582206981"></attvalue>
+          <attvalue for="modularity_class" value="1"></attvalue>
         </attvalues>
         <viz:size value="29.789473"></viz:size>
         <viz:position x="-603.62" y="-252.3727"></viz:position>
+        <viz:color r="0" g="196" b="255"></viz:color>
       </node>
       <node id="http://wikibase.svc/entity/Q357" label="Miller, Orton and Mulligan (organization)">
         <attvalues>
@@ -142,9 +163,11 @@
           <attvalue for="harmonicclosnesscentrality" value="0.0"></attvalue>
           <attvalue for="betweenesscentrality" value="0.0"></attvalue>
           <attvalue for="eigencentrality" value="0.3398813239083329"></attvalue>
+          <attvalue for="modularity_class" value="1"></attvalue>
         </attvalues>
         <viz:size value="12.0"></viz:size>
-        <viz:position x="223.63556" y="-603.19543"></viz:position>
+        <viz:position x="394.19556" y="-498.8926"></viz:position>
+        <viz:color r="0" g="196" b="255"></viz:color>
       </node>
       <node id="http://wikibase.svc/entity/Q474" label="Three Years in Europe; or, Places I Have Seen and People I Have Met (1852 London Oliver and Boyd edition)">
         <attvalues>
@@ -154,9 +177,11 @@
           <attvalue for="harmonicclosnesscentrality" value="1.0"></attvalue>
           <attvalue for="betweenesscentrality" value="1.5318627450980392E-4"></attvalue>
           <attvalue for="eigencentrality" value="0.014125738582206981"></attvalue>
+          <attvalue for="modularity_class" value="2"></attvalue>
         </attvalues>
         <viz:size value="25.684212"></viz:size>
-        <viz:position x="1927.4159" y="1843.87"></viz:position>
+        <viz:position x="2077.2446" y="1862.8392"></viz:position>
+        <viz:color r="255" g="85" b="132"></viz:color>
       </node>
       <node id="http://wikibase.svc/entity/Q473" label="Narrative of the Life of Frederick Douglass, An American Slave (Schomburg Sc Rare B-Douglass copy)">
         <attvalues>
@@ -166,9 +191,11 @@
           <attvalue for="harmonicclosnesscentrality" value="0.5277777777777778"></attvalue>
           <attvalue for="betweenesscentrality" value="0.0"></attvalue>
           <attvalue for="eigencentrality" value="0.0"></attvalue>
+          <attvalue for="modularity_class" value="6"></attvalue>
         </attvalues>
         <viz:size value="12.0"></viz:size>
-        <viz:position x="-1582.1313" y="1326.3125"></viz:position>
+        <viz:position x="-1606.8972" y="1349.2822"></viz:position>
+        <viz:color r="115" g="192" b="0"></viz:color>
       </node>
       <node id="http://wikibase.svc/entity/Q482" label="Fugitive Blacksmith (Schomburg SC Rare 326.92-P copy)">
         <attvalues>
@@ -178,9 +205,11 @@
           <attvalue for="harmonicclosnesscentrality" value="0.5625"></attvalue>
           <attvalue for="betweenesscentrality" value="0.0"></attvalue>
           <attvalue for="eigencentrality" value="0.0"></attvalue>
+          <attvalue for="modularity_class" value="10"></attvalue>
         </attvalues>
         <viz:size value="12.0"></viz:size>
         <viz:position x="7760.23" y="-839.26996"></viz:position>
+        <viz:color r="0" g="189" b="148"></viz:color>
       </node>
       <node id="http://wikibase.svc/entity/Q483" label="Truth Stranger Than Fiction: Father Henson's Story of His Own Life (Schomburg Sc Rare 326.92-H (Henson, J. Truth stranger than fiction. 1858) copy)">
         <attvalues>
@@ -190,9 +219,11 @@
           <attvalue for="harmonicclosnesscentrality" value="0.5555555555555555"></attvalue>
           <attvalue for="betweenesscentrality" value="0.0"></attvalue>
           <attvalue for="eigencentrality" value="0.0"></attvalue>
+          <attvalue for="modularity_class" value="5"></attvalue>
         </attvalues>
         <viz:size value="12.0"></viz:size>
-        <viz:position x="3524.9014" y="254.67766"></viz:position>
+        <viz:position x="3528.9265" y="258.54727"></viz:position>
+        <viz:color r="235" g="84" b="0"></viz:color>
       </node>
       <node id="http://wikibase.svc/entity/Q485" label="American Fugitive in Europe:  Sketches of Places and People Abroad (1855 Boston John P. Jewett edition)">
         <attvalues>
@@ -202,9 +233,11 @@
           <attvalue for="harmonicclosnesscentrality" value="1.0"></attvalue>
           <attvalue for="betweenesscentrality" value="1.0723039215686274E-4"></attvalue>
           <attvalue for="eigencentrality" value="0.014125738582206981"></attvalue>
+          <attvalue for="modularity_class" value="2"></attvalue>
         </attvalues>
         <viz:size value="21.578947"></viz:size>
-        <viz:position x="2125.0396" y="798.77924"></viz:position>
+        <viz:position x="2161.82" y="763.67"></viz:position>
+        <viz:color r="255" g="85" b="132"></viz:color>
       </node>
       <node id="http://wikibase.svc/entity/Q466" label="Wilson Armistead">
         <attvalues>
@@ -214,9 +247,11 @@
           <attvalue for="harmonicclosnesscentrality" value="0.0"></attvalue>
           <attvalue for="betweenesscentrality" value="0.0"></attvalue>
           <attvalue for="eigencentrality" value="0.014125738582206981"></attvalue>
+          <attvalue for="modularity_class" value="10"></attvalue>
         </attvalues>
         <viz:size value="12.0"></viz:size>
         <viz:position x="8757.609" y="-325.8997"></viz:position>
+        <viz:color r="0" g="189" b="148"></viz:color>
       </node>
       <node id="http://wikibase.svc/entity/Q465" label="Henry P. B. Jewett">
         <attvalues>
@@ -226,9 +261,11 @@
           <attvalue for="harmonicclosnesscentrality" value="0.0"></attvalue>
           <attvalue for="betweenesscentrality" value="0.0"></attvalue>
           <attvalue for="eigencentrality" value="0.056646887318055526"></attvalue>
+          <attvalue for="modularity_class" value="5"></attvalue>
         </attvalues>
         <viz:size value="12.0"></viz:size>
-        <viz:position x="3296.033" y="-284.01852"></viz:position>
+        <viz:position x="3281.1794" y="-298.94128"></viz:position>
+        <viz:color r="235" g="84" b="0"></viz:color>
       </node>
       <node id="http://wikibase.svc/entity/Q469" label="William Farmer">
         <attvalues>
@@ -238,9 +275,11 @@
           <attvalue for="harmonicclosnesscentrality" value="0.0"></attvalue>
           <attvalue for="betweenesscentrality" value="0.0"></attvalue>
           <attvalue for="eigencentrality" value="0.17633174372607457"></attvalue>
+          <attvalue for="modularity_class" value="2"></attvalue>
         </attvalues>
         <viz:size value="12.0"></viz:size>
-        <viz:position x="1887.8739" y="2262.109"></viz:position>
+        <viz:position x="1872.7223" y="2277.4912"></viz:position>
+        <viz:color r="255" g="85" b="132"></viz:color>
       </node>
       <node id="http://wikibase.svc/entity/Q475" label="Harriet Beecher Stowe">
         <attvalues>
@@ -250,9 +289,11 @@
           <attvalue for="harmonicclosnesscentrality" value="0.0"></attvalue>
           <attvalue for="betweenesscentrality" value="0.0"></attvalue>
           <attvalue for="eigencentrality" value="0.29601660013409387"></attvalue>
+          <attvalue for="modularity_class" value="8"></attvalue>
         </attvalues>
         <viz:size value="12.0"></viz:size>
         <viz:position x="2425.6821" y="-513.7096"></viz:position>
+        <viz:color r="76" g="70" b="62"></viz:color>
       </node>
       <node id="http://wikibase.svc/entity/Q480" label="American Fugitive in Europe:  Sketches of Places and People Abroad (work)">
         <attvalues>
@@ -262,9 +303,11 @@
           <attvalue for="harmonicclosnesscentrality" value="1.0"></attvalue>
           <attvalue for="betweenesscentrality" value="0.0"></attvalue>
           <attvalue for="eigencentrality" value="0.056646887318055526"></attvalue>
+          <attvalue for="modularity_class" value="2"></attvalue>
         </attvalues>
         <viz:size value="12.0"></viz:size>
-        <viz:position x="1916.5159" y="1315.4915"></viz:position>
+        <viz:position x="1847.2446" y="1383.0547"></viz:position>
+        <viz:color r="255" g="85" b="132"></viz:color>
       </node>
       <node id="http://wikibase.svc/entity/Q481" label="Francis O. Freeman">
         <attvalues>
@@ -274,9 +317,11 @@
           <attvalue for="harmonicclosnesscentrality" value="0.0"></attvalue>
           <attvalue for="betweenesscentrality" value="0.0"></attvalue>
           <attvalue for="eigencentrality" value="0.11968485640801906"></attvalue>
+          <attvalue for="modularity_class" value="5"></attvalue>
         </attvalues>
         <viz:size value="12.0"></viz:size>
         <viz:position x="3860.5967" y="-365.62476"></viz:position>
+        <viz:color r="235" g="84" b="0"></viz:color>
       </node>
       <node id="http://wikibase.svc/entity/Q486" label="Oliver and Boyd (organization)">
         <attvalues>
@@ -286,9 +331,11 @@
           <attvalue for="harmonicclosnesscentrality" value="0.0"></attvalue>
           <attvalue for="betweenesscentrality" value="0.0"></attvalue>
           <attvalue for="eigencentrality" value="0.056646887318055526"></attvalue>
+          <attvalue for="modularity_class" value="2"></attvalue>
         </attvalues>
         <viz:size value="12.0"></viz:size>
-        <viz:position x="1992.728" y="2123.5347"></viz:position>
+        <viz:position x="1920.5264" y="2108.8835"></viz:position>
+        <viz:color r="255" g="85" b="132"></viz:color>
       </node>
       <node id="http://wikibase.svc/entity/Q548" label="Autobiography, with Details of a Visit to England (work)">
         <attvalues>
@@ -298,9 +345,11 @@
           <attvalue for="harmonicclosnesscentrality" value="1.0"></attvalue>
           <attvalue for="betweenesscentrality" value="0.0"></attvalue>
           <attvalue for="eigencentrality" value="0.056646887318055526"></attvalue>
+          <attvalue for="modularity_class" value="3"></attvalue>
         </attvalues>
         <viz:size value="12.0"></viz:size>
         <viz:position x="9540.53" y="-493.33167"></viz:position>
+        <viz:color r="192" g="192" b="192"></viz:color>
       </node>
       <node id="http://wikibase.svc/entity/Q553" label="Autobiography, with Details of a Visit to England (1862 Philadelphia edition published by the author)">
         <attvalues>
@@ -310,9 +359,11 @@
           <attvalue for="harmonicclosnesscentrality" value="1.0"></attvalue>
           <attvalue for="betweenesscentrality" value="6.127450980392157E-5"></attvalue>
           <attvalue for="eigencentrality" value="0.014125738582206981"></attvalue>
+          <attvalue for="modularity_class" value="3"></attvalue>
         </attvalues>
         <viz:size value="17.473684"></viz:size>
         <viz:position x="10151.303" y="-676.42145"></viz:position>
+        <viz:color r="192" g="192" b="192"></viz:color>
       </node>
       <node id="http://wikibase.svc/entity/Q556" label="Narrative of the Life of Moses Grandy, Late a Slave in the United States of America (Sc Rare 326.92-G (Grandy, M. Narrative of the life of Moses Grandy))">
         <attvalues>
@@ -322,9 +373,11 @@
           <attvalue for="harmonicclosnesscentrality" value="0.5277777777777778"></attvalue>
           <attvalue for="betweenesscentrality" value="0.0"></attvalue>
           <attvalue for="eigencentrality" value="0.0"></attvalue>
+          <attvalue for="modularity_class" value="4"></attvalue>
         </attvalues>
         <viz:size value="12.0"></viz:size>
         <viz:position x="-8635.8545" y="1816.1576"></viz:position>
+        <viz:color r="211" g="179" b="176"></viz:color>
       </node>
       <node id="http://wikibase.svc/entity/Q393" label="My Bondage and My Freedom (Sc Rare B-Douglass (Douglass, F. My bondage and my freedom. 1855))">
         <attvalues>
@@ -334,9 +387,11 @@
           <attvalue for="harmonicclosnesscentrality" value="0.53125"></attvalue>
           <attvalue for="betweenesscentrality" value="0.0"></attvalue>
           <attvalue for="eigencentrality" value="0.0"></attvalue>
+          <attvalue for="modularity_class" value="1"></attvalue>
         </attvalues>
         <viz:size value="12.0"></viz:size>
-        <viz:position x="-666.76575" y="-1370.7147"></viz:position>
+        <viz:position x="-704.03815" y="-1454.3828"></viz:position>
+        <viz:color r="0" g="196" b="255"></viz:color>
       </node>
       <node id="http://wikibase.svc/entity/Q371" label="James McCune Smith">
         <attvalues>
@@ -346,9 +401,11 @@
           <attvalue for="harmonicclosnesscentrality" value="0.0"></attvalue>
           <attvalue for="betweenesscentrality" value="0.0"></attvalue>
           <attvalue for="eigencentrality" value="0.11329377463611111"></attvalue>
+          <attvalue for="modularity_class" value="1"></attvalue>
         </attvalues>
         <viz:size value="12.0"></viz:size>
-        <viz:position x="-772.7989" y="-599.3841"></viz:position>
+        <viz:position x="-714.3574" y="-539.0303"></viz:position>
+        <viz:color r="0" g="196" b="255"></viz:color>
       </node>
       <node id="http://wikibase.svc/entity/Q387" label="Nathaniel Orr (1822-1908)">
         <attvalues>
@@ -358,9 +415,11 @@
           <attvalue for="harmonicclosnesscentrality" value="0.0"></attvalue>
           <attvalue for="betweenesscentrality" value="0.0"></attvalue>
           <attvalue for="eigencentrality" value="0.23936971281603822"></attvalue>
+          <attvalue for="modularity_class" value="1"></attvalue>
         </attvalues>
         <viz:size value="12.0"></viz:size>
-        <viz:position x="-117.751" y="-903.7761"></viz:position>
+        <viz:position x="-129.64769" y="-912.89746"></viz:position>
+        <viz:color r="0" g="196" b="255"></viz:color>
       </node>
       <node id="http://wikibase.svc/entity/Q384" label="John Chester Buttre">
         <attvalues>
@@ -370,9 +429,11 @@
           <attvalue for="harmonicclosnesscentrality" value="0.0"></attvalue>
           <attvalue for="betweenesscentrality" value="0.0"></attvalue>
           <attvalue for="eigencentrality" value="0.23297863104412997"></attvalue>
+          <attvalue for="modularity_class" value="1"></attvalue>
         </attvalues>
         <viz:size value="12.0"></viz:size>
-        <viz:position x="-1497.2009" y="-551.6735"></viz:position>
+        <viz:position x="-1485.5303" y="-538.8696"></viz:position>
+        <viz:color r="0" g="196" b="255"></viz:color>
       </node>
       <node id="http://wikibase.svc/entity/Q397" label="John Peterson">
         <attvalues>
@@ -382,9 +443,11 @@
           <attvalue for="harmonicclosnesscentrality" value="0.0"></attvalue>
           <attvalue for="betweenesscentrality" value="0.0"></attvalue>
           <attvalue for="eigencentrality" value="0.056646887318055526"></attvalue>
+          <attvalue for="modularity_class" value="1"></attvalue>
         </attvalues>
         <viz:size value="12.0"></viz:size>
         <viz:position x="-654.69775" y="-1903.1583"></viz:position>
+        <viz:color r="0" g="196" b="255"></viz:color>
       </node>
       <node id="http://wikibase.svc/entity/Q426" label="Narrative of the Life of Frederick Douglass, An American Slave (1845 Boston Anti-Slavery Office edition)">
         <attvalues>
@@ -394,9 +457,11 @@
           <attvalue for="harmonicclosnesscentrality" value="0.9545454545454546"></attvalue>
           <attvalue for="betweenesscentrality" value="1.685049019607843E-4"></attvalue>
           <attvalue for="eigencentrality" value="0.014125738582206981"></attvalue>
+          <attvalue for="modularity_class" value="6"></attvalue>
         </attvalues>
         <viz:size value="27.052631"></viz:size>
-        <viz:position x="-1549.1322" y="860.3633"></viz:position>
+        <viz:position x="-1534.7719" y="842.457"></viz:position>
+        <viz:color r="115" g="192" b="0"></viz:color>
       </node>
       <node id="http://wikibase.svc/entity/Q427" label="Incidents in the Life of the Rev. J. Asher (work)">
         <attvalues>
@@ -406,9 +471,11 @@
           <attvalue for="harmonicclosnesscentrality" value="1.0"></attvalue>
           <attvalue for="betweenesscentrality" value="1.5318627450980392E-5"></attvalue>
           <attvalue for="eigencentrality" value="0.014125738582206981"></attvalue>
+          <attvalue for="modularity_class" value="10"></attvalue>
         </attvalues>
         <viz:size value="13.368422"></viz:size>
         <viz:position x="9180.652" y="-647.46716"></viz:position>
+        <viz:color r="0" g="189" b="148"></viz:color>
       </node>
       <node id="http://wikibase.svc/entity/Q436" label="Incidents in the Life of the Rev. J. Asher (1850 London Gilpin edition)">
         <attvalues>
@@ -418,9 +485,11 @@
           <attvalue for="harmonicclosnesscentrality" value="0.9"></attvalue>
           <attvalue for="betweenesscentrality" value="0.0"></attvalue>
           <attvalue for="eigencentrality" value="0.0"></attvalue>
+          <attvalue for="modularity_class" value="10"></attvalue>
         </attvalues>
         <viz:size value="12.0"></viz:size>
         <viz:position x="8776.241" y="-149.4808"></viz:position>
+        <viz:color r="0" g="189" b="148"></viz:color>
       </node>
       <node id="http://wikibase.svc/entity/Q447" label="Truth Stranger Than Fiction (work)">
         <attvalues>
@@ -430,9 +499,11 @@
           <attvalue for="harmonicclosnesscentrality" value="1.0"></attvalue>
           <attvalue for="betweenesscentrality" value="3.0637254901960784E-5"></attvalue>
           <attvalue for="eigencentrality" value="0.056646887318055526"></attvalue>
+          <attvalue for="modularity_class" value="5"></attvalue>
         </attvalues>
         <viz:size value="14.736842"></viz:size>
-        <viz:position x="4215.751" y="-143.61784"></viz:position>
+        <viz:position x="4245.435" y="-162.97046"></viz:position>
+        <viz:color r="235" g="84" b="0"></viz:color>
       </node>
       <node id="http://wikibase.svc/entity/Q430" label="Jeremiah Asher">
         <attvalues>
@@ -442,9 +513,11 @@
           <attvalue for="harmonicclosnesscentrality" value="0.0"></attvalue>
           <attvalue for="betweenesscentrality" value="0.0"></attvalue>
           <attvalue for="eigencentrality" value="0.289625518362186"></attvalue>
+          <attvalue for="modularity_class" value="3"></attvalue>
         </attvalues>
         <viz:size value="12.0"></viz:size>
         <viz:position x="9477.23" y="-844.6073"></viz:position>
+        <viz:color r="192" g="192" b="192"></viz:color>
       </node>
       <node id="http://wikibase.svc/entity/Q446" label="James W.C. Pennington">
         <attvalues>
@@ -454,9 +527,11 @@
           <attvalue for="harmonicclosnesscentrality" value="0.0"></attvalue>
           <attvalue for="betweenesscentrality" value="0.0"></attvalue>
           <attvalue for="eigencentrality" value="0.3526634874521495"></attvalue>
+          <attvalue for="modularity_class" value="10"></attvalue>
         </attvalues>
         <viz:size value="12.0"></viz:size>
         <viz:position x="8616.178" y="-830.22253"></viz:position>
+        <viz:color r="0" g="189" b="148"></viz:color>
       </node>
       <node id="http://wikibase.svc/entity/Q515" label="Three Years in Europe; or, Places I Have Seen and People I Have Met (Schomburg Center Rare 914.2-B copy)">
         <attvalues>
@@ -466,9 +541,11 @@
           <attvalue for="harmonicclosnesscentrality" value="0.5454545454545454"></attvalue>
           <attvalue for="betweenesscentrality" value="0.0"></attvalue>
           <attvalue for="eigencentrality" value="0.0"></attvalue>
+          <attvalue for="modularity_class" value="2"></attvalue>
         </attvalues>
         <viz:size value="12.0"></viz:size>
-        <viz:position x="2369.2966" y="1739.999"></viz:position>
+        <viz:position x="2474.0918" y="1697.0986"></viz:position>
+        <viz:color r="255" g="85" b="132"></viz:color>
       </node>
       <node id="http://wikibase.svc/entity/Q492" label="Richard Woodman">
         <attvalues>
@@ -478,9 +555,11 @@
           <attvalue for="harmonicclosnesscentrality" value="0.0"></attvalue>
           <attvalue for="betweenesscentrality" value="0.0"></attvalue>
           <attvalue for="eigencentrality" value="0.11329377463611111"></attvalue>
+          <attvalue for="modularity_class" value="2"></attvalue>
         </attvalues>
         <viz:size value="12.0"></viz:size>
-        <viz:position x="2141.1814" y="2194.5012"></viz:position>
+        <viz:position x="2111.6882" y="2223.214"></viz:position>
+        <viz:color r="255" g="85" b="132"></viz:color>
       </node>
       <node id="http://wikibase.svc/entity/Q523" label="Narrative of the Life of Moses Grandy, Late a Slave in the United States of America (work)">
         <attvalues>
@@ -490,9 +569,11 @@
           <attvalue for="harmonicclosnesscentrality" value="1.0"></attvalue>
           <attvalue for="betweenesscentrality" value="6.127450980392157E-5"></attvalue>
           <attvalue for="eigencentrality" value="0.056646887318055526"></attvalue>
+          <attvalue for="modularity_class" value="4"></attvalue>
         </attvalues>
         <viz:size value="17.473684"></viz:size>
         <viz:position x="-7785.4175" y="1730.5776"></viz:position>
+        <viz:color r="211" g="179" b="176"></viz:color>
       </node>
       <node id="http://wikibase.svc/entity/Q536" label="American Fugitive in Europe:  Sketches of Places and People Abroad (Schomburg 914.2 B)">
         <attvalues>
@@ -502,9 +583,11 @@
           <attvalue for="harmonicclosnesscentrality" value="0.65"></attvalue>
           <attvalue for="betweenesscentrality" value="0.0"></attvalue>
           <attvalue for="eigencentrality" value="0.0"></attvalue>
+          <attvalue for="modularity_class" value="2"></attvalue>
         </attvalues>
         <viz:size value="12.0"></viz:size>
-        <viz:position x="2417.5798" y="1263.8676"></viz:position>
+        <viz:position x="2442.1392" y="1276.7755"></viz:position>
+        <viz:color r="255" g="85" b="132"></viz:color>
       </node>
       <node id="http://wikibase.svc/entity/Q540" label="Narrative of the Life of Moses Grandy, Late a Slave in the United States of America (1844 Boston Oliver Johnson Edition)">
         <attvalues>
@@ -514,9 +597,11 @@
           <attvalue for="harmonicclosnesscentrality" value="0.8"></attvalue>
           <attvalue for="betweenesscentrality" value="7.659313725490196E-5"></attvalue>
           <attvalue for="eigencentrality" value="0.014125738582206981"></attvalue>
+          <attvalue for="modularity_class" value="4"></attvalue>
         </attvalues>
         <viz:size value="18.842106"></viz:size>
         <viz:position x="-8175.2783" y="1973.7839"></viz:position>
+        <viz:color r="211" g="179" b="176"></viz:color>
       </node>
       <node id="http://wikibase.svc/entity/Q530" label="Moses Grandy">
         <attvalues>
@@ -526,9 +611,11 @@
           <attvalue for="harmonicclosnesscentrality" value="0.0"></attvalue>
           <attvalue for="betweenesscentrality" value="0.0"></attvalue>
           <attvalue for="eigencentrality" value="0.11968485640801906"></attvalue>
+          <attvalue for="modularity_class" value="4"></attvalue>
         </attvalues>
         <viz:size value="12.0"></viz:size>
         <viz:position x="-7932.562" y="2023.9624"></viz:position>
+        <viz:color r="211" g="179" b="176"></viz:color>
       </node>
       <node id="http://wikibase.svc/entity/Q539" label="George Thompson">
         <attvalues>
@@ -538,9 +625,11 @@
           <attvalue for="harmonicclosnesscentrality" value="0.0"></attvalue>
           <attvalue for="betweenesscentrality" value="0.0"></attvalue>
           <attvalue for="eigencentrality" value="0.29601660013409387"></attvalue>
+          <attvalue for="modularity_class" value="4"></attvalue>
         </attvalues>
         <viz:size value="12.0"></viz:size>
         <viz:position x="-7456.8237" y="1558.4908"></viz:position>
+        <viz:color r="211" g="179" b="176"></viz:color>
       </node>
       <node id="http://wikibase.svc/entity/Q547" label="Oliver Johnson">
         <attvalues>
@@ -550,9 +639,11 @@
           <attvalue for="harmonicclosnesscentrality" value="0.0"></attvalue>
           <attvalue for="betweenesscentrality" value="0.0"></attvalue>
           <attvalue for="eigencentrality" value="0.11329377463611111"></attvalue>
+          <attvalue for="modularity_class" value="4"></attvalue>
         </attvalues>
         <viz:size value="12.0"></viz:size>
         <viz:position x="-8426.135" y="2083.2485"></viz:position>
+        <viz:color r="211" g="179" b="176"></viz:color>
       </node>
       <node id="http://wikibase.svc/entity/Q448" label="Fugitive Blacksmith (work)">
         <attvalues>
@@ -562,9 +653,11 @@
           <attvalue for="harmonicclosnesscentrality" value="1.0"></attvalue>
           <attvalue for="betweenesscentrality" value="0.0"></attvalue>
           <attvalue for="eigencentrality" value="0.056646887318055526"></attvalue>
+          <attvalue for="modularity_class" value="10"></attvalue>
         </attvalues>
         <viz:size value="12.0"></viz:size>
         <viz:position x="8524.937" y="-1113.1227"></viz:position>
+        <viz:color r="0" g="189" b="148"></viz:color>
       </node>
       <node id="http://wikibase.svc/entity/Q456" label="Fugitive Blacksmith (1850 London Gilpin edition)">
         <attvalues>
@@ -574,9 +667,11 @@
           <attvalue for="harmonicclosnesscentrality" value="1.0"></attvalue>
           <attvalue for="betweenesscentrality" value="1.0723039215686274E-4"></attvalue>
           <attvalue for="eigencentrality" value="0.014125738582206981"></attvalue>
+          <attvalue for="modularity_class" value="10"></attvalue>
         </attvalues>
         <viz:size value="21.578947"></viz:size>
         <viz:position x="8072.4604" y="-752.6556"></viz:position>
+        <viz:color r="0" g="189" b="148"></viz:color>
       </node>
       <node id="http://wikibase.svc/entity/Q457" label="Truth Stranger Than Fiction: Father Henson's Story of His Own Life (1858 Boston and Cleveland Jewett and Company edition)">
         <attvalues>
@@ -586,9 +681,11 @@
           <attvalue for="harmonicclosnesscentrality" value="0.9"></attvalue>
           <attvalue for="betweenesscentrality" value="1.5318627450980392E-4"></attvalue>
           <attvalue for="eigencentrality" value="0.014125738582206981"></attvalue>
+          <attvalue for="modularity_class" value="5"></attvalue>
         </attvalues>
         <viz:size value="25.684212"></viz:size>
-        <viz:position x="3070.3765" y="-111.73925"></viz:position>
+        <viz:position x="3038.8467" y="-94.03635"></viz:position>
+        <viz:color r="235" g="84" b="0"></viz:color>
       </node>
       <node id="http://wikibase.svc/entity/Q450" label="Josiah Henson">
         <attvalues>
@@ -598,9 +695,11 @@
           <attvalue for="harmonicclosnesscentrality" value="0.0"></attvalue>
           <attvalue for="betweenesscentrality" value="0.0"></attvalue>
           <attvalue for="eigencentrality" value="0.23936971281603822"></attvalue>
+          <attvalue for="modularity_class" value="5"></attvalue>
         </attvalues>
         <viz:size value="12.0"></viz:size>
         <viz:position x="5199.776" y="-249.40324"></viz:position>
+        <viz:color r="235" g="84" b="0"></viz:color>
       </node>
       <node id="http://wikibase.svc/entity/Q449" label="Charles Gilpin">
         <attvalues>
@@ -610,9 +709,11 @@
           <attvalue for="harmonicclosnesscentrality" value="0.0"></attvalue>
           <attvalue for="betweenesscentrality" value="0.0"></attvalue>
           <attvalue for="eigencentrality" value="0.1274195132183181"></attvalue>
+          <attvalue for="modularity_class" value="10"></attvalue>
         </attvalues>
         <viz:size value="12.0"></viz:size>
-        <viz:position x="7893.6445" y="-487.99133"></viz:position>
+        <viz:position x="7913.092" y="-508.53714"></viz:position>
+        <viz:color r="0" g="189" b="148"></viz:color>
       </node>
       <node id="http://wikibase.svc/entity/Q460" label="John P. Jewett and Company (organization)">
         <attvalues>
@@ -622,9 +723,11 @@
           <attvalue for="harmonicclosnesscentrality" value="0.0"></attvalue>
           <attvalue for="betweenesscentrality" value="0.0"></attvalue>
           <attvalue for="eigencentrality" value="0.23297863104412997"></attvalue>
+          <attvalue for="modularity_class" value="5"></attvalue>
         </attvalues>
         <viz:size value="12.0"></viz:size>
         <viz:position x="2616.6965" y="544.32294"></viz:position>
+        <viz:color r="235" g="84" b="0"></viz:color>
       </node>
       <node id="http://wikibase.svc/entity/Q461" label="Three Years in Europe; or, Places I have Seen and People I have Met (work)">
         <attvalues>
@@ -634,9 +737,11 @@
           <attvalue for="harmonicclosnesscentrality" value="1.0"></attvalue>
           <attvalue for="betweenesscentrality" value="0.0"></attvalue>
           <attvalue for="eigencentrality" value="0.056646887318055526"></attvalue>
+          <attvalue for="modularity_class" value="2"></attvalue>
         </attvalues>
         <viz:size value="12.0"></viz:size>
-        <viz:position x="1357.8801" y="1769.1171"></viz:position>
+        <viz:position x="1385.1183" y="1766.0721"></viz:position>
+        <viz:color r="255" g="85" b="132"></viz:color>
       </node>
       <node id="http://wikibase.svc/entity/Q706" label="Narrative of the Life of Frederick Douglass, an American Slave (1845 Dublin Webb and Chapman edition)">
         <attvalues>
@@ -646,9 +751,11 @@
           <attvalue for="harmonicclosnesscentrality" value="1.0"></attvalue>
           <attvalue for="betweenesscentrality" value="2.144607843137255E-4"></attvalue>
           <attvalue for="eigencentrality" value="0.014125738582206981"></attvalue>
+          <attvalue for="modularity_class" value="6"></attvalue>
         </attvalues>
         <viz:size value="31.157894"></viz:size>
-        <viz:position x="-3032.9102" y="729.6119"></viz:position>
+        <viz:position x="-3020.6753" y="741.6675"></viz:position>
+        <viz:color r="115" g="192" b="0"></viz:color>
       </node>
       <node id="http://wikibase.svc/entity/Q715" label="Narrative of the Life of Frederick Douglass, an American Slave (Schomburg Sc Rare B-Douglass copy)">
         <attvalues>
@@ -658,9 +765,11 @@
           <attvalue for="harmonicclosnesscentrality" value="0.5588235294117647"></attvalue>
           <attvalue for="betweenesscentrality" value="0.0"></attvalue>
           <attvalue for="eigencentrality" value="0.0"></attvalue>
+          <attvalue for="modularity_class" value="6"></attvalue>
         </attvalues>
         <viz:size value="12.0"></viz:size>
-        <viz:position x="-3440.5652" y="1150.1177"></viz:position>
+        <viz:position x="-3503.1938" y="1091.2819"></viz:position>
+        <viz:color r="115" g="192" b="0"></viz:color>
       </node>
       <node id="http://wikibase.svc/entity/Q720" label="J. Oswald Jackson">
         <attvalues>
@@ -670,9 +779,11 @@
           <attvalue for="harmonicclosnesscentrality" value="0.0"></attvalue>
           <attvalue for="betweenesscentrality" value="0.0"></attvalue>
           <attvalue for="eigencentrality" value="0.056646887318055526"></attvalue>
+          <attvalue for="modularity_class" value="6"></attvalue>
         </attvalues>
         <viz:size value="12.0"></viz:size>
         <viz:position x="-3841.2327" y="1647.5245"></viz:position>
+        <viz:color r="115" g="192" b="0"></viz:color>
       </node>
       <node id="http://wikibase.svc/entity/Q904" label="Life and Adventures of James P. Beckwourth (Harper &amp; Brothers 1856 Edition)">
         <attvalues>
@@ -682,9 +793,11 @@
           <attvalue for="harmonicclosnesscentrality" value="0.9"></attvalue>
           <attvalue for="betweenesscentrality" value="1.5318627450980392E-4"></attvalue>
           <attvalue for="eigencentrality" value="0.028251477164413962"></attvalue>
+          <attvalue for="modularity_class" value="7"></attvalue>
         </attvalues>
         <viz:size value="25.684212"></viz:size>
-        <viz:position x="3426.9248" y="-2567.6968"></viz:position>
+        <viz:position x="3469.197" y="-2608.2754"></viz:position>
+        <viz:color r="255" g="148" b="254"></viz:color>
       </node>
       <node id="http://wikibase.svc/entity/Q879" label="Twelve Years A Slave (work)">
         <attvalues>
@@ -694,9 +807,11 @@
           <attvalue for="harmonicclosnesscentrality" value="1.0"></attvalue>
           <attvalue for="betweenesscentrality" value="6.127450980392157E-5"></attvalue>
           <attvalue for="eigencentrality" value="0.11329377463611111"></attvalue>
+          <attvalue for="modularity_class" value="8"></attvalue>
         </attvalues>
         <viz:size value="17.473684"></viz:size>
-        <viz:position x="1278.8564" y="-1324.0829"></viz:position>
+        <viz:position x="1279.4336" y="-1325.9469"></viz:position>
+        <viz:color r="76" g="70" b="62"></viz:color>
       </node>
       <node id="http://wikibase.svc/entity/Q881" label="Twelve Years a Slave (1857 New York, Miller, Orton and Co., edition)">
         <attvalues>
@@ -706,9 +821,11 @@
           <attvalue for="harmonicclosnesscentrality" value="0.9166666666666666"></attvalue>
           <attvalue for="betweenesscentrality" value="1.838235294117647E-4"></attvalue>
           <attvalue for="eigencentrality" value="0.014125738582206981"></attvalue>
+          <attvalue for="modularity_class" value="8"></attvalue>
         </attvalues>
         <viz:size value="28.421051"></viz:size>
-        <viz:position x="852.383" y="-893.0248"></viz:position>
+        <viz:position x="935.2157" y="-847.07513"></viz:position>
+        <viz:color r="76" g="70" b="62"></viz:color>
       </node>
       <node id="http://wikibase.svc/entity/Q886" label="Twelve Years a Slave (1853 Auburn, Buffalo, and London edition)">
         <attvalues>
@@ -718,9 +835,11 @@
           <attvalue for="harmonicclosnesscentrality" value="0.9333333333333333"></attvalue>
           <attvalue for="betweenesscentrality" value="2.2977941176470588E-4"></attvalue>
           <attvalue for="eigencentrality" value="0.014125738582206981"></attvalue>
+          <attvalue for="modularity_class" value="8"></attvalue>
         </attvalues>
         <viz:size value="32.526314"></viz:size>
-        <viz:position x="1824.7206" y="-1294.3074"></viz:position>
+        <viz:position x="1879.5856" y="-1241.7894"></viz:position>
+        <viz:color r="76" g="70" b="62"></viz:color>
       </node>
       <node id="http://wikibase.svc/entity/Q884" label="Twelve Years A Slave (Schomburg SC Rare C 89-34 copy)">
         <attvalues>
@@ -730,9 +849,11 @@
           <attvalue for="harmonicclosnesscentrality" value="0.5476190476190476"></attvalue>
           <attvalue for="betweenesscentrality" value="0.0"></attvalue>
           <attvalue for="eigencentrality" value="0.0"></attvalue>
+          <attvalue for="modularity_class" value="8"></attvalue>
         </attvalues>
         <viz:size value="12.0"></viz:size>
-        <viz:position x="875.6063" y="-1366.5891"></viz:position>
+        <viz:position x="753.1886" y="-1383.2656"></viz:position>
+        <viz:color r="76" g="70" b="62"></viz:color>
       </node>
       <node id="http://wikibase.svc/entity/Q885" label="Twelve Years A Slave (Schomburg SC Rare C 326.92-N copy)">
         <attvalues>
@@ -742,9 +863,11 @@
           <attvalue for="harmonicclosnesscentrality" value="0.5104166666666666"></attvalue>
           <attvalue for="betweenesscentrality" value="0.0"></attvalue>
           <attvalue for="eigencentrality" value="0.0"></attvalue>
+          <attvalue for="modularity_class" value="8"></attvalue>
         </attvalues>
         <viz:size value="12.0"></viz:size>
         <viz:position x="1960.9598" y="-1831.2104"></viz:position>
+        <viz:color r="76" g="70" b="62"></viz:color>
       </node>
       <node id="http://wikibase.svc/entity/Q878" label="Solomon Northup">
         <attvalues>
@@ -754,9 +877,11 @@
           <attvalue for="harmonicclosnesscentrality" value="0.0"></attvalue>
           <attvalue for="betweenesscentrality" value="0.0"></attvalue>
           <attvalue for="eigencentrality" value="0.22524397423383133"></attvalue>
+          <attvalue for="modularity_class" value="8"></attvalue>
         </attvalues>
         <viz:size value="12.0"></viz:size>
-        <viz:position x="1488.499" y="-1576.5012"></viz:position>
+        <viz:position x="1481.7124" y="-1570.1127"></viz:position>
+        <viz:color r="76" g="70" b="62"></viz:color>
       </node>
       <node id="http://wikibase.svc/entity/Q883" label="David Wilson">
         <attvalues>
@@ -766,9 +891,11 @@
           <attvalue for="harmonicclosnesscentrality" value="0.0"></attvalue>
           <attvalue for="betweenesscentrality" value="0.0"></attvalue>
           <attvalue for="eigencentrality" value="0.11329377463611111"></attvalue>
+          <attvalue for="modularity_class" value="8"></attvalue>
         </attvalues>
         <viz:size value="12.0"></viz:size>
-        <viz:position x="1332.3792" y="-945.1379"></viz:position>
+        <viz:position x="1342.441" y="-943.7908"></viz:position>
+        <viz:color r="76" g="70" b="62"></viz:color>
       </node>
       <node id="http://wikibase.svc/entity/Q887" label="Derby and Miller">
         <attvalues>
@@ -778,9 +905,11 @@
           <attvalue for="harmonicclosnesscentrality" value="0.0"></attvalue>
           <attvalue for="betweenesscentrality" value="0.0"></attvalue>
           <attvalue for="eigencentrality" value="0.056646887318055526"></attvalue>
+          <attvalue for="modularity_class" value="8"></attvalue>
         </attvalues>
         <viz:size value="12.0"></viz:size>
-        <viz:position x="1600.2107" y="-1403.5758"></viz:position>
+        <viz:position x="1648.9165" y="-1451.6823"></viz:position>
+        <viz:color r="76" g="70" b="62"></viz:color>
       </node>
       <node id="http://wikibase.svc/entity/Q888" label="Derby, Orton, and Mulligan">
         <attvalues>
@@ -790,9 +919,11 @@
           <attvalue for="harmonicclosnesscentrality" value="0.0"></attvalue>
           <attvalue for="betweenesscentrality" value="0.0"></attvalue>
           <attvalue for="eigencentrality" value="0.056646887318055526"></attvalue>
+          <attvalue for="modularity_class" value="8"></attvalue>
         </attvalues>
         <viz:size value="12.0"></viz:size>
-        <viz:position x="1644.7032" y="-1632.1888"></viz:position>
+        <viz:position x="1649.767" y="-1640.8394"></viz:position>
+        <viz:color r="76" g="70" b="62"></viz:color>
       </node>
       <node id="http://wikibase.svc/entity/Q889" label="Sampson, Low, Son, and Company">
         <attvalues>
@@ -802,9 +933,11 @@
           <attvalue for="harmonicclosnesscentrality" value="0.0"></attvalue>
           <attvalue for="betweenesscentrality" value="0.0"></attvalue>
           <attvalue for="eigencentrality" value="0.11329377463611111"></attvalue>
+          <attvalue for="modularity_class" value="7"></attvalue>
         </attvalues>
         <viz:size value="12.0"></viz:size>
         <viz:position x="2341.3672" y="-1903.9708"></viz:position>
+        <viz:color r="255" g="148" b="254"></viz:color>
       </node>
       <node id="http://wikibase.svc/entity/Q947" label="American Prejudice Against Color (work)">
         <attvalues>
@@ -814,9 +947,11 @@
           <attvalue for="harmonicclosnesscentrality" value="1.0"></attvalue>
           <attvalue for="betweenesscentrality" value="3.0637254901960784E-5"></attvalue>
           <attvalue for="eigencentrality" value="0.056646887318055526"></attvalue>
+          <attvalue for="modularity_class" value="4"></attvalue>
         </attvalues>
         <viz:size value="14.736842"></viz:size>
         <viz:position x="-5916.3296" y="1368.9386"></viz:position>
+        <viz:color r="211" g="179" b="176"></viz:color>
       </node>
       <node id="http://wikibase.svc/entity/Q948" label="American Prejudice Against Color (1853 W. and F.G. Cash edition)">
         <attvalues>
@@ -826,9 +961,11 @@
           <attvalue for="harmonicclosnesscentrality" value="0.9545454545454546"></attvalue>
           <attvalue for="betweenesscentrality" value="1.685049019607843E-4"></attvalue>
           <attvalue for="eigencentrality" value="0.014125738582206981"></attvalue>
+          <attvalue for="modularity_class" value="4"></attvalue>
         </attvalues>
         <viz:size value="27.052631"></viz:size>
         <viz:position x="-6344.723" y="1608.4814"></viz:position>
+        <viz:color r="211" g="179" b="176"></viz:color>
       </node>
       <node id="http://wikibase.svc/entity/Q954" label="American Prejudice Against Color (NYHS E 185.62 .A43 1853 copy)">
         <attvalues>
@@ -838,9 +975,11 @@
           <attvalue for="harmonicclosnesscentrality" value="0.5277777777777778"></attvalue>
           <attvalue for="betweenesscentrality" value="0.0"></attvalue>
           <attvalue for="eigencentrality" value="0.0"></attvalue>
+          <attvalue for="modularity_class" value="4"></attvalue>
         </attvalues>
         <viz:size value="12.0"></viz:size>
         <viz:position x="-6687.725" y="2050.1653"></viz:position>
+        <viz:color r="211" g="179" b="176"></viz:color>
       </node>
       <node id="http://wikibase.svc/entity/Q950" label="John Calcutt">
         <attvalues>
@@ -850,9 +989,11 @@
           <attvalue for="harmonicclosnesscentrality" value="0.0"></attvalue>
           <attvalue for="betweenesscentrality" value="0.0"></attvalue>
           <attvalue for="eigencentrality" value="0.056646887318055526"></attvalue>
+          <attvalue for="modularity_class" value="4"></attvalue>
         </attvalues>
         <viz:size value="12.0"></viz:size>
         <viz:position x="-7019.261" y="1844.5256"></viz:position>
+        <viz:color r="211" g="179" b="176"></viz:color>
       </node>
       <node id="http://wikibase.svc/entity/Q952" label="Gerrit Smith">
         <attvalues>
@@ -862,9 +1003,11 @@
           <attvalue for="harmonicclosnesscentrality" value="0.0"></attvalue>
           <attvalue for="betweenesscentrality" value="0.0"></attvalue>
           <attvalue for="eigencentrality" value="0.17633174372607457"></attvalue>
+          <attvalue for="modularity_class" value="4"></attvalue>
         </attvalues>
         <viz:size value="12.0"></viz:size>
         <viz:position x="-7212.4062" y="1432.1201"></viz:position>
+        <viz:color r="211" g="179" b="176"></viz:color>
       </node>
       <node id="http://wikibase.svc/entity/Q953" label="Joseph Sturge">
         <attvalues>
@@ -874,9 +1017,11 @@
           <attvalue for="harmonicclosnesscentrality" value="0.0"></attvalue>
           <attvalue for="betweenesscentrality" value="0.0"></attvalue>
           <attvalue for="eigencentrality" value="0.17633174372607457"></attvalue>
+          <attvalue for="modularity_class" value="4"></attvalue>
         </attvalues>
         <viz:size value="12.0"></viz:size>
         <viz:position x="-7095.592" y="1269.7635"></viz:position>
+        <viz:color r="211" g="179" b="176"></viz:color>
       </node>
       <node id="http://wikibase.svc/entity/Q586" label="Autobiography, with Details of a Visit to England (Schomburg Sc-Rare B-Asher copy)">
         <attvalues>
@@ -886,9 +1031,11 @@
           <attvalue for="harmonicclosnesscentrality" value="0.6666666666666666"></attvalue>
           <attvalue for="betweenesscentrality" value="0.0"></attvalue>
           <attvalue for="eigencentrality" value="0.0"></attvalue>
+          <attvalue for="modularity_class" value="3"></attvalue>
         </attvalues>
         <viz:size value="12.0"></viz:size>
         <viz:position x="10669.834" y="-806.9961"></viz:position>
+        <viz:color r="192" g="192" b="192"></viz:color>
       </node>
       <node id="http://wikibase.svc/entity/Q565" label="J. Wheaton Smith">
         <attvalues>
@@ -898,9 +1045,11 @@
           <attvalue for="harmonicclosnesscentrality" value="0.0"></attvalue>
           <attvalue for="betweenesscentrality" value="0.0"></attvalue>
           <attvalue for="eigencentrality" value="0.056646887318055526"></attvalue>
+          <attvalue for="modularity_class" value="3"></attvalue>
         </attvalues>
         <viz:size value="12.0"></viz:size>
         <viz:position x="10467.692" y="-492.43695"></viz:position>
+        <viz:color r="192" g="192" b="192"></viz:color>
       </node>
       <node id="http://wikibase.svc/entity/Q611" label="Twenty-Two Years A Slave, and Forty Years a Freeman (work)">
         <attvalues>
@@ -910,9 +1059,11 @@
           <attvalue for="harmonicclosnesscentrality" value="1.0"></attvalue>
           <attvalue for="betweenesscentrality" value="3.0637254901960784E-5"></attvalue>
           <attvalue for="eigencentrality" value="0.056646887318055526"></attvalue>
+          <attvalue for="modularity_class" value="9"></attvalue>
         </attvalues>
         <viz:size value="14.736842"></viz:size>
-        <viz:position x="-3613.983" y="-1561.3154"></viz:position>
+        <viz:position x="-3617.381" y="-1563.9885"></viz:position>
+        <viz:color r="223" g="137" b="255"></viz:color>
       </node>
       <node id="http://wikibase.svc/entity/Q612" label="Twenty-Two Years A Slave, and Forty Years a Freeman (1861 edition)">
         <attvalues>
@@ -922,9 +1073,11 @@
           <attvalue for="harmonicclosnesscentrality" value="0.9868421052631579"></attvalue>
           <attvalue for="betweenesscentrality" value="5.821078431372549E-4"></attvalue>
           <attvalue for="eigencentrality" value="0.014125738582206981"></attvalue>
+          <attvalue for="modularity_class" value="9"></attvalue>
         </attvalues>
         <viz:size value="64.0"></viz:size>
-        <viz:position x="-2307.7314" y="-623.7833"></viz:position>
+        <viz:position x="-2267.0085" y="-664.57196"></viz:position>
+        <viz:color r="223" g="137" b="255"></viz:color>
       </node>
       <node id="http://wikibase.svc/entity/Q610" label="Austin Steward">
         <attvalues>
@@ -934,9 +1087,11 @@
           <attvalue for="harmonicclosnesscentrality" value="0.0"></attvalue>
           <attvalue for="betweenesscentrality" value="0.0"></attvalue>
           <attvalue for="eigencentrality" value="0.11968485640801906"></attvalue>
+          <attvalue for="modularity_class" value="9"></attvalue>
         </attvalues>
         <viz:size value="12.0"></viz:size>
         <viz:position x="-3738.4133" y="-1256.9471"></viz:position>
+        <viz:color r="223" g="137" b="255"></viz:color>
       </node>
       <node id="http://wikibase.svc/entity/Q618" label="Myron H. Clark">
         <attvalues>
@@ -946,9 +1101,11 @@
           <attvalue for="harmonicclosnesscentrality" value="0.0"></attvalue>
           <attvalue for="betweenesscentrality" value="0.0"></attvalue>
           <attvalue for="eigencentrality" value="0.17633174372607457"></attvalue>
+          <attvalue for="modularity_class" value="9"></attvalue>
         </attvalues>
         <viz:size value="12.0"></viz:size>
-        <viz:position x="-3021.3005" y="-619.08154"></viz:position>
+        <viz:position x="-3100.6462" y="-537.1874"></viz:position>
+        <viz:color r="223" g="137" b="255"></viz:color>
       </node>
       <node id="http://wikibase.svc/entity/Q622" label="Frederick Starr">
         <attvalues>
@@ -958,9 +1115,11 @@
           <attvalue for="harmonicclosnesscentrality" value="0.0"></attvalue>
           <attvalue for="betweenesscentrality" value="0.0"></attvalue>
           <attvalue for="eigencentrality" value="0.17633174372607457"></attvalue>
+          <attvalue for="modularity_class" value="9"></attvalue>
         </attvalues>
         <viz:size value="12.0"></viz:size>
         <viz:position x="-3238.3892" y="-1063.8624"></viz:position>
+        <viz:color r="223" g="137" b="255"></viz:color>
       </node>
       <node id="http://wikibase.svc/entity/Q623" label="Chas. J. Hill">
         <attvalues>
@@ -970,9 +1129,11 @@
           <attvalue for="harmonicclosnesscentrality" value="0.0"></attvalue>
           <attvalue for="betweenesscentrality" value="0.0"></attvalue>
           <attvalue for="eigencentrality" value="0.17633174372607457"></attvalue>
+          <attvalue for="modularity_class" value="9"></attvalue>
         </attvalues>
         <viz:size value="12.0"></viz:size>
-        <viz:position x="-1825.7546" y="-991.8771"></viz:position>
+        <viz:position x="-1857.5017" y="-1028.503"></viz:position>
+        <viz:color r="223" g="137" b="255"></viz:color>
       </node>
       <node id="http://wikibase.svc/entity/Q620" label="Ashley Sampson">
         <attvalues>
@@ -982,9 +1143,11 @@
           <attvalue for="harmonicclosnesscentrality" value="0.0"></attvalue>
           <attvalue for="betweenesscentrality" value="0.0"></attvalue>
           <attvalue for="eigencentrality" value="0.17633174372607457"></attvalue>
+          <attvalue for="modularity_class" value="9"></attvalue>
         </attvalues>
         <viz:size value="12.0"></viz:size>
         <viz:position x="-3032.7515" y="-1221.0442"></viz:position>
+        <viz:color r="223" g="137" b="255"></viz:color>
       </node>
       <node id="http://wikibase.svc/entity/Q621" label="Thomas Kempshall">
         <attvalues>
@@ -994,9 +1157,11 @@
           <attvalue for="harmonicclosnesscentrality" value="0.0"></attvalue>
           <attvalue for="betweenesscentrality" value="0.0"></attvalue>
           <attvalue for="eigencentrality" value="0.17633174372607457"></attvalue>
+          <attvalue for="modularity_class" value="9"></attvalue>
         </attvalues>
         <viz:size value="12.0"></viz:size>
-        <viz:position x="-2914.5222" y="-681.85156"></viz:position>
+        <viz:position x="-3018.0513" y="-792.08856"></viz:position>
+        <viz:color r="223" g="137" b="255"></viz:color>
       </node>
       <node id="http://wikibase.svc/entity/Q626" label="Jacob Gould">
         <attvalues>
@@ -1006,9 +1171,11 @@
           <attvalue for="harmonicclosnesscentrality" value="0.0"></attvalue>
           <attvalue for="betweenesscentrality" value="0.0"></attvalue>
           <attvalue for="eigencentrality" value="0.17633174372607457"></attvalue>
+          <attvalue for="modularity_class" value="9"></attvalue>
         </attvalues>
         <viz:size value="12.0"></viz:size>
-        <viz:position x="-1990.5181" y="-949.6243"></viz:position>
+        <viz:position x="-2038.4857" y="-901.8819"></viz:position>
+        <viz:color r="223" g="137" b="255"></viz:color>
       </node>
       <node id="http://wikibase.svc/entity/Q627" label="J. C. Buttre">
         <attvalues>
@@ -1018,9 +1185,11 @@
           <attvalue for="harmonicclosnesscentrality" value="0.0"></attvalue>
           <attvalue for="betweenesscentrality" value="0.0"></attvalue>
           <attvalue for="eigencentrality" value="0.11968485640801906"></attvalue>
+          <attvalue for="modularity_class" value="1"></attvalue>
         </attvalues>
         <viz:size value="12.0"></viz:size>
         <viz:position x="-901.63116" y="-1618.6968"></viz:position>
+        <viz:color r="0" g="196" b="255"></viz:color>
       </node>
       <node id="http://wikibase.svc/entity/Q624" label="L. A. Ward">
         <attvalues>
@@ -1030,9 +1199,11 @@
           <attvalue for="harmonicclosnesscentrality" value="0.0"></attvalue>
           <attvalue for="betweenesscentrality" value="0.0"></attvalue>
           <attvalue for="eigencentrality" value="0.17633174372607457"></attvalue>
+          <attvalue for="modularity_class" value="9"></attvalue>
         </attvalues>
         <viz:size value="12.0"></viz:size>
-        <viz:position x="-2780.3442" y="-1061.652"></viz:position>
+        <viz:position x="-2801.3953" y="-1041.1809"></viz:position>
+        <viz:color r="223" g="137" b="255"></viz:color>
       </node>
       <node id="http://wikibase.svc/entity/Q625" label="Edwin Scrantom">
         <attvalues>
@@ -1042,9 +1213,11 @@
           <attvalue for="harmonicclosnesscentrality" value="0.0"></attvalue>
           <attvalue for="betweenesscentrality" value="0.0"></attvalue>
           <attvalue for="eigencentrality" value="0.17633174372607457"></attvalue>
+          <attvalue for="modularity_class" value="9"></attvalue>
         </attvalues>
         <viz:size value="12.0"></viz:size>
         <viz:position x="-2179.7117" y="-1174.325"></viz:position>
+        <viz:color r="223" g="137" b="255"></viz:color>
       </node>
       <node id="http://wikibase.svc/entity/Q631" label="Cornal Baker">
         <attvalues>
@@ -1054,9 +1227,11 @@
           <attvalue for="harmonicclosnesscentrality" value="0.0"></attvalue>
           <attvalue for="betweenesscentrality" value="0.0"></attvalue>
           <attvalue for="eigencentrality" value="0.17633174372607457"></attvalue>
+          <attvalue for="modularity_class" value="9"></attvalue>
         </attvalues>
         <viz:size value="12.0"></viz:size>
-        <viz:position x="-2853.3535" y="-10.0029745"></viz:position>
+        <viz:position x="-2802.6633" y="-60.66526"></viz:position>
+        <viz:color r="223" g="137" b="255"></viz:color>
       </node>
       <node id="http://wikibase.svc/entity/Q634" label="Junius C. Morrell">
         <attvalues>
@@ -1066,9 +1241,11 @@
           <attvalue for="harmonicclosnesscentrality" value="0.0"></attvalue>
           <attvalue for="betweenesscentrality" value="0.0"></attvalue>
           <attvalue for="eigencentrality" value="0.17633174372607457"></attvalue>
+          <attvalue for="modularity_class" value="9"></attvalue>
         </attvalues>
         <viz:size value="12.0"></viz:size>
-        <viz:position x="-1993.1515" y="-1726.8896"></viz:position>
+        <viz:position x="-1992.0416" y="-1725.6837"></viz:position>
+        <viz:color r="223" g="137" b="255"></viz:color>
       </node>
       <node id="http://wikibase.svc/entity/Q633" label="Lyman A. Spalding">
         <attvalues>
@@ -1078,9 +1255,11 @@
           <attvalue for="harmonicclosnesscentrality" value="0.0"></attvalue>
           <attvalue for="betweenesscentrality" value="0.0"></attvalue>
           <attvalue for="eigencentrality" value="0.17633174372607457"></attvalue>
+          <attvalue for="modularity_class" value="9"></attvalue>
         </attvalues>
         <viz:size value="12.0"></viz:size>
-        <viz:position x="-3167.963" y="-403.5407"></viz:position>
+        <viz:position x="-3199.825" y="-372.0066"></viz:position>
+        <viz:color r="223" g="137" b="255"></viz:color>
       </node>
       <node id="http://wikibase.svc/entity/Q638" label="B. Lundy">
         <attvalues>
@@ -1090,9 +1269,11 @@
           <attvalue for="harmonicclosnesscentrality" value="0.0"></attvalue>
           <attvalue for="betweenesscentrality" value="0.0"></attvalue>
           <attvalue for="eigencentrality" value="0.17633174372607457"></attvalue>
+          <attvalue for="modularity_class" value="9"></attvalue>
         </attvalues>
         <viz:size value="12.0"></viz:size>
         <viz:position x="-2214.2644" y="-310.66525"></viz:position>
+        <viz:color r="223" g="137" b="255"></viz:color>
       </node>
       <node id="http://wikibase.svc/entity/Q636" label="N. Paul">
         <attvalues>
@@ -1102,9 +1283,11 @@
           <attvalue for="harmonicclosnesscentrality" value="0.0"></attvalue>
           <attvalue for="betweenesscentrality" value="0.0"></attvalue>
           <attvalue for="eigencentrality" value="0.17633174372607457"></attvalue>
+          <attvalue for="modularity_class" value="9"></attvalue>
         </attvalues>
         <viz:size value="12.0"></viz:size>
         <viz:position x="-3702.7224" y="-346.2607"></viz:position>
+        <viz:color r="223" g="137" b="255"></viz:color>
       </node>
       <node id="http://wikibase.svc/entity/Q637" label="Samuel E. Cornish">
         <attvalues>
@@ -1114,9 +1297,11 @@
           <attvalue for="harmonicclosnesscentrality" value="0.0"></attvalue>
           <attvalue for="betweenesscentrality" value="0.0"></attvalue>
           <attvalue for="eigencentrality" value="0.17633174372607457"></attvalue>
+          <attvalue for="modularity_class" value="9"></attvalue>
         </attvalues>
         <viz:size value="12.0"></viz:size>
-        <viz:position x="-2373.0366" y="-1332.2032"></viz:position>
+        <viz:position x="-2384.129" y="-1310.6375"></viz:position>
+        <viz:color r="223" g="137" b="255"></viz:color>
       </node>
       <node id="http://wikibase.svc/entity/Q867" label="Life of Josiah Henson, Formerly a Slave (Schomburg Sc Rare 326.92-H copy)">
         <attvalues>
@@ -1126,9 +1311,11 @@
           <attvalue for="harmonicclosnesscentrality" value="0.5333333333333333"></attvalue>
           <attvalue for="betweenesscentrality" value="0.0"></attvalue>
           <attvalue for="eigencentrality" value="0.0"></attvalue>
+          <attvalue for="modularity_class" value="10"></attvalue>
         </attvalues>
         <viz:size value="12.0"></viz:size>
         <viz:position x="7508.984" y="-361.8982"></viz:position>
+        <viz:color r="0" g="189" b="148"></viz:color>
       </node>
       <node id="http://wikibase.svc/entity/Q865" label="Thomas Binney">
         <attvalues>
@@ -1138,9 +1325,11 @@
           <attvalue for="harmonicclosnesscentrality" value="0.0"></attvalue>
           <attvalue for="betweenesscentrality" value="0.0"></attvalue>
           <attvalue for="eigencentrality" value="0.056646887318055526"></attvalue>
+          <attvalue for="modularity_class" value="10"></attvalue>
         </attvalues>
         <viz:size value="12.0"></viz:size>
         <viz:position x="7320.3823" y="-641.0333"></viz:position>
+        <viz:color r="0" g="189" b="148"></viz:color>
       </node>
       <node id="http://wikibase.svc/entity/Q1179" label="Allings and Cory">
         <attvalues>
@@ -1150,9 +1339,11 @@
           <attvalue for="harmonicclosnesscentrality" value="0.0"></attvalue>
           <attvalue for="betweenesscentrality" value="0.0"></attvalue>
           <attvalue for="eigencentrality" value="0.056646887318055526"></attvalue>
+          <attvalue for="modularity_class" value="9"></attvalue>
         </attvalues>
         <viz:size value="12.0"></viz:size>
-        <viz:position x="-2678.3535" y="-424.48605"></viz:position>
+        <viz:position x="-2605.59" y="-400.09467"></viz:position>
+        <viz:color r="223" g="137" b="255"></viz:color>
       </node>
       <node id="http://wikibase.svc/entity/Q854" label="Life of Josiah Henson, Formerly a Slave (1851 London Gilpin edition)">
         <attvalues>
@@ -1162,9 +1353,11 @@
           <attvalue for="harmonicclosnesscentrality" value="0.9444444444444444"></attvalue>
           <attvalue for="betweenesscentrality" value="1.3786764705882353E-4"></attvalue>
           <attvalue for="eigencentrality" value="0.014125738582206981"></attvalue>
+          <attvalue for="modularity_class" value="10"></attvalue>
         </attvalues>
         <viz:size value="24.31579"></viz:size>
-        <viz:position x="6997.9814" y="-464.04578"></viz:position>
+        <viz:position x="6993.4185" y="-459.719"></viz:position>
+        <viz:color r="0" g="189" b="148"></viz:color>
       </node>
       <node id="http://wikibase.svc/entity/Q853" label="Life of Josiah Henson, Formerly a Slave (work)">
         <attvalues>
@@ -1174,9 +1367,11 @@
           <attvalue for="harmonicclosnesscentrality" value="1.0"></attvalue>
           <attvalue for="betweenesscentrality" value="3.0637254901960784E-5"></attvalue>
           <attvalue for="eigencentrality" value="0.056646887318055526"></attvalue>
+          <attvalue for="modularity_class" value="5"></attvalue>
         </attvalues>
         <viz:size value="14.736842"></viz:size>
         <viz:position x="6168.651" y="-356.51334"></viz:position>
+        <viz:color r="235" g="84" b="0"></viz:color>
       </node>
       <node id="http://wikibase.svc/entity/Q834" label="Lord Shaftesbury">
         <attvalues>
@@ -1186,9 +1381,11 @@
           <attvalue for="harmonicclosnesscentrality" value="0.0"></attvalue>
           <attvalue for="betweenesscentrality" value="0.0"></attvalue>
           <attvalue for="eigencentrality" value="0.17633174372607457"></attvalue>
+          <attvalue for="modularity_class" value="11"></attvalue>
         </attvalues>
         <viz:size value="12.0"></viz:size>
         <viz:position x="-4839.5195" y="1820.6837"></viz:position>
+        <viz:color r="89" g="31" b="255"></viz:color>
       </node>
       <node id="http://wikibase.svc/entity/Q838" label="W. Urwick">
         <attvalues>
@@ -1198,9 +1395,11 @@
           <attvalue for="harmonicclosnesscentrality" value="0.0"></attvalue>
           <attvalue for="betweenesscentrality" value="0.0"></attvalue>
           <attvalue for="eigencentrality" value="0.17633174372607457"></attvalue>
+          <attvalue for="modularity_class" value="11"></attvalue>
         </attvalues>
         <viz:size value="12.0"></viz:size>
         <viz:position x="-5203.801" y="1411.3657"></viz:position>
+        <viz:color r="89" g="31" b="255"></viz:color>
       </node>
       <node id="http://wikibase.svc/entity/Q837" label="W. Fitzgerald">
         <attvalues>
@@ -1210,9 +1409,11 @@
           <attvalue for="harmonicclosnesscentrality" value="0.0"></attvalue>
           <attvalue for="betweenesscentrality" value="0.0"></attvalue>
           <attvalue for="eigencentrality" value="0.17633174372607457"></attvalue>
+          <attvalue for="modularity_class" value="11"></attvalue>
         </attvalues>
         <viz:size value="12.0"></viz:size>
-        <viz:position x="-4273.1045" y="472.63364"></viz:position>
+        <viz:position x="-4266.61" y="466.27094"></viz:position>
+        <viz:color r="89" g="31" b="255"></viz:color>
       </node>
       <node id="http://wikibase.svc/entity/Q842" label="Edw. N. Hoare">
         <attvalues>
@@ -1222,9 +1423,11 @@
           <attvalue for="harmonicclosnesscentrality" value="0.0"></attvalue>
           <attvalue for="betweenesscentrality" value="0.0"></attvalue>
           <attvalue for="eigencentrality" value="0.17633174372607457"></attvalue>
+          <attvalue for="modularity_class" value="11"></attvalue>
         </attvalues>
         <viz:size value="12.0"></viz:size>
-        <viz:position x="-4485.9805" y="1446.0261"></viz:position>
+        <viz:position x="-4499.748" y="1458.9009"></viz:position>
+        <viz:color r="89" g="31" b="255"></viz:color>
       </node>
       <node id="http://wikibase.svc/entity/Q843" label="John Browne">
         <attvalues>
@@ -1234,9 +1437,11 @@
           <attvalue for="harmonicclosnesscentrality" value="0.0"></attvalue>
           <attvalue for="betweenesscentrality" value="0.0"></attvalue>
           <attvalue for="eigencentrality" value="0.17633174372607457"></attvalue>
+          <attvalue for="modularity_class" value="11"></attvalue>
         </attvalues>
         <viz:size value="12.0"></viz:size>
-        <viz:position x="-5226.114" y="552.4735"></viz:position>
+        <viz:position x="-5257.8843" y="521.5399"></viz:position>
+        <viz:color r="89" g="31" b="255"></viz:color>
       </node>
       <node id="http://wikibase.svc/entity/Q1117" label="Life and Adventures of James P. Beckwourth, Mountaineer, Scout, and Pioneer, and Chief of the Crow Nation of Indians (work)">
         <attvalues>
@@ -1246,9 +1451,11 @@
           <attvalue for="harmonicclosnesscentrality" value="1.0"></attvalue>
           <attvalue for="betweenesscentrality" value="0.0"></attvalue>
           <attvalue for="eigencentrality" value="0.0"></attvalue>
+          <attvalue for="modularity_class" value="7"></attvalue>
         </attvalues>
         <viz:size value="12.0"></viz:size>
         <viz:position x="3056.0598" y="-3389.1685"></viz:position>
+        <viz:color r="255" g="148" b="254"></viz:color>
       </node>
       <node id="http://wikibase.svc/entity/Q1118" label="Thomas D. Bonner">
         <attvalues>
@@ -1258,9 +1465,11 @@
           <attvalue for="harmonicclosnesscentrality" value="0.0"></attvalue>
           <attvalue for="betweenesscentrality" value="0.0"></attvalue>
           <attvalue for="eigencentrality" value="0.014125738582206981"></attvalue>
+          <attvalue for="modularity_class" value="7"></attvalue>
         </attvalues>
         <viz:size value="12.0"></viz:size>
         <viz:position x="3239.4973" y="-3580.6743"></viz:position>
+        <viz:color r="255" g="148" b="254"></viz:color>
       </node>
       <node id="http://wikibase.svc/entity/Q1158" label="My Bondage and My Freedom (1856 Miller, Orton &amp; Mulligan edition)">
         <attvalues>
@@ -1270,9 +1479,11 @@
           <attvalue for="harmonicclosnesscentrality" value="0.9166666666666666"></attvalue>
           <attvalue for="betweenesscentrality" value="1.838235294117647E-4"></attvalue>
           <attvalue for="eigencentrality" value="0.014125738582206981"></attvalue>
+          <attvalue for="modularity_class" value="1"></attvalue>
         </attvalues>
         <viz:size value="28.421051"></viz:size>
-        <viz:position x="-977.62244" y="-433.59592"></viz:position>
+        <viz:position x="-979.0237" y="-432.34512"></viz:position>
+        <viz:color r="0" g="196" b="255"></viz:color>
       </node>
       <node id="http://wikibase.svc/entity/Q1159" label="My Bondage and My Freedom (Sc Rare B-Douglass 1856 copy)">
         <attvalues>
@@ -1282,9 +1493,11 @@
           <attvalue for="harmonicclosnesscentrality" value="0.5128205128205129"></attvalue>
           <attvalue for="betweenesscentrality" value="0.0"></attvalue>
           <attvalue for="eigencentrality" value="0.0"></attvalue>
+          <attvalue for="modularity_class" value="1"></attvalue>
         </attvalues>
         <viz:size value="12.0"></viz:size>
-        <viz:position x="-1028.2213" y="-956.4424"></viz:position>
+        <viz:position x="-1091.8588" y="-963.9636"></viz:position>
+        <viz:color r="0" g="196" b="255"></viz:color>
       </node>
       <node id="http://wikibase.svc/entity/Q1122" label="Life and Adventure of James P. Beckwourth (NYHS CT.B3976 A3 copy)">
         <attvalues>
@@ -1294,9 +1507,11 @@
           <attvalue for="harmonicclosnesscentrality" value="0.6041666666666667"></attvalue>
           <attvalue for="betweenesscentrality" value="0.0"></attvalue>
           <attvalue for="eigencentrality" value="0.0"></attvalue>
+          <attvalue for="modularity_class" value="7"></attvalue>
         </attvalues>
         <viz:size value="12.0"></viz:size>
-        <viz:position x="3843.2983" y="-2799.548"></viz:position>
+        <viz:position x="3844.873" y="-2798.0808"></viz:position>
+        <viz:color r="255" g="148" b="254"></viz:color>
       </node>
       <node id="http://wikibase.svc/entity/Q1125" label="William J. McAlpine">
         <attvalues>
@@ -1306,9 +1521,11 @@
           <attvalue for="harmonicclosnesscentrality" value="0.0"></attvalue>
           <attvalue for="betweenesscentrality" value="0.0"></attvalue>
           <attvalue for="eigencentrality" value="0.056646887318055526"></attvalue>
+          <attvalue for="modularity_class" value="7"></attvalue>
         </attvalues>
         <viz:size value="12.0"></viz:size>
         <viz:position x="4123.7124" y="-3522.0264"></viz:position>
+        <viz:color r="255" g="148" b="254"></viz:color>
       </node>
       <node id="http://wikibase.svc/entity/Q115" label="Narrative of William W. Brown, A Fugitive Slave (work)">
         <attvalues>
@@ -1318,9 +1535,11 @@
           <attvalue for="harmonicclosnesscentrality" value="1.0"></attvalue>
           <attvalue for="betweenesscentrality" value="5.361519607843137E-5"></attvalue>
           <attvalue for="eigencentrality" value="0.15581492337195965"></attvalue>
+          <attvalue for="modularity_class" value="0"></attvalue>
         </attvalues>
         <viz:size value="16.789474"></viz:size>
-        <viz:position x="775.38306" y="1506.7114"></viz:position>
+        <viz:position x="775.4548" y="1506.4556"></viz:position>
+        <viz:color r="255" g="136" b="5"></viz:color>
       </node>
       <node id="http://wikibase.svc/entity/Q118" label="Narrative of William W. Brown, A Fugitive Slave (1848 Boston Anti-Slavery Office edition)">
         <attvalues>
@@ -1330,9 +1549,11 @@
           <attvalue for="harmonicclosnesscentrality" value="0.9166666666666666"></attvalue>
           <attvalue for="betweenesscentrality" value="3.676470588235294E-4"></attvalue>
           <attvalue for="eigencentrality" value="0.028251477164413962"></attvalue>
+          <attvalue for="modularity_class" value="0"></attvalue>
         </attvalues>
         <viz:size value="44.842102"></viz:size>
-        <viz:position x="-179.15976" y="1238.1697"></viz:position>
+        <viz:position x="-203.25462" y="1183.4092"></viz:position>
+        <viz:color r="255" g="136" b="5"></viz:color>
       </node>
       <node id="http://wikibase.svc/entity/Q135" label="William Wells Brown">
         <attvalues>
@@ -1342,9 +1563,11 @@
           <attvalue for="harmonicclosnesscentrality" value="0.0"></attvalue>
           <attvalue for="betweenesscentrality" value="0.0"></attvalue>
           <attvalue for="eigencentrality" value="1.0"></attvalue>
+          <attvalue for="modularity_class" value="2"></attvalue>
         </attvalues>
         <viz:size value="12.0"></viz:size>
-        <viz:position x="1422.715" y="1388.2006"></viz:position>
+        <viz:position x="1364.5594" y="1445.3121"></viz:position>
+        <viz:color r="255" g="85" b="132"></viz:color>
       </node>
       <node id="http://wikibase.svc/entity/Q137" label="Wells Brown">
         <attvalues>
@@ -1354,9 +1577,11 @@
           <attvalue for="harmonicclosnesscentrality" value="0.0"></attvalue>
           <attvalue for="betweenesscentrality" value="0.0"></attvalue>
           <attvalue for="eigencentrality" value="0.18272282549798263"></attvalue>
+          <attvalue for="modularity_class" value="0"></attvalue>
         </attvalues>
         <viz:size value="12.0"></viz:size>
         <viz:position x="-346.89896" y="2067.351"></viz:position>
+        <viz:color r="255" g="136" b="5"></viz:color>
       </node>
       <node id="http://wikibase.svc/entity/Q153" label="Boston Anti-Slavery Society (organization)">
         <attvalues>
@@ -1366,9 +1591,11 @@
           <attvalue for="harmonicclosnesscentrality" value="0.0"></attvalue>
           <attvalue for="betweenesscentrality" value="0.0"></attvalue>
           <attvalue for="eigencentrality" value="0.15581492337195965"></attvalue>
+          <attvalue for="modularity_class" value="6"></attvalue>
         </attvalues>
         <viz:size value="12.0"></viz:size>
-        <viz:position x="-928.1064" y="1116.2311"></viz:position>
+        <viz:position x="-956.595" y="1088.6185"></viz:position>
+        <viz:color r="115" g="192" b="0"></viz:color>
       </node>
       <node id="http://wikibase.svc/entity/Q162" label="Edmund Quincy">
         <attvalues>
@@ -1378,9 +1605,11 @@
           <attvalue for="harmonicclosnesscentrality" value="0.0"></attvalue>
           <attvalue for="betweenesscentrality" value="0.0"></attvalue>
           <attvalue for="eigencentrality" value="0.4582226052779613"></attvalue>
+          <attvalue for="modularity_class" value="0"></attvalue>
         </attvalues>
         <viz:size value="12.0"></viz:size>
-        <viz:position x="248.73271" y="1818.3993"></viz:position>
+        <viz:position x="54.85176" y="1800.9167"></viz:position>
+        <viz:color r="255" g="136" b="5"></viz:color>
       </node>
       <node id="http://wikibase.svc/entity/Q166" label="George A. Curtis">
         <attvalues>
@@ -1390,9 +1619,11 @@
           <attvalue for="harmonicclosnesscentrality" value="0.0"></attvalue>
           <attvalue for="betweenesscentrality" value="0.0"></attvalue>
           <attvalue for="eigencentrality" value="0.09916803605390408"></attvalue>
+          <attvalue for="modularity_class" value="0"></attvalue>
         </attvalues>
         <viz:size value="12.0"></viz:size>
-        <viz:position x="-434.56235" y="1318.5918"></viz:position>
+        <viz:position x="-397.12936" y="1279.9126"></viz:position>
+        <viz:color r="255" g="136" b="5"></viz:color>
       </node>
       <node id="http://wikibase.svc/entity/Q164" label="J.C. Hathaway">
         <attvalues>
@@ -1402,9 +1633,11 @@
           <attvalue for="harmonicclosnesscentrality" value="0.0"></attvalue>
           <attvalue for="betweenesscentrality" value="0.0"></attvalue>
           <attvalue for="eigencentrality" value="0.15581492337195965"></attvalue>
+          <attvalue for="modularity_class" value="0"></attvalue>
         </attvalues>
         <viz:size value="12.0"></viz:size>
-        <viz:position x="578.9321" y="1676.7012"></viz:position>
+        <viz:position x="567.78815" y="1627.603"></viz:position>
+        <viz:color r="255" g="136" b="5"></viz:color>
       </node>
       <node id="http://wikibase.svc/entity/Q171" label="Narrative of William W. Brown, A Fugitive Slave. (Sterling Cb77 7qb copy)">
         <attvalues>
@@ -1414,9 +1647,11 @@
           <attvalue for="harmonicclosnesscentrality" value="0.5444444444444444"></attvalue>
           <attvalue for="betweenesscentrality" value="0.0"></attvalue>
           <attvalue for="eigencentrality" value="0.0"></attvalue>
+          <attvalue for="modularity_class" value="0"></attvalue>
         </attvalues>
         <viz:size value="12.0"></viz:size>
-        <viz:position x="-25.876749" y="1910.7727"></viz:position>
+        <viz:position x="-149.95389" y="1924.3907"></viz:position>
+        <viz:color r="255" g="136" b="5"></viz:color>
       </node>
       <node id="http://wikibase.svc/entity/Q176" label="Narrative of William W. Brown, A Fugitive Slave (Beinecke JWJ Zan B816 847Nb)">
         <attvalues>
@@ -1426,9 +1661,11 @@
           <attvalue for="harmonicclosnesscentrality" value="0.5128205128205128"></attvalue>
           <attvalue for="betweenesscentrality" value="0.0"></attvalue>
           <attvalue for="eigencentrality" value="0.0"></attvalue>
+          <attvalue for="modularity_class" value="0"></attvalue>
         </attvalues>
         <viz:size value="12.0"></viz:size>
-        <viz:position x="-86.43476" y="1046.1699"></viz:position>
+        <viz:position x="-78.06541" y="1004.5937"></viz:position>
+        <viz:color r="255" g="136" b="5"></viz:color>
       </node>
       <node id="http://wikibase.svc/entity/Q181" label="Abel Cary Thomas">
         <attvalues>
@@ -1438,9 +1675,11 @@
           <attvalue for="harmonicclosnesscentrality" value="0.0"></attvalue>
           <attvalue for="betweenesscentrality" value="0.0"></attvalue>
           <attvalue for="eigencentrality" value="0.056646887318055526"></attvalue>
+          <attvalue for="modularity_class" value="0"></attvalue>
         </attvalues>
         <viz:size value="12.0"></viz:size>
         <viz:position x="-106.55085" y="2670.019"></viz:position>
+        <viz:color r="255" g="136" b="5"></viz:color>
       </node>
       <node id="http://wikibase.svc/entity/Q210" label="Narrative of the Life of Frederick Douglass, an American Slave (work)">
         <attvalues>
@@ -1450,9 +1689,11 @@
           <attvalue for="harmonicclosnesscentrality" value="1.0"></attvalue>
           <attvalue for="betweenesscentrality" value="1.5318627450980392E-5"></attvalue>
           <attvalue for="eigencentrality" value="0.16994066195416652"></attvalue>
+          <attvalue for="modularity_class" value="6"></attvalue>
         </attvalues>
         <viz:size value="13.368422"></viz:size>
-        <viz:position x="-2188.985" y="589.8128"></viz:position>
+        <viz:position x="-2154.9302" y="624.7521"></viz:position>
+        <viz:color r="115" g="192" b="0"></viz:color>
       </node>
       <node id="http://wikibase.svc/entity/Q214" label="Frederick Douglass">
         <attvalues>
@@ -1462,9 +1703,11 @@
           <attvalue for="harmonicclosnesscentrality" value="0.0"></attvalue>
           <attvalue for="betweenesscentrality" value="0.0"></attvalue>
           <attvalue for="eigencentrality" value="0.7890256973376051"></attvalue>
+          <attvalue for="modularity_class" value="6"></attvalue>
         </attvalues>
         <viz:size value="12.0"></viz:size>
-        <viz:position x="-2148.0413" y="286.44037"></viz:position>
+        <viz:position x="-2128.4119" y="306.42282"></viz:position>
+        <viz:color r="115" g="192" b="0"></viz:color>
       </node>
       <node id="http://wikibase.svc/entity/Q223" label="Narrative of the Life of Frederick Douglass, an American Slave (1846 Second Dublin Edition)">
         <attvalues>
@@ -1474,9 +1717,11 @@
           <attvalue for="harmonicclosnesscentrality" value="1.0"></attvalue>
           <attvalue for="betweenesscentrality" value="1.685049019607843E-4"></attvalue>
           <attvalue for="eigencentrality" value="0.014125738582206981"></attvalue>
+          <attvalue for="modularity_class" value="6"></attvalue>
         </attvalues>
         <viz:size value="27.052631"></viz:size>
-        <viz:position x="-2906.3625" y="150.00618"></viz:position>
+        <viz:position x="-2926.1394" y="168.85945"></viz:position>
+        <viz:color r="115" g="192" b="0"></viz:color>
       </node>
       <node id="http://wikibase.svc/entity/Q250" label="Webb and Chapman (organization)">
         <attvalues>
@@ -1486,9 +1731,11 @@
           <attvalue for="harmonicclosnesscentrality" value="0.0"></attvalue>
           <attvalue for="betweenesscentrality" value="0.0"></attvalue>
           <attvalue for="eigencentrality" value="0.11329377463611111"></attvalue>
+          <attvalue for="modularity_class" value="6"></attvalue>
         </attvalues>
         <viz:size value="12.0"></viz:size>
-        <viz:position x="-3216.6333" y="486.882"></viz:position>
+        <viz:position x="-3237.6711" y="458.44012"></viz:position>
+        <viz:color r="115" g="192" b="0"></viz:color>
       </node>
       <node id="http://wikibase.svc/entity/Q255" label="William Lloyd Garrison">
         <attvalues>
@@ -1498,9 +1745,11 @@
           <attvalue for="harmonicclosnesscentrality" value="0.0"></attvalue>
           <attvalue for="betweenesscentrality" value="0.0"></attvalue>
           <attvalue for="eigencentrality" value="0.3462724056802411"></attvalue>
+          <attvalue for="modularity_class" value="9"></attvalue>
         </attvalues>
         <viz:size value="12.0"></viz:size>
-        <viz:position x="-2582.4695" y="67.41584"></viz:position>
+        <viz:position x="-2579.5957" y="70.88779"></viz:position>
+        <viz:color r="223" g="137" b="255"></viz:color>
       </node>
       <node id="http://wikibase.svc/entity/Q402" label="Narrative of William W. Brown, A Fugitive Slave (Schomburg 326.92-B)">
         <attvalues>
@@ -1510,9 +1759,11 @@
           <attvalue for="harmonicclosnesscentrality" value="0.5833333333333333"></attvalue>
           <attvalue for="betweenesscentrality" value="0.0"></attvalue>
           <attvalue for="eigencentrality" value="0.0"></attvalue>
+          <attvalue for="modularity_class" value="0"></attvalue>
         </attvalues>
         <viz:size value="12.0"></viz:size>
         <viz:position x="809.6705" y="2471.1292"></viz:position>
+        <viz:color r="255" g="136" b="5"></viz:color>
       </node>
       <node id="http://wikibase.svc/entity/Q363" label="Andrews and Prentiss (organization)">
         <attvalues>
@@ -1522,9 +1773,11 @@
           <attvalue for="harmonicclosnesscentrality" value="0.0"></attvalue>
           <attvalue for="betweenesscentrality" value="0.0"></attvalue>
           <attvalue for="eigencentrality" value="0.056646887318055526"></attvalue>
+          <attvalue for="modularity_class" value="0"></attvalue>
         </attvalues>
         <viz:size value="12.0"></viz:size>
-        <viz:position x="1025.4684" y="2246.4792"></viz:position>
+        <viz:position x="1051.9458" y="2225.1038"></viz:position>
+        <viz:color r="255" g="136" b="5"></viz:color>
       </node>
       <node id="http://wikibase.svc/entity/Q367" label="Anti-Slavery Office (organization)">
         <attvalues>
@@ -1534,9 +1787,11 @@
           <attvalue for="harmonicclosnesscentrality" value="0.0"></attvalue>
           <attvalue for="betweenesscentrality" value="0.0"></attvalue>
           <attvalue for="eigencentrality" value="0.056646887318055526"></attvalue>
+          <attvalue for="modularity_class" value="0"></attvalue>
         </attvalues>
         <viz:size value="12.0"></viz:size>
-        <viz:position x="557.9602" y="2269.6743"></viz:position>
+        <viz:position x="534.54425" y="2295.716"></viz:position>
+        <viz:color r="255" g="136" b="5"></viz:color>
       </node>
       <node id="http://wikibase.svc/entity/Q471" label="Cowles and Company (organization)">
         <attvalues>
@@ -1546,9 +1801,11 @@
           <attvalue for="harmonicclosnesscentrality" value="0.0"></attvalue>
           <attvalue for="betweenesscentrality" value="0.0"></attvalue>
           <attvalue for="eigencentrality" value="0.056646887318055526"></attvalue>
+          <attvalue for="modularity_class" value="5"></attvalue>
         </attvalues>
         <viz:size value="12.0"></viz:size>
-        <viz:position x="3344.8032" y="-31.826689"></viz:position>
+        <viz:position x="3351.2966" y="-24.642063"></viz:position>
+        <viz:color r="235" g="84" b="0"></viz:color>
       </node>
       <node id="http://wikibase.svc/entity/Q468" label="Press of Geo. C. Rand &amp; Avery (organization)">
         <attvalues>
@@ -1558,9 +1815,11 @@
           <attvalue for="harmonicclosnesscentrality" value="0.0"></attvalue>
           <attvalue for="betweenesscentrality" value="0.0"></attvalue>
           <attvalue for="eigencentrality" value="0.056646887318055526"></attvalue>
+          <attvalue for="modularity_class" value="5"></attvalue>
         </attvalues>
         <viz:size value="12.0"></viz:size>
-        <viz:position x="3206.131" y="86.962"></viz:position>
+        <viz:position x="3181.518" y="63.16825"></viz:position>
+        <viz:color r="235" g="84" b="0"></viz:color>
       </node>
       <node id="http://wikibase.svc/entity/Q514" label="Hobart and Robbins (organization)">
         <attvalues>
@@ -1570,9 +1829,11 @@
           <attvalue for="harmonicclosnesscentrality" value="0.0"></attvalue>
           <attvalue for="betweenesscentrality" value="0.0"></attvalue>
           <attvalue for="eigencentrality" value="0.056646887318055526"></attvalue>
+          <attvalue for="modularity_class" value="2"></attvalue>
         </attvalues>
         <viz:size value="12.0"></viz:size>
         <viz:position x="2408.2944" y="1012.17755"></viz:position>
+        <viz:color r="255" g="85" b="132"></viz:color>
       </node>
       <node id="http://wikibase.svc/entity/Q522" label="New England Type and Stereotype Foundry (organization)">
         <attvalues>
@@ -1582,9 +1843,11 @@
           <attvalue for="harmonicclosnesscentrality" value="0.0"></attvalue>
           <attvalue for="betweenesscentrality" value="0.0"></attvalue>
           <attvalue for="eigencentrality" value="0.056646887318055526"></attvalue>
+          <attvalue for="modularity_class" value="2"></attvalue>
         </attvalues>
         <viz:size value="12.0"></viz:size>
-        <viz:position x="2197.6594" y="1113.813"></viz:position>
+        <viz:position x="2269.7373" y="1085.9548"></viz:position>
+        <viz:color r="255" g="85" b="132"></viz:color>
       </node>
       <node id="http://wikibase.svc/entity/Q640" label="Twenty-Two Years A Slave, and Forty Years a Freeman (Schomburg Sc Rare 326.92-S copy)">
         <attvalues>
@@ -1594,9 +1857,11 @@
           <attvalue for="harmonicclosnesscentrality" value="0.5085470085470086"></attvalue>
           <attvalue for="betweenesscentrality" value="0.0"></attvalue>
           <attvalue for="eigencentrality" value="0.0"></attvalue>
+          <attvalue for="modularity_class" value="9"></attvalue>
         </attvalues>
         <viz:size value="12.0"></viz:size>
-        <viz:position x="-3427.5142" y="-540.7902"></viz:position>
+        <viz:position x="-3530.3132" y="-498.0444"></viz:position>
+        <viz:color r="223" g="137" b="255"></viz:color>
       </node>
       <node id="http://wikibase.svc/entity/Q617" label="Colvin &amp; Crowell">
         <attvalues>
@@ -1606,9 +1871,11 @@
           <attvalue for="harmonicclosnesscentrality" value="0.0"></attvalue>
           <attvalue for="betweenesscentrality" value="0.0"></attvalue>
           <attvalue for="eigencentrality" value="0.056646887318055526"></attvalue>
+          <attvalue for="modularity_class" value="9"></attvalue>
         </attvalues>
         <viz:size value="12.0"></viz:size>
-        <viz:position x="-3327.9363" y="-838.07025"></viz:position>
+        <viz:position x="-3345.5188" y="-821.26996"></viz:position>
+        <viz:color r="223" g="137" b="255"></viz:color>
       </node>
       <node id="http://wikibase.svc/entity/Q830" label="A Short Personal Narrative (1860 edition)">
         <attvalues>
@@ -1618,9 +1885,11 @@
           <attvalue for="harmonicclosnesscentrality" value="1.0"></attvalue>
           <attvalue for="betweenesscentrality" value="2.6041666666666666E-4"></attvalue>
           <attvalue for="eigencentrality" value="0.014125738582206981"></attvalue>
+          <attvalue for="modularity_class" value="11"></attvalue>
         </attvalues>
         <viz:size value="35.263157"></viz:size>
-        <viz:position x="-4409.9214" y="940.9383"></viz:position>
+        <viz:position x="-4451.8906" y="943.8447"></viz:position>
+        <viz:color r="89" g="31" b="255"></viz:color>
       </node>
       <node id="http://wikibase.svc/entity/Q828" label="A Short Personal Narrative">
         <attvalues>
@@ -1630,9 +1899,11 @@
           <attvalue for="harmonicclosnesscentrality" value="1.0"></attvalue>
           <attvalue for="betweenesscentrality" value="0.0"></attvalue>
           <attvalue for="eigencentrality" value="0.056646887318055526"></attvalue>
+          <attvalue for="modularity_class" value="11"></attvalue>
         </attvalues>
         <viz:size value="12.0"></viz:size>
-        <viz:position x="-5442.1226" y="976.4385"></viz:position>
+        <viz:position x="-5484.1396" y="1019.632"></viz:position>
+        <viz:color r="89" g="31" b="255"></viz:color>
       </node>
       <node id="http://wikibase.svc/entity/Q846" label="A Short Personal Narrative (Schomburg Sc Rare B-Allen)">
         <attvalues>
@@ -1642,9 +1913,11 @@
           <attvalue for="harmonicclosnesscentrality" value="0.5277777777777778"></attvalue>
           <attvalue for="betweenesscentrality" value="0.0"></attvalue>
           <attvalue for="eigencentrality" value="0.0"></attvalue>
+          <attvalue for="modularity_class" value="11"></attvalue>
         </attvalues>
         <viz:size value="12.0"></viz:size>
-        <viz:position x="-4947.8965" y="1096.0704"></viz:position>
+        <viz:position x="-4973.47" y="1073.551"></viz:position>
+        <viz:color r="89" g="31" b="255"></viz:color>
       </node>
       <node id="http://wikibase.svc/entity/Q827" label="William G. Allen">
         <attvalues>
@@ -1654,9 +1927,11 @@
           <attvalue for="harmonicclosnesscentrality" value="0.0"></attvalue>
           <attvalue for="betweenesscentrality" value="0.0"></attvalue>
           <attvalue for="eigencentrality" value="0.3526634874521495"></attvalue>
+          <attvalue for="modularity_class" value="11"></attvalue>
         </attvalues>
         <viz:size value="12.0"></viz:size>
-        <viz:position x="-5410.4136" y="1139.5237"></viz:position>
+        <viz:position x="-5420.6636" y="1148.7186"></viz:position>
+        <viz:color r="89" g="31" b="255"></viz:color>
       </node>
       <node id="http://wikibase.svc/entity/Q840" label="Robert Chapman">
         <attvalues>
@@ -1666,9 +1941,11 @@
           <attvalue for="harmonicclosnesscentrality" value="0.0"></attvalue>
           <attvalue for="betweenesscentrality" value="0.0"></attvalue>
           <attvalue for="eigencentrality" value="0.056646887318055526"></attvalue>
+          <attvalue for="modularity_class" value="11"></attvalue>
         </attvalues>
         <viz:size value="12.0"></viz:size>
-        <viz:position x="-4947.306" y="557.2921"></viz:position>
+        <viz:position x="-4922.677" y="582.3661"></viz:position>
+        <viz:color r="89" g="31" b="255"></viz:color>
       </node>
       <node id="http://wikibase.svc/entity/Q841" label="William Curry &amp; Co.">
         <attvalues>
@@ -1678,9 +1955,11 @@
           <attvalue for="harmonicclosnesscentrality" value="0.0"></attvalue>
           <attvalue for="betweenesscentrality" value="0.0"></attvalue>
           <attvalue for="eigencentrality" value="0.056646887318055526"></attvalue>
+          <attvalue for="modularity_class" value="11"></attvalue>
         </attvalues>
         <viz:size value="12.0"></viz:size>
         <viz:position x="-4736.1475" y="858.6393"></viz:position>
+        <viz:color r="89" g="31" b="255"></viz:color>
       </node>
       <node id="http://wikibase.svc/entity/Q860" label="Adam and Charles Black">
         <attvalues>
@@ -1690,9 +1969,11 @@
           <attvalue for="harmonicclosnesscentrality" value="0.0"></attvalue>
           <attvalue for="betweenesscentrality" value="0.0"></attvalue>
           <attvalue for="eigencentrality" value="0.056646887318055526"></attvalue>
+          <attvalue for="modularity_class" value="10"></attvalue>
         </attvalues>
         <viz:size value="12.0"></viz:size>
         <viz:position x="7126.154" y="-200.78622"></viz:position>
+        <viz:color r="0" g="189" b="148"></viz:color>
       </node>
       <node id="http://wikibase.svc/entity/Q899" label="Life and Adventures of James P. Beckwourth (work)">
         <attvalues>
@@ -1702,9 +1983,11 @@
           <attvalue for="harmonicclosnesscentrality" value="1.0"></attvalue>
           <attvalue for="betweenesscentrality" value="7.659313725490196E-5"></attvalue>
           <attvalue for="eigencentrality" value="0.15581492337195962"></attvalue>
+          <attvalue for="modularity_class" value="7"></attvalue>
         </attvalues>
         <viz:size value="18.842106"></viz:size>
-        <viz:position x="2901.5913" y="-2865.9883"></viz:position>
+        <viz:position x="2900.2395" y="-2867.6094"></viz:position>
+        <viz:color r="255" g="148" b="254"></viz:color>
       </node>
       <node id="http://wikibase.svc/entity/Q903" label="Life and Adventures of James P. Beckwourth (Beinecke Zc16 C92 856beb)">
         <attvalues>
@@ -1714,9 +1997,11 @@
           <attvalue for="harmonicclosnesscentrality" value="0.5476190476190477"></attvalue>
           <attvalue for="betweenesscentrality" value="0.0"></attvalue>
           <attvalue for="eigencentrality" value="0.0"></attvalue>
+          <attvalue for="modularity_class" value="7"></attvalue>
         </attvalues>
         <viz:size value="12.0"></viz:size>
-        <viz:position x="3069.6282" y="-2256.3271"></viz:position>
+        <viz:position x="3089.586" y="-2237.1655"></viz:position>
+        <viz:color r="255" g="148" b="254"></viz:color>
       </node>
       <node id="http://wikibase.svc/entity/Q901" label="Life and Adventures of James P. Beckwourth (Sampson Low 1856 Edition)">
         <attvalues>
@@ -1726,9 +2011,11 @@
           <attvalue for="harmonicclosnesscentrality" value="0.9166666666666666"></attvalue>
           <attvalue for="betweenesscentrality" value="9.191176470588235E-5"></attvalue>
           <attvalue for="eigencentrality" value="0.014125738582206981"></attvalue>
+          <attvalue for="modularity_class" value="7"></attvalue>
         </attvalues>
         <viz:size value="20.210526"></viz:size>
-        <viz:position x="2612.0305" y="-2286.0645"></viz:position>
+        <viz:position x="2593.534" y="-2306.3562"></viz:position>
+        <viz:color r="255" g="148" b="254"></viz:color>
       </node>
       <node id="http://wikibase.svc/entity/Q905" label="Life and Adventures of James P. Beckwourth (Beinecke Zc16 C92 856be Copy 1)">
         <attvalues>
@@ -1738,9 +2025,11 @@
           <attvalue for="harmonicclosnesscentrality" value="0.5555555555555556"></attvalue>
           <attvalue for="betweenesscentrality" value="0.0"></attvalue>
           <attvalue for="eigencentrality" value="0.0"></attvalue>
+          <attvalue for="modularity_class" value="7"></attvalue>
         </attvalues>
         <viz:size value="12.0"></viz:size>
-        <viz:position x="3362.2" y="-3071.5305"></viz:position>
+        <viz:position x="3370.615" y="-3079.6934"></viz:position>
+        <viz:color r="255" g="148" b="254"></viz:color>
       </node>
       <node id="http://wikibase.svc/entity/Q864" label="J. Unwin">
         <attvalues>
@@ -1750,9 +2039,11 @@
           <attvalue for="harmonicclosnesscentrality" value="0.0"></attvalue>
           <attvalue for="betweenesscentrality" value="0.0"></attvalue>
           <attvalue for="eigencentrality" value="0.056646887318055526"></attvalue>
+          <attvalue for="modularity_class" value="10"></attvalue>
         </attvalues>
         <viz:size value="12.0"></viz:size>
         <viz:position x="7255.0093" y="-177.53584"></viz:position>
+        <viz:color r="0" g="189" b="148"></viz:color>
       </node>
       <node id="http://wikibase.svc/entity/Q882" label="Frederick Coffin">
         <attvalues>
@@ -1762,9 +2053,11 @@
           <attvalue for="harmonicclosnesscentrality" value="0.0"></attvalue>
           <attvalue for="betweenesscentrality" value="0.0"></attvalue>
           <attvalue for="eigencentrality" value="0.11329377463611111"></attvalue>
+          <attvalue for="modularity_class" value="8"></attvalue>
         </attvalues>
         <viz:size value="12.0"></viz:size>
         <viz:position x="1386.1785" y="-1165.6709"></viz:position>
+        <viz:color r="76" g="70" b="62"></viz:color>
       </node>
       <node id="http://wikibase.svc/entity/Q898" label="T. D. Bonner">
         <attvalues>
@@ -1774,9 +2067,11 @@
           <attvalue for="harmonicclosnesscentrality" value="0.0"></attvalue>
           <attvalue for="betweenesscentrality" value="0.0"></attvalue>
           <attvalue for="eigencentrality" value="0.4440968666957543"></attvalue>
+          <attvalue for="modularity_class" value="7"></attvalue>
         </attvalues>
         <viz:size value="12.0"></viz:size>
-        <viz:position x="2898.6443" y="-2541.5532"></viz:position>
+        <viz:position x="2908.591" y="-2510.3481"></viz:position>
+        <viz:color r="255" g="148" b="254"></viz:color>
       </node>
       <node id="http://wikibase.svc/entity/Q897" label="James P. Beckwourth">
         <attvalues>
@@ -1786,9 +2081,11 @@
           <attvalue for="harmonicclosnesscentrality" value="0.0"></attvalue>
           <attvalue for="betweenesscentrality" value="0.0"></attvalue>
           <attvalue for="eigencentrality" value="0.30240768190600176"></attvalue>
+          <attvalue for="modularity_class" value="7"></attvalue>
         </attvalues>
         <viz:size value="12.0"></viz:size>
-        <viz:position x="2992.7656" y="-3028.821"></viz:position>
+        <viz:position x="2981.6296" y="-3017.7766"></viz:position>
+        <viz:color r="255" g="148" b="254"></viz:color>
       </node>
       <node id="http://wikibase.svc/entity/Q902" label="Harper and Brothers">
         <attvalues>
@@ -1798,9 +2095,11 @@
           <attvalue for="harmonicclosnesscentrality" value="0.0"></attvalue>
           <attvalue for="betweenesscentrality" value="0.0"></attvalue>
           <attvalue for="eigencentrality" value="0.15581492337195962"></attvalue>
+          <attvalue for="modularity_class" value="7"></attvalue>
         </attvalues>
         <viz:size value="12.0"></viz:size>
         <viz:position x="3159.248" y="-2422.093"></viz:position>
+        <viz:color r="255" g="148" b="254"></viz:color>
       </node>
       <node id="http://wikibase.svc/entity/Q949" label="W. and F.G. Cash">
         <attvalues>
@@ -1810,9 +2109,11 @@
           <attvalue for="harmonicclosnesscentrality" value="0.0"></attvalue>
           <attvalue for="betweenesscentrality" value="0.0"></attvalue>
           <attvalue for="eigencentrality" value="0.056646887318055526"></attvalue>
+          <attvalue for="modularity_class" value="4"></attvalue>
         </attvalues>
         <viz:size value="12.0"></viz:size>
         <viz:position x="-7014.008" y="2024.3218"></viz:position>
+        <viz:color r="211" g="179" b="176"></viz:color>
       </node>
       <node id="http://wikibase.svc/entity/Q70" label="unattributed work">
         <attvalues>
@@ -1822,9 +2123,11 @@
           <attvalue for="harmonicclosnesscentrality" value="0.0"></attvalue>
           <attvalue for="betweenesscentrality" value="0.0"></attvalue>
           <attvalue for="eigencentrality" value="0.014125738582206981"></attvalue>
+          <attvalue for="modularity_class" value="10"></attvalue>
         </attvalues>
         <viz:size value="12.0"></viz:size>
         <viz:position x="8741.888" y="-17.632874"></viz:position>
+        <viz:color r="0" g="189" b="148"></viz:color>
       </node>
       <node id="http://wikibase.svc/entity/statement/Q335-3fa37788-48ff-63a0-1620-b0121c4d2fe0" label="plate">
         <attvalues>
@@ -1834,9 +2137,11 @@
           <attvalue for="harmonicclosnesscentrality" value="1.0"></attvalue>
           <attvalue for="betweenesscentrality" value="1.5318627450980392E-5"></attvalue>
           <attvalue for="eigencentrality" value="0.056646887318055526"></attvalue>
+          <attvalue for="modularity_class" value="1"></attvalue>
         </attvalues>
         <viz:size value="13.368422"></viz:size>
-        <viz:position x="-418.53394" y="-961.6694"></viz:position>
+        <viz:position x="-357.68665" y="-1031.5779"></viz:position>
+        <viz:color r="0" g="196" b="255"></viz:color>
       </node>
       <node id="http://wikibase.svc/entity/statement/Q335-401d8429-4eff-a8e2-bed0-bb95456ca799" label="plate">
         <attvalues>
@@ -1846,9 +2151,11 @@
           <attvalue for="harmonicclosnesscentrality" value="1.0"></attvalue>
           <attvalue for="betweenesscentrality" value="1.5318627450980392E-5"></attvalue>
           <attvalue for="eigencentrality" value="0.056646887318055526"></attvalue>
+          <attvalue for="modularity_class" value="1"></attvalue>
         </attvalues>
         <viz:size value="13.368422"></viz:size>
-        <viz:position x="-91.6791" y="-620.9517"></viz:position>
+        <viz:position x="-15.267985" y="-536.75024"></viz:position>
+        <viz:color r="0" g="196" b="255"></viz:color>
       </node>
       <node id="http://wikibase.svc/entity/statement/Q335-560fb041-4dd8-ceff-38bf-01090b4474b0" label="letter">
         <attvalues>
@@ -1858,9 +2165,11 @@
           <attvalue for="harmonicclosnesscentrality" value="0.0"></attvalue>
           <attvalue for="betweenesscentrality" value="0.0"></attvalue>
           <attvalue for="eigencentrality" value="0.056646887318055526"></attvalue>
+          <attvalue for="modularity_class" value="1"></attvalue>
         </attvalues>
         <viz:size value="12.0"></viz:size>
-        <viz:position x="-738.82983" y="-78.538795"></viz:position>
+        <viz:position x="-710.6931" y="-111.12995"></viz:position>
+        <viz:color r="0" g="196" b="255"></viz:color>
       </node>
       <node id="http://wikibase.svc/entity/statement/Q335-7d23b155-4199-8a57-f761-0ff04deefe3b" label="preface">
         <attvalues>
@@ -1870,9 +2179,11 @@
           <attvalue for="harmonicclosnesscentrality" value="0.0"></attvalue>
           <attvalue for="betweenesscentrality" value="0.0"></attvalue>
           <attvalue for="eigencentrality" value="0.056646887318055526"></attvalue>
+          <attvalue for="modularity_class" value="1"></attvalue>
         </attvalues>
         <viz:size value="12.0"></viz:size>
-        <viz:position x="-573.54565" y="-26.756025"></viz:position>
+        <viz:position x="-570.65015" y="-23.445593"></viz:position>
+        <viz:color r="0" g="196" b="255"></viz:color>
       </node>
       <node id="http://wikibase.svc/entity/statement/Q335-8f86b79e-40a4-4407-6f7c-de48b6b38097" label="frontispiece">
         <attvalues>
@@ -1882,9 +2193,11 @@
           <attvalue for="harmonicclosnesscentrality" value="1.0"></attvalue>
           <attvalue for="betweenesscentrality" value="3.0637254901960784E-5"></attvalue>
           <attvalue for="eigencentrality" value="0.056646887318055526"></attvalue>
+          <attvalue for="modularity_class" value="1"></attvalue>
         </attvalues>
         <viz:size value="14.736842"></viz:size>
         <viz:position x="-1432.2999" y="-805.3706"></viz:position>
+        <viz:color r="0" g="196" b="255"></viz:color>
       </node>
       <node id="http://wikibase.svc/entity/statement/Q335-c51b2b21-45b7-9a87-ec58-984f355f8e27" label="introduction">
         <attvalues>
@@ -1894,9 +2207,11 @@
           <attvalue for="harmonicclosnesscentrality" value="0.0"></attvalue>
           <attvalue for="betweenesscentrality" value="0.0"></attvalue>
           <attvalue for="eigencentrality" value="0.056646887318055526"></attvalue>
+          <attvalue for="modularity_class" value="1"></attvalue>
         </attvalues>
         <viz:size value="12.0"></viz:size>
         <viz:position x="-404.41022" y="-113.17235"></viz:position>
+        <viz:color r="0" g="196" b="255"></viz:color>
       </node>
       <node id="http://wikibase.svc/entity/statement/Q335-fc5eb53c-410e-4172-3317-fb2a36426fb4" label="advertisements">
         <attvalues>
@@ -1906,9 +2221,11 @@
           <attvalue for="harmonicclosnesscentrality" value="0.0"></attvalue>
           <attvalue for="betweenesscentrality" value="0.0"></attvalue>
           <attvalue for="eigencentrality" value="0.056646887318055526"></attvalue>
+          <attvalue for="modularity_class" value="1"></attvalue>
         </attvalues>
         <viz:size value="12.0"></viz:size>
-        <viz:position x="-620.9496" y="-703.0207"></viz:position>
+        <viz:position x="-525.47363" y="-784.454"></viz:position>
+        <viz:color r="0" g="196" b="255"></viz:color>
       </node>
       <node id="http://wikibase.svc/entity/statement/Q334-235ac0b5-49a9-53c2-f913-cd6a48f2ebe2" label="frontispiece">
         <attvalues>
@@ -1918,9 +2235,11 @@
           <attvalue for="harmonicclosnesscentrality" value="0.0"></attvalue>
           <attvalue for="betweenesscentrality" value="0.0"></attvalue>
           <attvalue for="eigencentrality" value="0.056646887318055526"></attvalue>
+          <attvalue for="modularity_class" value="0"></attvalue>
         </attvalues>
         <viz:size value="12.0"></viz:size>
         <viz:position x="1079.0675" y="2086.6184"></viz:position>
+        <viz:color r="255" g="136" b="5"></viz:color>
       </node>
       <node id="http://wikibase.svc/entity/statement/Q334-4df83f86-4c6b-9658-e9aa-5acd3dc99abe" label="statement">
         <attvalues>
@@ -1930,9 +2249,11 @@
           <attvalue for="harmonicclosnesscentrality" value="1.0"></attvalue>
           <attvalue for="betweenesscentrality" value="0.0"></attvalue>
           <attvalue for="eigencentrality" value="0.056646887318055526"></attvalue>
+          <attvalue for="modularity_class" value="0"></attvalue>
         </attvalues>
         <viz:size value="12.0"></viz:size>
-        <viz:position x="318.12875" y="2171.2336"></viz:position>
+        <viz:position x="315.39868" y="2168.324"></viz:position>
+        <viz:color r="255" g="136" b="5"></viz:color>
       </node>
       <node id="http://wikibase.svc/entity/statement/Q426-21e75f93-48bd-1da9-9207-2f82c6b0fc01" label="preface">
         <attvalues>
@@ -1942,9 +2263,11 @@
           <attvalue for="harmonicclosnesscentrality" value="0.0"></attvalue>
           <attvalue for="betweenesscentrality" value="0.0"></attvalue>
           <attvalue for="eigencentrality" value="0.056646887318055526"></attvalue>
+          <attvalue for="modularity_class" value="6"></attvalue>
         </attvalues>
         <viz:size value="12.0"></viz:size>
         <viz:position x="-1748.4142" y="1053.7192"></viz:position>
+        <viz:color r="115" g="192" b="0"></viz:color>
       </node>
       <node id="http://wikibase.svc/entity/statement/Q426-6953ac8c-440f-73ef-c3e9-50b24850b1a8" label="letter">
         <attvalues>
@@ -1954,9 +2277,11 @@
           <attvalue for="harmonicclosnesscentrality" value="0.0"></attvalue>
           <attvalue for="betweenesscentrality" value="0.0"></attvalue>
           <attvalue for="eigencentrality" value="0.056646887318055526"></attvalue>
+          <attvalue for="modularity_class" value="6"></attvalue>
         </attvalues>
         <viz:size value="12.0"></viz:size>
-        <viz:position x="-1337.4883" y="1084.3895"></viz:position>
+        <viz:position x="-1434.3148" y="1047.9229"></viz:position>
+        <viz:color r="115" g="192" b="0"></viz:color>
       </node>
       <node id="http://wikibase.svc/entity/statement/Q426-9521be9c-484b-ed6a-73dc-fe49cc492119" label="appendix">
         <attvalues>
@@ -1966,9 +2291,11 @@
           <attvalue for="harmonicclosnesscentrality" value="0.0"></attvalue>
           <attvalue for="betweenesscentrality" value="0.0"></attvalue>
           <attvalue for="eigencentrality" value="0.056646887318055526"></attvalue>
+          <attvalue for="modularity_class" value="6"></attvalue>
         </attvalues>
         <viz:size value="12.0"></viz:size>
-        <viz:position x="-1874.835" y="912.00586"></viz:position>
+        <viz:position x="-1883.0969" y="919.75757"></viz:position>
+        <viz:color r="115" g="192" b="0"></viz:color>
       </node>
       <node id="http://wikibase.svc/entity/statement/Q426-0c357422-44f6-e356-b704-9d989405f2e5" label="frontispiece">
         <attvalues>
@@ -1978,9 +2305,11 @@
           <attvalue for="harmonicclosnesscentrality" value="0.0"></attvalue>
           <attvalue for="betweenesscentrality" value="0.0"></attvalue>
           <attvalue for="eigencentrality" value="0.056646887318055526"></attvalue>
+          <attvalue for="modularity_class" value="6"></attvalue>
         </attvalues>
         <viz:size value="12.0"></viz:size>
         <viz:position x="-1875.4144" y="1478.0542"></viz:position>
+        <viz:color r="115" g="192" b="0"></viz:color>
       </node>
       <node id="http://wikibase.svc/entity/statement/Q426-310ed43a-4216-718a-60c3-7ed9ce5e0df0" label="statement">
         <attvalues>
@@ -1990,9 +2319,11 @@
           <attvalue for="harmonicclosnesscentrality" value="1.0"></attvalue>
           <attvalue for="betweenesscentrality" value="1.5318627450980392E-5"></attvalue>
           <attvalue for="eigencentrality" value="0.056646887318055526"></attvalue>
+          <attvalue for="modularity_class" value="6"></attvalue>
         </attvalues>
         <viz:size value="13.368422"></viz:size>
         <viz:position x="-1487.7769" y="455.05157"></viz:position>
+        <viz:color r="115" g="192" b="0"></viz:color>
       </node>
       <node id="http://wikibase.svc/entity/statement/Q456-266e3058-4766-e017-3b71-9e2ddb848628" label="letter">
         <attvalues>
@@ -2002,9 +2333,11 @@
           <attvalue for="harmonicclosnesscentrality" value="0.0"></attvalue>
           <attvalue for="betweenesscentrality" value="0.0"></attvalue>
           <attvalue for="eigencentrality" value="0.056646887318055526"></attvalue>
+          <attvalue for="modularity_class" value="10"></attvalue>
         </attvalues>
         <viz:size value="12.0"></viz:size>
         <viz:position x="8120.3096" y="-544.5062"></viz:position>
+        <viz:color r="0" g="189" b="148"></viz:color>
       </node>
       <node id="http://wikibase.svc/entity/statement/Q456-42cf360b-41e2-fe95-79f8-92bf8576befa" label="statement">
         <attvalues>
@@ -2014,9 +2347,11 @@
           <attvalue for="harmonicclosnesscentrality" value="1.0"></attvalue>
           <attvalue for="betweenesscentrality" value="0.0"></attvalue>
           <attvalue for="eigencentrality" value="0.056646887318055526"></attvalue>
+          <attvalue for="modularity_class" value="10"></attvalue>
         </attvalues>
         <viz:size value="12.0"></viz:size>
         <viz:position x="8596.837" y="-582.2624"></viz:position>
+        <viz:color r="0" g="189" b="148"></viz:color>
       </node>
       <node id="http://wikibase.svc/entity/statement/Q456-84165a96-45a7-e971-2bef-a80c61cbdab6" label="appendix">
         <attvalues>
@@ -2026,9 +2361,11 @@
           <attvalue for="harmonicclosnesscentrality" value="0.0"></attvalue>
           <attvalue for="betweenesscentrality" value="0.0"></attvalue>
           <attvalue for="eigencentrality" value="0.056646887318055526"></attvalue>
+          <attvalue for="modularity_class" value="10"></attvalue>
         </attvalues>
         <viz:size value="12.0"></viz:size>
         <viz:position x="8224.899" y="-1298.0856"></viz:position>
+        <viz:color r="0" g="189" b="148"></viz:color>
       </node>
       <node id="http://wikibase.svc/entity/statement/Q457-33604f8e-4805-27e7-9995-336b110d0a99" label="statement">
         <attvalues>
@@ -2038,9 +2375,11 @@
           <attvalue for="harmonicclosnesscentrality" value="1.0"></attvalue>
           <attvalue for="betweenesscentrality" value="0.0"></attvalue>
           <attvalue for="eigencentrality" value="0.056646887318055526"></attvalue>
+          <attvalue for="modularity_class" value="5"></attvalue>
         </attvalues>
         <viz:size value="12.0"></viz:size>
-        <viz:position x="2346.7935" y="202.50227"></viz:position>
+        <viz:position x="2341.269" y="197.50183"></viz:position>
+        <viz:color r="235" g="84" b="0"></viz:color>
       </node>
       <node id="http://wikibase.svc/entity/statement/Q456-ede03468-490f-05cf-d06b-6eb9c8ac2bad" label="preface">
         <attvalues>
@@ -2050,9 +2389,11 @@
           <attvalue for="harmonicclosnesscentrality" value="0.0"></attvalue>
           <attvalue for="betweenesscentrality" value="0.0"></attvalue>
           <attvalue for="eigencentrality" value="0.056646887318055526"></attvalue>
+          <attvalue for="modularity_class" value="10"></attvalue>
         </attvalues>
         <viz:size value="12.0"></viz:size>
         <viz:position x="7893.852" y="-938.41064"></viz:position>
+        <viz:color r="0" g="189" b="148"></viz:color>
       </node>
       <node id="http://wikibase.svc/entity/statement/Q457-e7ca2e87-4009-6a3c-7f86-53615a1576c5" label="frontispiece">
         <attvalues>
@@ -2062,9 +2403,11 @@
           <attvalue for="harmonicclosnesscentrality" value="1.0"></attvalue>
           <attvalue for="betweenesscentrality" value="3.0637254901960784E-5"></attvalue>
           <attvalue for="eigencentrality" value="0.056646887318055526"></attvalue>
+          <attvalue for="modularity_class" value="5"></attvalue>
         </attvalues>
         <viz:size value="14.736842"></viz:size>
-        <viz:position x="3612.306" y="-240.6595"></viz:position>
+        <viz:position x="3621.319" y="-231.4405"></viz:position>
+        <viz:color r="235" g="84" b="0"></viz:color>
       </node>
       <node id="http://wikibase.svc/entity/statement/Q474-005a8b99-4624-7bd5-ec3e-474ef461e46d" label="errata">
         <attvalues>
@@ -2074,9 +2417,11 @@
           <attvalue for="harmonicclosnesscentrality" value="0.0"></attvalue>
           <attvalue for="betweenesscentrality" value="0.0"></attvalue>
           <attvalue for="eigencentrality" value="0.056646887318055526"></attvalue>
+          <attvalue for="modularity_class" value="2"></attvalue>
         </attvalues>
         <viz:size value="12.0"></viz:size>
-        <viz:position x="2308.8828" y="2162.5261"></viz:position>
+        <viz:position x="2414.4595" y="2169.535"></viz:position>
+        <viz:color r="255" g="85" b="132"></viz:color>
       </node>
       <node id="http://wikibase.svc/entity/statement/Q474-13214701-4ad2-cab6-5889-3317e8716a1d" label="statement">
         <attvalues>
@@ -2086,9 +2431,11 @@
           <attvalue for="harmonicclosnesscentrality" value="1.0"></attvalue>
           <attvalue for="betweenesscentrality" value="0.0"></attvalue>
           <attvalue for="eigencentrality" value="0.056646887318055526"></attvalue>
+          <attvalue for="modularity_class" value="2"></attvalue>
         </attvalues>
         <viz:size value="12.0"></viz:size>
-        <viz:position x="1592.721" y="2328.5667"></viz:position>
+        <viz:position x="1590.6113" y="2330.948"></viz:position>
+        <viz:color r="255" g="85" b="132"></viz:color>
       </node>
       <node id="http://wikibase.svc/entity/statement/Q474-29a8803b-4b06-36ed-9401-56177187a6ff" label="memoir">
         <attvalues>
@@ -2098,9 +2445,11 @@
           <attvalue for="harmonicclosnesscentrality" value="0.0"></attvalue>
           <attvalue for="betweenesscentrality" value="0.0"></attvalue>
           <attvalue for="eigencentrality" value="0.056646887318055526"></attvalue>
+          <attvalue for="modularity_class" value="2"></attvalue>
         </attvalues>
         <viz:size value="12.0"></viz:size>
-        <viz:position x="2120.5881" y="2038.4746"></viz:position>
+        <viz:position x="2176.8342" y="2055.2065"></viz:position>
+        <viz:color r="255" g="85" b="132"></viz:color>
       </node>
       <node id="http://wikibase.svc/entity/statement/Q474-b10595aa-4369-3f5b-2a77-88d454f30fd0" label="preface">
         <attvalues>
@@ -2110,9 +2459,11 @@
           <attvalue for="harmonicclosnesscentrality" value="0.0"></attvalue>
           <attvalue for="betweenesscentrality" value="0.0"></attvalue>
           <attvalue for="eigencentrality" value="0.056646887318055526"></attvalue>
+          <attvalue for="modularity_class" value="2"></attvalue>
         </attvalues>
         <viz:size value="12.0"></viz:size>
-        <viz:position x="2276.3892" y="1986.0789"></viz:position>
+        <viz:position x="2335.863" y="1943.8846"></viz:position>
+        <viz:color r="255" g="85" b="132"></viz:color>
       </node>
       <node id="http://wikibase.svc/entity/statement/Q474-d9e0db56-4c57-a975-dd69-3483c2bf7a2b" label="frontispiece">
         <attvalues>
@@ -2122,9 +2473,11 @@
           <attvalue for="harmonicclosnesscentrality" value="0.0"></attvalue>
           <attvalue for="betweenesscentrality" value="0.0"></attvalue>
           <attvalue for="eigencentrality" value="0.056646887318055526"></attvalue>
+          <attvalue for="modularity_class" value="2"></attvalue>
         </attvalues>
         <viz:size value="12.0"></viz:size>
         <viz:position x="2099.8247" y="2359.5051"></viz:position>
+        <viz:color r="255" g="85" b="132"></viz:color>
       </node>
       <node id="http://wikibase.svc/entity/statement/Q485-ffd2c317-40d5-b032-73e8-ccdd197e37e1" label="appendix">
         <attvalues>
@@ -2134,9 +2487,11 @@
           <attvalue for="harmonicclosnesscentrality" value="0.0"></attvalue>
           <attvalue for="betweenesscentrality" value="0.0"></attvalue>
           <attvalue for="eigencentrality" value="0.056646887318055526"></attvalue>
+          <attvalue for="modularity_class" value="2"></attvalue>
         </attvalues>
         <viz:size value="12.0"></viz:size>
-        <viz:position x="2240.4673" y="1449.1951"></viz:position>
+        <viz:position x="2241.8857" y="1450.6733"></viz:position>
+        <viz:color r="255" g="85" b="132"></viz:color>
       </node>
       <node id="http://wikibase.svc/entity/statement/Q485-ad4b17b1-4bb7-f5b7-f7b5-f5c5dc479ef9" label="statement">
         <attvalues>
@@ -2146,9 +2501,11 @@
           <attvalue for="harmonicclosnesscentrality" value="1.0"></attvalue>
           <attvalue for="betweenesscentrality" value="0.0"></attvalue>
           <attvalue for="eigencentrality" value="0.056646887318055526"></attvalue>
+          <attvalue for="modularity_class" value="2"></attvalue>
         </attvalues>
         <viz:size value="12.0"></viz:size>
-        <viz:position x="1406.8376" y="1031.3636"></viz:position>
+        <viz:position x="1414.6187" y="1023.1322"></viz:position>
+        <viz:color r="255" g="85" b="132"></viz:color>
       </node>
       <node id="http://wikibase.svc/entity/statement/Q540-f906d106-4a8d-55e6-895f-1d2bed95f977" label="notes">
         <attvalues>
@@ -2158,9 +2515,11 @@
           <attvalue for="harmonicclosnesscentrality" value="0.0"></attvalue>
           <attvalue for="betweenesscentrality" value="0.0"></attvalue>
           <attvalue for="eigencentrality" value="0.056646887318055526"></attvalue>
+          <attvalue for="modularity_class" value="4"></attvalue>
         </attvalues>
         <viz:size value="12.0"></viz:size>
         <viz:position x="-8417.254" y="2207.7073"></viz:position>
+        <viz:color r="211" g="179" b="176"></viz:color>
       </node>
       <node id="http://wikibase.svc/entity/statement/Q612-0e00aa27-4668-5235-8bfa-a22a4bb8bfb3" label="statement">
         <attvalues>
@@ -2170,9 +2529,11 @@
           <attvalue for="harmonicclosnesscentrality" value="1.0"></attvalue>
           <attvalue for="betweenesscentrality" value="0.0"></attvalue>
           <attvalue for="eigencentrality" value="0.056646887318055526"></attvalue>
+          <attvalue for="modularity_class" value="9"></attvalue>
         </attvalues>
         <viz:size value="12.0"></viz:size>
-        <viz:position x="-2079.0874" y="-394.22012"></viz:position>
+        <viz:position x="-2101.9526" y="-371.18597"></viz:position>
+        <viz:color r="223" g="137" b="255"></viz:color>
       </node>
       <node id="http://wikibase.svc/entity/statement/Q612-354710c5-4d46-1de6-7f2f-4afe7ff457f1" label="statement">
         <attvalues>
@@ -2182,9 +2543,11 @@
           <attvalue for="harmonicclosnesscentrality" value="1.0"></attvalue>
           <attvalue for="betweenesscentrality" value="0.0"></attvalue>
           <attvalue for="eigencentrality" value="0.056646887318055526"></attvalue>
+          <attvalue for="modularity_class" value="9"></attvalue>
         </attvalues>
         <viz:size value="12.0"></viz:size>
-        <viz:position x="-2231.7463" y="-1778.5386"></viz:position>
+        <viz:position x="-2232.6042" y="-1779.4087"></viz:position>
+        <viz:color r="223" g="137" b="255"></viz:color>
       </node>
       <node id="http://wikibase.svc/entity/statement/Q612-39491a95-407c-b1d9-99b9-a7f581dd4f66" label="statement">
         <attvalues>
@@ -2194,9 +2557,11 @@
           <attvalue for="harmonicclosnesscentrality" value="1.0"></attvalue>
           <attvalue for="betweenesscentrality" value="0.0"></attvalue>
           <attvalue for="eigencentrality" value="0.056646887318055526"></attvalue>
+          <attvalue for="modularity_class" value="9"></attvalue>
         </attvalues>
         <viz:size value="12.0"></viz:size>
         <viz:position x="-1783.3566" y="-836.40784"></viz:position>
+        <viz:color r="223" g="137" b="255"></viz:color>
       </node>
       <node id="http://wikibase.svc/entity/statement/Q612-3d3a8306-407a-8d1c-1911-ab216fbc51ac" label="statement">
         <attvalues>
@@ -2206,9 +2571,11 @@
           <attvalue for="harmonicclosnesscentrality" value="1.0"></attvalue>
           <attvalue for="betweenesscentrality" value="0.0"></attvalue>
           <attvalue for="eigencentrality" value="0.056646887318055526"></attvalue>
+          <attvalue for="modularity_class" value="9"></attvalue>
         </attvalues>
         <viz:size value="12.0"></viz:size>
-        <viz:position x="-3718.858" y="-490.18155"></viz:position>
+        <viz:position x="-3748.3855" y="-460.97543"></viz:position>
+        <viz:color r="223" g="137" b="255"></viz:color>
       </node>
       <node id="http://wikibase.svc/entity/statement/Q612-62ec1aad-4aaa-4aa6-b53a-6df9c8f2921c" label="statement">
         <attvalues>
@@ -2218,9 +2585,11 @@
           <attvalue for="harmonicclosnesscentrality" value="1.0"></attvalue>
           <attvalue for="betweenesscentrality" value="0.0"></attvalue>
           <attvalue for="eigencentrality" value="0.056646887318055526"></attvalue>
+          <attvalue for="modularity_class" value="9"></attvalue>
         </attvalues>
         <viz:size value="12.0"></viz:size>
-        <viz:position x="-2526.1443" y="-1364.2715"></viz:position>
+        <viz:position x="-2532.738" y="-1369.8862"></viz:position>
+        <viz:color r="223" g="137" b="255"></viz:color>
       </node>
       <node id="http://wikibase.svc/entity/statement/Q612-660f1812-46d9-2b34-6f39-9f7d503fc01b" label="statement">
         <attvalues>
@@ -2230,9 +2599,11 @@
           <attvalue for="harmonicclosnesscentrality" value="1.0"></attvalue>
           <attvalue for="betweenesscentrality" value="0.0"></attvalue>
           <attvalue for="eigencentrality" value="0.056646887318055526"></attvalue>
+          <attvalue for="modularity_class" value="9"></attvalue>
         </attvalues>
         <viz:size value="12.0"></viz:size>
-        <viz:position x="-1853.8228" y="-693.0665"></viz:position>
+        <viz:position x="-1768.1373" y="-784.1277"></viz:position>
+        <viz:color r="223" g="137" b="255"></viz:color>
       </node>
       <node id="http://wikibase.svc/entity/statement/Q612-73674c38-42dc-651f-f944-383e0bda09a3" label="statement">
         <attvalues>
@@ -2242,9 +2613,11 @@
           <attvalue for="harmonicclosnesscentrality" value="1.0"></attvalue>
           <attvalue for="betweenesscentrality" value="0.0"></attvalue>
           <attvalue for="eigencentrality" value="0.056646887318055526"></attvalue>
+          <attvalue for="modularity_class" value="9"></attvalue>
         </attvalues>
         <viz:size value="12.0"></viz:size>
-        <viz:position x="-1932.0162" y="-1353.9358"></viz:position>
+        <viz:position x="-1934.5278" y="-1351.1232"></viz:position>
+        <viz:color r="223" g="137" b="255"></viz:color>
       </node>
       <node id="http://wikibase.svc/entity/statement/Q612-788db4c6-45fc-41fa-6dce-763e8922286d" label="statement">
         <attvalues>
@@ -2254,9 +2627,11 @@
           <attvalue for="harmonicclosnesscentrality" value="1.0"></attvalue>
           <attvalue for="betweenesscentrality" value="0.0"></attvalue>
           <attvalue for="eigencentrality" value="0.056646887318055526"></attvalue>
+          <attvalue for="modularity_class" value="9"></attvalue>
         </attvalues>
         <viz:size value="12.0"></viz:size>
-        <viz:position x="-1966.4203" y="-1080.5227"></viz:position>
+        <viz:position x="-1967.432" y="-1081.6368"></viz:position>
+        <viz:color r="223" g="137" b="255"></viz:color>
       </node>
       <node id="http://wikibase.svc/entity/statement/Q612-a1e31166-4b14-f650-0d53-ff52f71623b6" label="statement">
         <attvalues>
@@ -2266,9 +2641,11 @@
           <attvalue for="harmonicclosnesscentrality" value="1.0"></attvalue>
           <attvalue for="betweenesscentrality" value="0.0"></attvalue>
           <attvalue for="eigencentrality" value="0.056646887318055526"></attvalue>
+          <attvalue for="modularity_class" value="9"></attvalue>
         </attvalues>
         <viz:size value="12.0"></viz:size>
-        <viz:position x="-2956.2314" y="-862.97815"></viz:position>
+        <viz:position x="-2916.265" y="-856.294"></viz:position>
+        <viz:color r="223" g="137" b="255"></viz:color>
       </node>
       <node id="http://wikibase.svc/entity/statement/Q612-ae0724ef-4888-b292-8252-91871d5dbb41" label="statement">
         <attvalues>
@@ -2278,9 +2655,11 @@
           <attvalue for="harmonicclosnesscentrality" value="1.0"></attvalue>
           <attvalue for="betweenesscentrality" value="0.0"></attvalue>
           <attvalue for="eigencentrality" value="0.056646887318055526"></attvalue>
+          <attvalue for="modularity_class" value="9"></attvalue>
         </attvalues>
         <viz:size value="12.0"></viz:size>
-        <viz:position x="-2999.907" y="-177.27374"></viz:position>
+        <viz:position x="-2997.446" y="-174.49088"></viz:position>
+        <viz:color r="223" g="137" b="255"></viz:color>
       </node>
       <node id="http://wikibase.svc/entity/statement/Q612-ba76d8cb-4e3c-6fe9-7f78-de73b8677a2f" label="statement">
         <attvalues>
@@ -2290,9 +2669,11 @@
           <attvalue for="harmonicclosnesscentrality" value="1.0"></attvalue>
           <attvalue for="betweenesscentrality" value="0.0"></attvalue>
           <attvalue for="eigencentrality" value="0.056646887318055526"></attvalue>
+          <attvalue for="modularity_class" value="9"></attvalue>
         </attvalues>
         <viz:size value="12.0"></viz:size>
-        <viz:position x="-3206.8147" y="-882.97797"></viz:position>
+        <viz:position x="-3227.6016" y="-908.8628"></viz:position>
+        <viz:color r="223" g="137" b="255"></viz:color>
       </node>
       <node id="http://wikibase.svc/entity/statement/Q612-dd3bb4e6-4fed-04b1-0877-b7c277d91621" label="statement">
         <attvalues>
@@ -2302,9 +2683,11 @@
           <attvalue for="harmonicclosnesscentrality" value="1.0"></attvalue>
           <attvalue for="betweenesscentrality" value="0.0"></attvalue>
           <attvalue for="eigencentrality" value="0.056646887318055526"></attvalue>
+          <attvalue for="modularity_class" value="9"></attvalue>
         </attvalues>
         <viz:size value="12.0"></viz:size>
-        <viz:position x="-2882.3914" y="-425.524"></viz:position>
+        <viz:position x="-2896.7195" y="-461.08527"></viz:position>
+        <viz:color r="223" g="137" b="255"></viz:color>
       </node>
       <node id="http://wikibase.svc/entity/statement/Q612-e00eb31b-43c7-e8a9-700c-b4cccc7c525d" label="statement">
         <attvalues>
@@ -2314,9 +2697,11 @@
           <attvalue for="harmonicclosnesscentrality" value="1.0"></attvalue>
           <attvalue for="betweenesscentrality" value="0.0"></attvalue>
           <attvalue for="eigencentrality" value="0.056646887318055526"></attvalue>
+          <attvalue for="modularity_class" value="9"></attvalue>
         </attvalues>
         <viz:size value="12.0"></viz:size>
-        <viz:position x="-2781.5813" y="-1506.3381"></viz:position>
+        <viz:position x="-2777.3538" y="-1502.0072"></viz:position>
+        <viz:color r="223" g="137" b="255"></viz:color>
       </node>
       <node id="http://wikibase.svc/entity/statement/Q612-e900ad1a-4d24-9f95-7812-599fe533c817" label="statement">
         <attvalues>
@@ -2326,9 +2711,11 @@
           <attvalue for="harmonicclosnesscentrality" value="1.0"></attvalue>
           <attvalue for="betweenesscentrality" value="0.0"></attvalue>
           <attvalue for="eigencentrality" value="0.056646887318055526"></attvalue>
+          <attvalue for="modularity_class" value="9"></attvalue>
         </attvalues>
         <viz:size value="12.0"></viz:size>
         <viz:position x="-3132.1013" y="-1447.3105"></viz:position>
+        <viz:color r="223" g="137" b="255"></viz:color>
       </node>
       <node id="http://wikibase.svc/entity/statement/Q612-1ef5ec0c-4808-7ab8-d158-650d1a091bc1" label="portrait">
         <attvalues>
@@ -2338,9 +2725,11 @@
           <attvalue for="harmonicclosnesscentrality" value="0.0"></attvalue>
           <attvalue for="betweenesscentrality" value="0.0"></attvalue>
           <attvalue for="eigencentrality" value="0.056646887318055526"></attvalue>
+          <attvalue for="modularity_class" value="9"></attvalue>
         </attvalues>
         <viz:size value="12.0"></viz:size>
-        <viz:position x="-2568.642" y="-1085.2786"></viz:position>
+        <viz:position x="-2550.9104" y="-1101.9749"></viz:position>
+        <viz:color r="223" g="137" b="255"></viz:color>
       </node>
       <node id="http://wikibase.svc/entity/statement/Q612-2a53e3e1-4f56-707b-d546-d28129def22a" label="plate">
         <attvalues>
@@ -2350,9 +2739,11 @@
           <attvalue for="harmonicclosnesscentrality" value="0.0"></attvalue>
           <attvalue for="betweenesscentrality" value="0.0"></attvalue>
           <attvalue for="eigencentrality" value="0.056646887318055526"></attvalue>
+          <attvalue for="modularity_class" value="9"></attvalue>
         </attvalues>
         <viz:size value="12.0"></viz:size>
         <viz:position x="-2843.5437" y="-1296.9943"></viz:position>
+        <viz:color r="223" g="137" b="255"></viz:color>
       </node>
       <node id="http://wikibase.svc/entity/statement/Q612-6be2927e-4f39-c8df-ff10-558aed0bc131" label="statement">
         <attvalues>
@@ -2362,9 +2753,11 @@
           <attvalue for="harmonicclosnesscentrality" value="1.0"></attvalue>
           <attvalue for="betweenesscentrality" value="0.0"></attvalue>
           <attvalue for="eigencentrality" value="0.056646887318055526"></attvalue>
+          <attvalue for="modularity_class" value="9"></attvalue>
         </attvalues>
         <viz:size value="12.0"></viz:size>
-        <viz:position x="-2189.188" y="77.896164"></viz:position>
+        <viz:position x="-2058.4265" y="108.24697"></viz:position>
+        <viz:color r="223" g="137" b="255"></viz:color>
       </node>
       <node id="http://wikibase.svc/entity/statement/Q612-a92b54e9-46d9-4925-27b8-48be97fd8ded" label="frontispiece">
         <attvalues>
@@ -2374,9 +2767,11 @@
           <attvalue for="harmonicclosnesscentrality" value="0.0"></attvalue>
           <attvalue for="betweenesscentrality" value="0.0"></attvalue>
           <attvalue for="eigencentrality" value="0.056646887318055526"></attvalue>
+          <attvalue for="modularity_class" value="9"></attvalue>
         </attvalues>
         <viz:size value="12.0"></viz:size>
-        <viz:position x="-3223.2239" y="-232.64386"></viz:position>
+        <viz:position x="-3225.3047" y="-234.59726"></viz:position>
+        <viz:color r="223" g="137" b="255"></viz:color>
       </node>
       <node id="http://wikibase.svc/entity/statement/Q854-4eb03b83-43c4-8b13-a6d9-00728e25ef78" label="advertisements">
         <attvalues>
@@ -2386,9 +2781,11 @@
           <attvalue for="harmonicclosnesscentrality" value="0.0"></attvalue>
           <attvalue for="betweenesscentrality" value="0.0"></attvalue>
           <attvalue for="eigencentrality" value="0.056646887318055526"></attvalue>
+          <attvalue for="modularity_class" value="10"></attvalue>
         </attvalues>
         <viz:size value="12.0"></viz:size>
-        <viz:position x="7133.723" y="-721.8528"></viz:position>
+        <viz:position x="7149.5376" y="-737.71497"></viz:position>
+        <viz:color r="0" g="189" b="148"></viz:color>
       </node>
       <node id="http://wikibase.svc/entity/statement/Q854-a738af90-4a81-ac30-d13c-b19b46329ea2" label="preface">
         <attvalues>
@@ -2398,9 +2795,11 @@
           <attvalue for="harmonicclosnesscentrality" value="0.0"></attvalue>
           <attvalue for="betweenesscentrality" value="0.0"></attvalue>
           <attvalue for="eigencentrality" value="0.056646887318055526"></attvalue>
+          <attvalue for="modularity_class" value="10"></attvalue>
         </attvalues>
         <viz:size value="12.0"></viz:size>
-        <viz:position x="6827.4087" y="-634.3702"></viz:position>
+        <viz:position x="6822.83" y="-629.8446"></viz:position>
+        <viz:color r="0" g="189" b="148"></viz:color>
       </node>
       <node id="http://wikibase.svc/entity/statement/Q854-f9be2bc7-4567-d044-01a0-04cbfb6eaf29" label="appendix">
         <attvalues>
@@ -2410,9 +2809,11 @@
           <attvalue for="harmonicclosnesscentrality" value="0.0"></attvalue>
           <attvalue for="betweenesscentrality" value="0.0"></attvalue>
           <attvalue for="eigencentrality" value="0.056646887318055526"></attvalue>
+          <attvalue for="modularity_class" value="10"></attvalue>
         </attvalues>
         <viz:size value="12.0"></viz:size>
-        <viz:position x="6965.3877" y="-697.1423"></viz:position>
+        <viz:position x="6966.028" y="-697.9291"></viz:position>
+        <viz:color r="0" g="189" b="148"></viz:color>
       </node>
       <node id="http://wikibase.svc/entity/statement/Q886-4a030ad5-4754-a2f8-c2ad-399143253375" label="statement">
         <attvalues>
@@ -2422,9 +2823,11 @@
           <attvalue for="harmonicclosnesscentrality" value="1.0"></attvalue>
           <attvalue for="betweenesscentrality" value="3.0637254901960784E-5"></attvalue>
           <attvalue for="eigencentrality" value="0.056646887318055526"></attvalue>
+          <attvalue for="modularity_class" value="8"></attvalue>
         </attvalues>
         <viz:size value="14.736842"></viz:size>
-        <viz:position x="2080.739" y="-932.7135"></viz:position>
+        <viz:position x="2083.551" y="-935.30273"></viz:position>
+        <viz:color r="76" g="70" b="62"></viz:color>
       </node>
       <node id="http://wikibase.svc/entity/statement/Q886-beb1b234-4ce7-f477-c345-d973190fa529" label="appendix">
         <attvalues>
@@ -2434,9 +2837,11 @@
           <attvalue for="harmonicclosnesscentrality" value="0.0"></attvalue>
           <attvalue for="betweenesscentrality" value="0.0"></attvalue>
           <attvalue for="eigencentrality" value="0.056646887318055526"></attvalue>
+          <attvalue for="modularity_class" value="8"></attvalue>
         </attvalues>
         <viz:size value="12.0"></viz:size>
         <viz:position x="1805.6835" y="-1092.2316"></viz:position>
+        <viz:color r="76" g="70" b="62"></viz:color>
       </node>
       <node id="http://wikibase.svc/entity/statement/Q886-c3537ff2-4e45-1780-e810-9d03684516f7" label="advertisements">
         <attvalues>
@@ -2446,9 +2851,11 @@
           <attvalue for="harmonicclosnesscentrality" value="0.0"></attvalue>
           <attvalue for="betweenesscentrality" value="0.0"></attvalue>
           <attvalue for="eigencentrality" value="0.056646887318055526"></attvalue>
+          <attvalue for="modularity_class" value="8"></attvalue>
         </attvalues>
         <viz:size value="12.0"></viz:size>
-        <viz:position x="2179.8557" y="-1569.5404"></viz:position>
+        <viz:position x="2192.9475" y="-1579.9875"></viz:position>
+        <viz:color r="76" g="70" b="62"></viz:color>
       </node>
       <node id="http://wikibase.svc/entity/statement/Q886-cb67df5a-4dfc-5cd8-7ac1-b5dd683d81e6" label="epigraph">
         <attvalues>
@@ -2458,9 +2865,11 @@
           <attvalue for="harmonicclosnesscentrality" value="0.0"></attvalue>
           <attvalue for="betweenesscentrality" value="0.0"></attvalue>
           <attvalue for="eigencentrality" value="0.056646887318055526"></attvalue>
+          <attvalue for="modularity_class" value="8"></attvalue>
         </attvalues>
         <viz:size value="12.0"></viz:size>
-        <viz:position x="2139.2954" y="-1245.0253"></viz:position>
+        <viz:position x="2213.8442" y="-1170.237"></viz:position>
+        <viz:color r="76" g="70" b="62"></viz:color>
       </node>
       <node id="http://wikibase.svc/entity/statement/Q886-e6173918-41d3-0133-ce2c-ad00bb9c8f3c" label="preface">
         <attvalues>
@@ -2470,9 +2879,11 @@
           <attvalue for="harmonicclosnesscentrality" value="0.0"></attvalue>
           <attvalue for="betweenesscentrality" value="0.0"></attvalue>
           <attvalue for="eigencentrality" value="0.056646887318055526"></attvalue>
+          <attvalue for="modularity_class" value="8"></attvalue>
         </attvalues>
         <viz:size value="12.0"></viz:size>
-        <viz:position x="1996.6133" y="-1498.0833"></viz:position>
+        <viz:position x="1973.8762" y="-1517.9122"></viz:position>
+        <viz:color r="76" g="70" b="62"></viz:color>
       </node>
       <node id="http://wikibase.svc/entity/statement/Q886-19c7e7df-4401-71c8-9879-f7fc2f20f743" label="frontispiece">
         <attvalues>
@@ -2482,9 +2893,11 @@
           <attvalue for="harmonicclosnesscentrality" value="0.0"></attvalue>
           <attvalue for="betweenesscentrality" value="0.0"></attvalue>
           <attvalue for="eigencentrality" value="0.056646887318055526"></attvalue>
+          <attvalue for="modularity_class" value="8"></attvalue>
         </attvalues>
         <viz:size value="12.0"></viz:size>
-        <viz:position x="2262.0266" y="-1481.4329"></viz:position>
+        <viz:position x="2282.5315" y="-1460.471"></viz:position>
+        <viz:color r="76" g="70" b="62"></viz:color>
       </node>
       <node id="http://wikibase.svc/entity/statement/Q886-a5a1525d-4be6-f216-4531-c4f8d01161b9" label="illustration">
         <attvalues>
@@ -2494,9 +2907,11 @@
           <attvalue for="harmonicclosnesscentrality" value="0.0"></attvalue>
           <attvalue for="betweenesscentrality" value="0.0"></attvalue>
           <attvalue for="eigencentrality" value="0.056646887318055526"></attvalue>
+          <attvalue for="modularity_class" value="8"></attvalue>
         </attvalues>
         <viz:size value="12.0"></viz:size>
         <viz:position x="2212.338" y="-1368.267"></viz:position>
+        <viz:color r="76" g="70" b="62"></viz:color>
       </node>
       <node id="http://wikibase.svc/entity/statement/Q904-7c0ccd2c-4230-54f3-eecf-809f807a523c" label="illustration">
         <attvalues>
@@ -2506,9 +2921,11 @@
           <attvalue for="harmonicclosnesscentrality" value="0.0"></attvalue>
           <attvalue for="betweenesscentrality" value="0.0"></attvalue>
           <attvalue for="eigencentrality" value="0.09916803605390408"></attvalue>
+          <attvalue for="modularity_class" value="7"></attvalue>
         </attvalues>
         <viz:size value="12.0"></viz:size>
         <viz:position x="3693.8682" y="-2496.391"></viz:position>
+        <viz:color r="255" g="148" b="254"></viz:color>
       </node>
       <node id="http://wikibase.svc/entity/statement/Q1122-ec28e617-4107-e49e-f3d9-b0e993fcf904" label="bookplate">
         <attvalues>
@@ -2518,9 +2935,11 @@
           <attvalue for="harmonicclosnesscentrality" value="1.0"></attvalue>
           <attvalue for="betweenesscentrality" value="1.5318627450980392E-5"></attvalue>
           <attvalue for="eigencentrality" value="0.014125738582206981"></attvalue>
+          <attvalue for="modularity_class" value="7"></attvalue>
         </attvalues>
         <viz:size value="13.368422"></viz:size>
         <viz:position x="3941.0344" y="-3235.5505"></viz:position>
+        <viz:color r="255" g="148" b="254"></viz:color>
       </node>
       <node id="http://wikibase.svc/entity/statement/Q1158-641890d5-48d9-336b-2dda-9036851d891f" label="preface">
         <attvalues>
@@ -2530,9 +2949,11 @@
           <attvalue for="harmonicclosnesscentrality" value="0.0"></attvalue>
           <attvalue for="betweenesscentrality" value="0.0"></attvalue>
           <attvalue for="eigencentrality" value="0.056646887318055526"></attvalue>
+          <attvalue for="modularity_class" value="1"></attvalue>
         </attvalues>
         <viz:size value="12.0"></viz:size>
-        <viz:position x="-906.1806" y="-868.13513"></viz:position>
+        <viz:position x="-907.17737" y="-869.072"></viz:position>
+        <viz:color r="0" g="196" b="255"></viz:color>
       </node>
       <node id="http://wikibase.svc/entity/statement/Q1158-85cdc0cc-4d90-65e6-7541-8128051cc539" label="appendix">
         <attvalues>
@@ -2542,9 +2963,11 @@
           <attvalue for="harmonicclosnesscentrality" value="0.0"></attvalue>
           <attvalue for="betweenesscentrality" value="0.0"></attvalue>
           <attvalue for="eigencentrality" value="0.056646887318055526"></attvalue>
+          <attvalue for="modularity_class" value="1"></attvalue>
         </attvalues>
         <viz:size value="12.0"></viz:size>
         <viz:position x="-1214.7714" y="-328.66858"></viz:position>
+        <viz:color r="0" g="196" b="255"></viz:color>
       </node>
       <node id="http://wikibase.svc/entity/statement/Q1158-960a4f81-40ef-f951-3c8b-fa58e43cba36" label="introduction">
         <attvalues>
@@ -2554,9 +2977,11 @@
           <attvalue for="harmonicclosnesscentrality" value="0.0"></attvalue>
           <attvalue for="betweenesscentrality" value="0.0"></attvalue>
           <attvalue for="eigencentrality" value="0.056646887318055526"></attvalue>
+          <attvalue for="modularity_class" value="1"></attvalue>
         </attvalues>
         <viz:size value="12.0"></viz:size>
         <viz:position x="-854.9062" y="-177.26851"></viz:position>
+        <viz:color r="0" g="196" b="255"></viz:color>
       </node>
       <node id="http://wikibase.svc/entity/statement/Q1158-9ffd059a-495b-1998-827a-2730c0419fe6" label="letter">
         <attvalues>
@@ -2566,9 +2991,11 @@
           <attvalue for="harmonicclosnesscentrality" value="0.0"></attvalue>
           <attvalue for="betweenesscentrality" value="0.0"></attvalue>
           <attvalue for="eigencentrality" value="0.056646887318055526"></attvalue>
+          <attvalue for="modularity_class" value="1"></attvalue>
         </attvalues>
         <viz:size value="12.0"></viz:size>
-        <viz:position x="-732.45123" y="-809.24084"></viz:position>
+        <viz:position x="-722.00586" y="-816.7971"></viz:position>
+        <viz:color r="0" g="196" b="255"></viz:color>
       </node>
       <node id="http://wikibase.svc/entity/statement/Q1158-c0446bc3-4f50-05f0-ea7e-cf7b3aeb7869" label="frontispiece">
         <attvalues>
@@ -2578,9 +3005,11 @@
           <attvalue for="harmonicclosnesscentrality" value="1.0"></attvalue>
           <attvalue for="betweenesscentrality" value="3.0637254901960784E-5"></attvalue>
           <attvalue for="eigencentrality" value="0.056646887318055526"></attvalue>
+          <attvalue for="modularity_class" value="1"></attvalue>
         </attvalues>
         <viz:size value="14.736842"></viz:size>
-        <viz:position x="-1190.7305" y="-1342.3425"></viz:position>
+        <viz:position x="-1199.0702" y="-1333.3552"></viz:position>
+        <viz:color r="0" g="196" b="255"></viz:color>
       </node>
       <node id="http://wikibase.svc/entity/statement/Q118-1e8ab067-4dad-97ce-5563-0df97f52016b" label="statement">
         <attvalues>
@@ -2590,9 +3019,11 @@
           <attvalue for="harmonicclosnesscentrality" value="1.0"></attvalue>
           <attvalue for="betweenesscentrality" value="4.5955882352941176E-5"></attvalue>
           <attvalue for="eigencentrality" value="0.09916803605390408"></attvalue>
+          <attvalue for="modularity_class" value="0"></attvalue>
         </attvalues>
         <viz:size value="16.105263"></viz:size>
         <viz:position x="-395.00095" y="1676.8401"></viz:position>
+        <viz:color r="255" g="136" b="5"></viz:color>
       </node>
       <node id="http://wikibase.svc/entity/statement/Q118-6e5cbfc3-4a54-9b63-a40e-c097f5461592" label="statement">
         <attvalues>
@@ -2602,9 +3033,11 @@
           <attvalue for="harmonicclosnesscentrality" value="1.0"></attvalue>
           <attvalue for="betweenesscentrality" value="0.0"></attvalue>
           <attvalue for="eigencentrality" value="0.09916803605390408"></attvalue>
+          <attvalue for="modularity_class" value="0"></attvalue>
         </attvalues>
         <viz:size value="12.0"></viz:size>
-        <viz:position x="367.83026" y="1693.8531"></viz:position>
+        <viz:position x="326.52692" y="1704.1609"></viz:position>
+        <viz:color r="255" g="136" b="5"></viz:color>
       </node>
       <node id="http://wikibase.svc/entity/statement/Q118-814dfacb-46ef-a6b7-2716-b9891d5cf176" label="illustration">
         <attvalues>
@@ -2614,9 +3047,11 @@
           <attvalue for="harmonicclosnesscentrality" value="0.0"></attvalue>
           <attvalue for="betweenesscentrality" value="0.0"></attvalue>
           <attvalue for="eigencentrality" value="0.09916803605390408"></attvalue>
+          <attvalue for="modularity_class" value="0"></attvalue>
         </attvalues>
         <viz:size value="12.0"></viz:size>
-        <viz:position x="-27.086397" y="1565.3595"></viz:position>
+        <viz:position x="-29.507616" y="1568.0819"></viz:position>
+        <viz:color r="255" g="136" b="5"></viz:color>
       </node>
       <node id="http://wikibase.svc/entity/statement/Q118-bc333ce4-4e33-1ad6-833d-eb6e9c0bf56d" label="statement">
         <attvalues>
@@ -2626,9 +3061,11 @@
           <attvalue for="harmonicclosnesscentrality" value="1.0"></attvalue>
           <attvalue for="betweenesscentrality" value="2.2977941176470588E-5"></attvalue>
           <attvalue for="eigencentrality" value="0.09916803605390408"></attvalue>
+          <attvalue for="modularity_class" value="0"></attvalue>
         </attvalues>
         <viz:size value="14.052631"></viz:size>
-        <viz:position x="1166.4232" y="1075.842"></viz:position>
+        <viz:position x="1152.5198" y="1075.7704"></viz:position>
+        <viz:color r="255" g="136" b="5"></viz:color>
       </node>
       <node id="http://wikibase.svc/entity/statement/Q118-e2305633-4bde-b40a-79ae-4ba1a1400e89" label="frontispiece">
         <attvalues>
@@ -2638,9 +3075,11 @@
           <attvalue for="harmonicclosnesscentrality" value="0.0"></attvalue>
           <attvalue for="betweenesscentrality" value="0.0"></attvalue>
           <attvalue for="eigencentrality" value="0.09916803605390408"></attvalue>
+          <attvalue for="modularity_class" value="0"></attvalue>
         </attvalues>
         <viz:size value="12.0"></viz:size>
-        <viz:position x="-350.75217" y="1416.8965"></viz:position>
+        <viz:position x="-349.55594" y="1418.2463"></viz:position>
+        <viz:color r="255" g="136" b="5"></viz:color>
       </node>
       <node id="http://wikibase.svc/entity/statement/Q171-8cf4e2a5-480a-045b-11a2-a0d9f12297a2" label="bookplate">
         <attvalues>
@@ -2650,9 +3089,11 @@
           <attvalue for="harmonicclosnesscentrality" value="1.0"></attvalue>
           <attvalue for="betweenesscentrality" value="1.5318627450980392E-5"></attvalue>
           <attvalue for="eigencentrality" value="0.014125738582206981"></attvalue>
+          <attvalue for="modularity_class" value="0"></attvalue>
         </attvalues>
         <viz:size value="13.368422"></viz:size>
         <viz:position x="-254.26892" y="2357.4668"></viz:position>
+        <viz:color r="255" g="136" b="5"></viz:color>
       </node>
       <node id="http://wikibase.svc/entity/statement/Q223-0c687a34-4e5e-9d04-8992-f030292fccf1" label="frontispiece">
         <attvalues>
@@ -2662,9 +3103,11 @@
           <attvalue for="harmonicclosnesscentrality" value="0.0"></attvalue>
           <attvalue for="betweenesscentrality" value="0.0"></attvalue>
           <attvalue for="eigencentrality" value="0.056646887318055526"></attvalue>
+          <attvalue for="modularity_class" value="6"></attvalue>
         </attvalues>
         <viz:size value="12.0"></viz:size>
         <viz:position x="-3397.2852" y="354.9024"></viz:position>
+        <viz:color r="115" g="192" b="0"></viz:color>
       </node>
       <node id="http://wikibase.svc/entity/statement/Q393-cfc67e3d-4493-2c81-c4c7-fe933cb27b4d" label="autograph">
         <attvalues>
@@ -2674,9 +3117,11 @@
           <attvalue for="harmonicclosnesscentrality" value="1.0"></attvalue>
           <attvalue for="betweenesscentrality" value="1.5318627450980392E-5"></attvalue>
           <attvalue for="eigencentrality" value="0.014125738582206981"></attvalue>
+          <attvalue for="modularity_class" value="1"></attvalue>
         </attvalues>
         <viz:size value="13.368422"></viz:size>
         <viz:position x="-419.18002" y="-1649.6957"></viz:position>
+        <viz:color r="0" g="196" b="255"></viz:color>
       </node>
       <node id="http://wikibase.svc/entity/statement/Q402-226d7a2b-4e98-f094-6946-92027c14ec52" label="bookplate">
         <attvalues>
@@ -2686,9 +3131,11 @@
           <attvalue for="harmonicclosnesscentrality" value="0.0"></attvalue>
           <attvalue for="betweenesscentrality" value="0.0"></attvalue>
           <attvalue for="eigencentrality" value="0.014125738582206981"></attvalue>
+          <attvalue for="modularity_class" value="0"></attvalue>
         </attvalues>
         <viz:size value="12.0"></viz:size>
         <viz:position x="520.0367" y="2558.5674"></viz:position>
+        <viz:color r="255" g="136" b="5"></viz:color>
       </node>
       <node id="http://wikibase.svc/entity/statement/Q483-1b0ac906-4edc-9213-c9e0-bdede5be950a" label="bookplate">
         <attvalues>
@@ -2698,9 +3145,11 @@
           <attvalue for="harmonicclosnesscentrality" value="0.0"></attvalue>
           <attvalue for="betweenesscentrality" value="0.0"></attvalue>
           <attvalue for="eigencentrality" value="0.014125738582206981"></attvalue>
+          <attvalue for="modularity_class" value="5"></attvalue>
         </attvalues>
         <viz:size value="12.0"></viz:size>
-        <viz:position x="3862.8645" y="107.208984"></viz:position>
+        <viz:position x="3887.603" y="131.50862"></viz:position>
+        <viz:color r="235" g="84" b="0"></viz:color>
       </node>
       <node id="http://wikibase.svc/entity/statement/Q536-22245729-4eb1-4547-beb8-4f38c12336cb" label="bookplate">
         <attvalues>
@@ -2710,9 +3159,11 @@
           <attvalue for="harmonicclosnesscentrality" value="0.0"></attvalue>
           <attvalue for="betweenesscentrality" value="0.0"></attvalue>
           <attvalue for="eigencentrality" value="0.014125738582206981"></attvalue>
+          <attvalue for="modularity_class" value="2"></attvalue>
         </attvalues>
         <viz:size value="12.0"></viz:size>
-        <viz:position x="2691.8518" y="1293.0635"></viz:position>
+        <viz:position x="2931.3357" y="1315.8408"></viz:position>
+        <viz:color r="255" g="85" b="132"></viz:color>
       </node>
       <node id="http://wikibase.svc/entity/statement/Q536-6d7f83e5-4244-9780-8e6a-460f993de15e" label="stamp">
         <attvalues>
@@ -2722,9 +3173,11 @@
           <attvalue for="harmonicclosnesscentrality" value="0.0"></attvalue>
           <attvalue for="betweenesscentrality" value="0.0"></attvalue>
           <attvalue for="eigencentrality" value="0.014125738582206981"></attvalue>
+          <attvalue for="modularity_class" value="2"></attvalue>
         </attvalues>
         <viz:size value="12.0"></viz:size>
         <viz:position x="2600.6033" y="1478.4816"></viz:position>
+        <viz:color r="255" g="85" b="132"></viz:color>
       </node>
       <node id="http://wikibase.svc/entity/statement/Q553-2df98814-43b6-146e-3ebb-2f70701cf0a4" label="frontispiece">
         <attvalues>
@@ -2734,9 +3187,11 @@
           <attvalue for="harmonicclosnesscentrality" value="0.0"></attvalue>
           <attvalue for="betweenesscentrality" value="0.0"></attvalue>
           <attvalue for="eigencentrality" value="0.056646887318055526"></attvalue>
+          <attvalue for="modularity_class" value="3"></attvalue>
         </attvalues>
         <viz:size value="12.0"></viz:size>
         <viz:position x="10459.916" y="-1048.4486"></viz:position>
+        <viz:color r="192" g="192" b="192"></viz:color>
       </node>
       <node id="http://wikibase.svc/entity/statement/Q586-c8bf3bdc-4eb6-35e0-6319-ffadc4344c33" label="bookplate">
         <attvalues>
@@ -2746,9 +3201,11 @@
           <attvalue for="harmonicclosnesscentrality" value="0.0"></attvalue>
           <attvalue for="betweenesscentrality" value="0.0"></attvalue>
           <attvalue for="eigencentrality" value="0.014125738582206981"></attvalue>
+          <attvalue for="modularity_class" value="3"></attvalue>
         </attvalues>
         <viz:size value="12.0"></viz:size>
         <viz:position x="10833.415" y="-948.7817"></viz:position>
+        <viz:color r="192" g="192" b="192"></viz:color>
       </node>
       <node id="http://wikibase.svc/entity/statement/Q706-0be8e9a1-4084-9508-b68e-5f59ef4b4500" label="letter">
         <attvalues>
@@ -2758,9 +3215,11 @@
           <attvalue for="harmonicclosnesscentrality" value="0.0"></attvalue>
           <attvalue for="betweenesscentrality" value="0.0"></attvalue>
           <attvalue for="eigencentrality" value="0.056646887318055526"></attvalue>
+          <attvalue for="modularity_class" value="6"></attvalue>
         </attvalues>
         <viz:size value="12.0"></viz:size>
         <viz:position x="-2882.3025" y="1050.1117"></viz:position>
+        <viz:color r="115" g="192" b="0"></viz:color>
       </node>
       <node id="http://wikibase.svc/entity/statement/Q706-2eae7712-4864-0b76-0696-d2347e287553" label="statement">
         <attvalues>
@@ -2770,9 +3229,11 @@
           <attvalue for="harmonicclosnesscentrality" value="1.0"></attvalue>
           <attvalue for="betweenesscentrality" value="0.0"></attvalue>
           <attvalue for="eigencentrality" value="0.056646887318055526"></attvalue>
+          <attvalue for="modularity_class" value="6"></attvalue>
         </attvalues>
         <viz:size value="12.0"></viz:size>
-        <viz:position x="-3151.8474" y="1212.3525"></viz:position>
+        <viz:position x="-3213.005" y="1271.9579"></viz:position>
+        <viz:color r="115" g="192" b="0"></viz:color>
       </node>
       <node id="http://wikibase.svc/entity/statement/Q706-5b463a51-4183-8dd5-8ac6-50d2ba27f557" label="subscribers' list">
         <attvalues>
@@ -2782,9 +3243,11 @@
           <attvalue for="harmonicclosnesscentrality" value="0.0"></attvalue>
           <attvalue for="betweenesscentrality" value="0.0"></attvalue>
           <attvalue for="eigencentrality" value="0.056646887318055526"></attvalue>
+          <attvalue for="modularity_class" value="6"></attvalue>
         </attvalues>
         <viz:size value="12.0"></viz:size>
-        <viz:position x="-2999.3853" y="540.47406"></viz:position>
+        <viz:position x="-2925.6326" y="520.13574"></viz:position>
+        <viz:color r="115" g="192" b="0"></viz:color>
       </node>
       <node id="http://wikibase.svc/entity/statement/Q706-754b910d-4e60-5233-1b85-9b286a23cf47" label="statement">
         <attvalues>
@@ -2794,9 +3257,11 @@
           <attvalue for="harmonicclosnesscentrality" value="1.0"></attvalue>
           <attvalue for="betweenesscentrality" value="0.0"></attvalue>
           <attvalue for="eigencentrality" value="0.056646887318055526"></attvalue>
+          <attvalue for="modularity_class" value="6"></attvalue>
         </attvalues>
         <viz:size value="12.0"></viz:size>
-        <viz:position x="-2510.23" y="1392.6067"></viz:position>
+        <viz:position x="-2527.7615" y="1411.2805"></viz:position>
+        <viz:color r="115" g="192" b="0"></viz:color>
       </node>
       <node id="http://wikibase.svc/entity/statement/Q706-909f2558-4eab-3e5e-11c0-4733e0dc25ed" label="statement">
         <attvalues>
@@ -2806,9 +3271,11 @@
           <attvalue for="harmonicclosnesscentrality" value="1.0"></attvalue>
           <attvalue for="betweenesscentrality" value="0.0"></attvalue>
           <attvalue for="eigencentrality" value="0.056646887318055526"></attvalue>
+          <attvalue for="modularity_class" value="6"></attvalue>
         </attvalues>
         <viz:size value="12.0"></viz:size>
         <viz:position x="-3781.63" y="625.714"></viz:position>
+        <viz:color r="115" g="192" b="0"></viz:color>
       </node>
       <node id="http://wikibase.svc/entity/statement/Q706-9bb7c166-418e-d589-10e8-abd415372ddc" label="preface">
         <attvalues>
@@ -2818,9 +3285,11 @@
           <attvalue for="harmonicclosnesscentrality" value="0.0"></attvalue>
           <attvalue for="betweenesscentrality" value="0.0"></attvalue>
           <attvalue for="eigencentrality" value="0.056646887318055526"></attvalue>
+          <attvalue for="modularity_class" value="6"></attvalue>
         </attvalues>
         <viz:size value="12.0"></viz:size>
         <viz:position x="-2844.073" y="1550.3442"></viz:position>
+        <viz:color r="115" g="192" b="0"></viz:color>
       </node>
       <node id="http://wikibase.svc/entity/statement/Q715-7eaf056a-4e2d-a5bb-17da-35117fcfb93f" label="autograph">
         <attvalues>
@@ -2830,9 +3299,11 @@
           <attvalue for="harmonicclosnesscentrality" value="1.0"></attvalue>
           <attvalue for="betweenesscentrality" value="1.5318627450980392E-5"></attvalue>
           <attvalue for="eigencentrality" value="0.014125738582206981"></attvalue>
+          <attvalue for="modularity_class" value="6"></attvalue>
         </attvalues>
         <viz:size value="13.368422"></viz:size>
         <viz:position x="-3507.5276" y="1581.7095"></viz:position>
+        <viz:color r="115" g="192" b="0"></viz:color>
       </node>
       <node id="http://wikibase.svc/entity/statement/Q706-defeea86-4b1b-8dd7-5ef4-73d4fa8b794f" label="frontispiece">
         <attvalues>
@@ -2842,9 +3313,11 @@
           <attvalue for="harmonicclosnesscentrality" value="0.0"></attvalue>
           <attvalue for="betweenesscentrality" value="0.0"></attvalue>
           <attvalue for="eigencentrality" value="0.056646887318055526"></attvalue>
+          <attvalue for="modularity_class" value="6"></attvalue>
         </attvalues>
         <viz:size value="12.0"></viz:size>
-        <viz:position x="-3296.872" y="545.2021"></viz:position>
+        <viz:position x="-3371.796" y="556.07385"></viz:position>
+        <viz:color r="115" g="192" b="0"></viz:color>
       </node>
       <node id="http://wikibase.svc/entity/statement/Q830-2b66aca4-46e2-59c5-3469-cedb2119b671" label="statement">
         <attvalues>
@@ -2854,9 +3327,11 @@
           <attvalue for="harmonicclosnesscentrality" value="1.0"></attvalue>
           <attvalue for="betweenesscentrality" value="0.0"></attvalue>
           <attvalue for="eigencentrality" value="0.056646887318055526"></attvalue>
+          <attvalue for="modularity_class" value="11"></attvalue>
         </attvalues>
         <viz:size value="12.0"></viz:size>
-        <viz:position x="-5302.7876" y="718.35486"></viz:position>
+        <viz:position x="-5345.6875" y="676.1553"></viz:position>
+        <viz:color r="89" g="31" b="255"></viz:color>
       </node>
       <node id="http://wikibase.svc/entity/statement/Q830-523b11a3-43ca-8fcf-7e65-b954c9d72f23" label="statement">
         <attvalues>
@@ -2866,9 +3341,11 @@
           <attvalue for="harmonicclosnesscentrality" value="1.0"></attvalue>
           <attvalue for="betweenesscentrality" value="0.0"></attvalue>
           <attvalue for="eigencentrality" value="0.056646887318055526"></attvalue>
+          <attvalue for="modularity_class" value="11"></attvalue>
         </attvalues>
         <viz:size value="12.0"></viz:size>
-        <viz:position x="-4230.714" y="1419.1404"></viz:position>
+        <viz:position x="-4216.5347" y="1405.6222"></viz:position>
+        <viz:color r="89" g="31" b="255"></viz:color>
       </node>
       <node id="http://wikibase.svc/entity/statement/Q830-52b61517-4ff8-3298-0665-0f1e73a7be6f" label="statement">
         <attvalues>
@@ -2878,9 +3355,11 @@
           <attvalue for="harmonicclosnesscentrality" value="1.0"></attvalue>
           <attvalue for="betweenesscentrality" value="0.0"></attvalue>
           <attvalue for="eigencentrality" value="0.056646887318055526"></attvalue>
+          <attvalue for="modularity_class" value="11"></attvalue>
         </attvalues>
         <viz:size value="12.0"></viz:size>
-        <viz:position x="-4623.1343" y="485.0034"></viz:position>
+        <viz:position x="-4631.1357" y="492.5909"></viz:position>
+        <viz:color r="89" g="31" b="255"></viz:color>
       </node>
       <node id="http://wikibase.svc/entity/statement/Q830-c2c90e92-4c57-5fac-ced5-8f08c2ac9c79" label="statement">
         <attvalues>
@@ -2890,9 +3369,11 @@
           <attvalue for="harmonicclosnesscentrality" value="1.0"></attvalue>
           <attvalue for="betweenesscentrality" value="0.0"></attvalue>
           <attvalue for="eigencentrality" value="0.056646887318055526"></attvalue>
+          <attvalue for="modularity_class" value="11"></attvalue>
         </attvalues>
         <viz:size value="12.0"></viz:size>
         <viz:position x="-4628.977" y="1904.8132"></viz:position>
+        <viz:color r="89" g="31" b="255"></viz:color>
       </node>
       <node id="http://wikibase.svc/entity/statement/Q830-cc8360e0-495b-c6e4-45dd-67bc4fb3b85e" label="statement">
         <attvalues>
@@ -2902,9 +3383,11 @@
           <attvalue for="harmonicclosnesscentrality" value="1.0"></attvalue>
           <attvalue for="betweenesscentrality" value="0.0"></attvalue>
           <attvalue for="eigencentrality" value="0.056646887318055526"></attvalue>
+          <attvalue for="modularity_class" value="11"></attvalue>
         </attvalues>
         <viz:size value="12.0"></viz:size>
         <viz:position x="-5050.14" y="1554.4761"></viz:position>
+        <viz:color r="89" g="31" b="255"></viz:color>
       </node>
       <node id="http://wikibase.svc/entity/statement/Q830-fa2ee6dc-45ec-a0af-44c9-a12bbe6028e4" label="statement">
         <attvalues>
@@ -2914,9 +3397,11 @@
           <attvalue for="harmonicclosnesscentrality" value="1.0"></attvalue>
           <attvalue for="betweenesscentrality" value="0.0"></attvalue>
           <attvalue for="eigencentrality" value="0.056646887318055526"></attvalue>
+          <attvalue for="modularity_class" value="6"></attvalue>
         </attvalues>
         <viz:size value="12.0"></viz:size>
-        <viz:position x="-3924.9834" y="1071.8602"></viz:position>
+        <viz:position x="-3916.1035" y="1053.6396"></viz:position>
+        <viz:color r="115" g="192" b="0"></viz:color>
       </node>
       <node id="http://wikibase.svc/entity/statement/Q881-0b879398-41a4-94d8-2445-cab099d1641e" label="appendix">
         <attvalues>
@@ -2926,9 +3411,11 @@
           <attvalue for="harmonicclosnesscentrality" value="0.0"></attvalue>
           <attvalue for="betweenesscentrality" value="0.0"></attvalue>
           <attvalue for="eigencentrality" value="0.056646887318055526"></attvalue>
+          <attvalue for="modularity_class" value="8"></attvalue>
         </attvalues>
         <viz:size value="12.0"></viz:size>
-        <viz:position x="1138.0815" y="-999.9153"></viz:position>
+        <viz:position x="1133.8253" y="-1004.20197"></viz:position>
+        <viz:color r="76" g="70" b="62"></viz:color>
       </node>
       <node id="http://wikibase.svc/entity/statement/Q881-aa53b9ee-4792-1adb-ecb7-6e2d8f1d8677" label="statement">
         <attvalues>
@@ -2938,9 +3425,11 @@
           <attvalue for="harmonicclosnesscentrality" value="1.0"></attvalue>
           <attvalue for="betweenesscentrality" value="3.0637254901960784E-5"></attvalue>
           <attvalue for="eigencentrality" value="0.056646887318055526"></attvalue>
+          <attvalue for="modularity_class" value="8"></attvalue>
         </attvalues>
         <viz:size value="14.736842"></viz:size>
         <viz:position x="1746.3599" y="-698.7869"></viz:position>
+        <viz:color r="76" g="70" b="62"></viz:color>
       </node>
       <node id="http://wikibase.svc/entity/statement/Q881-bfeb28ec-4911-0c7a-a24a-98cb24b07c86" label="epigraph">
         <attvalues>
@@ -2950,9 +3439,11 @@
           <attvalue for="harmonicclosnesscentrality" value="0.0"></attvalue>
           <attvalue for="betweenesscentrality" value="0.0"></attvalue>
           <attvalue for="eigencentrality" value="0.056646887318055526"></attvalue>
+          <attvalue for="modularity_class" value="8"></attvalue>
         </attvalues>
         <viz:size value="12.0"></viz:size>
-        <viz:position x="1077.803" y="-711.19666"></viz:position>
+        <viz:position x="1142.3398" y="-762.8883"></viz:position>
+        <viz:color r="76" g="70" b="62"></viz:color>
       </node>
       <node id="http://wikibase.svc/entity/statement/Q881-cba81efd-4670-fcb7-37a8-96f2b7741da3" label="preface">
         <attvalues>
@@ -2962,9 +3453,11 @@
           <attvalue for="harmonicclosnesscentrality" value="0.0"></attvalue>
           <attvalue for="betweenesscentrality" value="0.0"></attvalue>
           <attvalue for="eigencentrality" value="0.056646887318055526"></attvalue>
+          <attvalue for="modularity_class" value="8"></attvalue>
         </attvalues>
         <viz:size value="12.0"></viz:size>
         <viz:position x="559.0255" y="-1023.7952"></viz:position>
+        <viz:color r="76" g="70" b="62"></viz:color>
       </node>
       <node id="http://wikibase.svc/entity/statement/Q881-1a5d536d-4cdc-6b67-fac6-ab5d0e4ea2fa" label="frontispiece">
         <attvalues>
@@ -2974,9 +3467,11 @@
           <attvalue for="harmonicclosnesscentrality" value="0.0"></attvalue>
           <attvalue for="betweenesscentrality" value="0.0"></attvalue>
           <attvalue for="eigencentrality" value="0.056646887318055526"></attvalue>
+          <attvalue for="modularity_class" value="8"></attvalue>
         </attvalues>
         <viz:size value="12.0"></viz:size>
-        <viz:position x="1039.4768" y="-1082.615"></viz:position>
+        <viz:position x="1046.3839" y="-1076.5262"></viz:position>
+        <viz:color r="76" g="70" b="62"></viz:color>
       </node>
       <node id="http://wikibase.svc/entity/statement/Q881-5d459787-4cae-18ee-b890-2687603d61f5" label="illustration">
         <attvalues>
@@ -2986,9 +3481,11 @@
           <attvalue for="harmonicclosnesscentrality" value="0.0"></attvalue>
           <attvalue for="betweenesscentrality" value="0.0"></attvalue>
           <attvalue for="eigencentrality" value="0.056646887318055526"></attvalue>
+          <attvalue for="modularity_class" value="8"></attvalue>
         </attvalues>
         <viz:size value="12.0"></viz:size>
-        <viz:position x="697.4509" y="-1092.9484"></viz:position>
+        <viz:position x="690.0405" y="-1100.9556"></viz:position>
+        <viz:color r="76" g="70" b="62"></viz:color>
       </node>
       <node id="http://wikibase.svc/entity/statement/Q884-6a8de7cc-4692-f808-ae27-b96e249ae96c" label="autograph">
         <attvalues>
@@ -2998,9 +3495,11 @@
           <attvalue for="harmonicclosnesscentrality" value="0.0"></attvalue>
           <attvalue for="betweenesscentrality" value="0.0"></attvalue>
           <attvalue for="eigencentrality" value="0.014125738582206981"></attvalue>
+          <attvalue for="modularity_class" value="8"></attvalue>
         </attvalues>
         <viz:size value="12.0"></viz:size>
         <viz:position x="980.2179" y="-1691.9768"></viz:position>
+        <viz:color r="76" g="70" b="62"></viz:color>
       </node>
       <node id="http://wikibase.svc/entity/statement/Q901-86d291f0-411d-63f1-f713-7c301b465c34" label="illustration">
         <attvalues>
@@ -3010,9 +3509,11 @@
           <attvalue for="harmonicclosnesscentrality" value="0.0"></attvalue>
           <attvalue for="betweenesscentrality" value="0.0"></attvalue>
           <attvalue for="eigencentrality" value="0.056646887318055526"></attvalue>
+          <attvalue for="modularity_class" value="7"></attvalue>
         </attvalues>
         <viz:size value="12.0"></viz:size>
-        <viz:position x="2588.9014" y="-2563.1548"></viz:position>
+        <viz:position x="2527.298" y="-2545.3665"></viz:position>
+        <viz:color r="255" g="148" b="254"></viz:color>
       </node>
       <node id="http://wikibase.svc/entity/statement/Q948-031aca1e-45e0-6509-2fd4-66c5509f898d" label="statement">
         <attvalues>
@@ -3022,9 +3523,11 @@
           <attvalue for="harmonicclosnesscentrality" value="1.0"></attvalue>
           <attvalue for="betweenesscentrality" value="0.0"></attvalue>
           <attvalue for="eigencentrality" value="0.056646887318055526"></attvalue>
+          <attvalue for="modularity_class" value="4"></attvalue>
         </attvalues>
         <viz:size value="12.0"></viz:size>
         <viz:position x="-6802.91" y="1061.7517"></viz:position>
+        <viz:color r="211" g="179" b="176"></viz:color>
       </node>
       <node id="http://wikibase.svc/entity/statement/Q948-32611328-4dc1-bfb8-05b4-058b57ee117d" label="preface">
         <attvalues>
@@ -3034,9 +3537,11 @@
           <attvalue for="harmonicclosnesscentrality" value="0.0"></attvalue>
           <attvalue for="betweenesscentrality" value="0.0"></attvalue>
           <attvalue for="eigencentrality" value="0.056646887318055526"></attvalue>
+          <attvalue for="modularity_class" value="4"></attvalue>
         </attvalues>
         <viz:size value="12.0"></viz:size>
         <viz:position x="-6561.7266" y="1759.3127"></viz:position>
+        <viz:color r="211" g="179" b="176"></viz:color>
       </node>
       <node id="http://wikibase.svc/entity/statement/Q948-76b35fd8-4701-3b6e-1ca3-c88f7a7c7180" label="statement">
         <attvalues>
@@ -3046,9 +3551,11 @@
           <attvalue for="harmonicclosnesscentrality" value="1.0"></attvalue>
           <attvalue for="betweenesscentrality" value="0.0"></attvalue>
           <attvalue for="eigencentrality" value="0.056646887318055526"></attvalue>
+          <attvalue for="modularity_class" value="4"></attvalue>
         </attvalues>
         <viz:size value="12.0"></viz:size>
         <viz:position x="-6867.688" y="1549.2843"></viz:position>
+        <viz:color r="211" g="179" b="176"></viz:color>
       </node>
       <node id="http://wikibase.svc/entity/statement/Q948-98200579-456f-82ff-db46-eac1ad75cbb2" label="statement">
         <attvalues>
@@ -3058,9 +3565,11 @@
           <attvalue for="harmonicclosnesscentrality" value="1.0"></attvalue>
           <attvalue for="betweenesscentrality" value="0.0"></attvalue>
           <attvalue for="eigencentrality" value="0.056646887318055526"></attvalue>
+          <attvalue for="modularity_class" value="4"></attvalue>
         </attvalues>
         <viz:size value="12.0"></viz:size>
         <viz:position x="-7285.478" y="1910.3845"></viz:position>
+        <viz:color r="211" g="179" b="176"></viz:color>
       </node>
       <node id="http://wikibase.svc/entity/statement/Q426-94478571-41c7-ff47-5794-c89e9e24d5cc" label="statement">
         <attvalues>
@@ -3070,9 +3579,11 @@
           <attvalue for="harmonicclosnesscentrality" value="1.0"></attvalue>
           <attvalue for="betweenesscentrality" value="0.0"></attvalue>
           <attvalue for="eigencentrality" value="0.056646887318055526"></attvalue>
+          <attvalue for="modularity_class" value="6"></attvalue>
         </attvalues>
         <viz:size value="12.0"></viz:size>
-        <viz:position x="-2052.6287" y="1177.0339"></viz:position>
+        <viz:position x="-2098.3184" y="1272.7567"></viz:position>
+        <viz:color r="115" g="192" b="0"></viz:color>
       </node>
       <node id="http://wikibase.svc/entity/statement/Q223-28917310-4197-9227-da0c-c3d2352dce76" label="statement">
         <attvalues>
@@ -3082,9 +3593,11 @@
           <attvalue for="harmonicclosnesscentrality" value="1.0"></attvalue>
           <attvalue for="betweenesscentrality" value="0.0"></attvalue>
           <attvalue for="eigencentrality" value="0.056646887318055526"></attvalue>
+          <attvalue for="modularity_class" value="6"></attvalue>
         </attvalues>
         <viz:size value="12.0"></viz:size>
-        <viz:position x="-2605.5422" y="1079.4192"></viz:position>
+        <viz:position x="-2582.6252" y="1056.314"></viz:position>
+        <viz:color r="115" g="192" b="0"></viz:color>
       </node>
       <node id="urn:uuid:e34b9e94-a32b-4651-a072-9a0b7b755a2f" label="unknown">
         <attvalues>
@@ -3094,9 +3607,11 @@
           <attvalue for="harmonicclosnesscentrality" value="0.0"></attvalue>
           <attvalue for="betweenesscentrality" value="0.0"></attvalue>
           <attvalue for="eigencentrality" value="0.056646887318055526"></attvalue>
+          <attvalue for="modularity_class" value="1"></attvalue>
         </attvalues>
         <viz:size value="12.0"></viz:size>
-        <viz:position x="-843.9319" y="-744.12354"></viz:position>
+        <viz:position x="-815.4597" y="-785.1203"></viz:position>
+        <viz:color r="0" g="196" b="255"></viz:color>
       </node>
       <node id="urn:uuid:fc919ba5-ff44-4207-b20a-e4af830bec95" label="unknown">
         <attvalues>
@@ -3106,9 +3621,11 @@
           <attvalue for="harmonicclosnesscentrality" value="0.0"></attvalue>
           <attvalue for="betweenesscentrality" value="0.0"></attvalue>
           <attvalue for="eigencentrality" value="0.056646887318055526"></attvalue>
+          <attvalue for="modularity_class" value="11"></attvalue>
         </attvalues>
         <viz:size value="12.0"></viz:size>
-        <viz:position x="-4733.551" y="1185.0549"></viz:position>
+        <viz:position x="-4750.3584" y="1203.5396"></viz:position>
+        <viz:color r="89" g="31" b="255"></viz:color>
       </node>
     </nodes>
     <edges>
