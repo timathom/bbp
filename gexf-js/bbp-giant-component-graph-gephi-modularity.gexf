@@ -855,7 +855,7 @@
           <attvalue for="modularity_class" value="7"></attvalue>
         </attvalues>
         <viz:size value="14.32733"></viz:size>
-        <viz:position x="-453.64172" y="608.8546"></viz:position>
+        <viz:position x="-461.7357" y="621.4468"></viz:position>
         <viz:color r="148" g="148" b="148"></viz:color>
       </node>
       <node id="http://wikibase.svc/entity/Q618" label="Myron H. Clark">
@@ -1289,7 +1289,7 @@
           <attvalue for="modularity_class" value="1"></attvalue>
         </attvalues>
         <viz:size value="12.0"></viz:size>
-        <viz:position x="-50.780056" y="87.06291"></viz:position>
+        <viz:position x="-30.097795" y="96.795555"></viz:position>
         <viz:color r="0" g="196" b="255"></viz:color>
       </node>
       <node id="http://wikibase.svc/entity/Q402" label="Narrative of William W. Brown, A Fugitive Slave (Schomburg 326.92-B)">
@@ -1317,7 +1317,7 @@
           <attvalue for="modularity_class" value="1"></attvalue>
         </attvalues>
         <viz:size value="14.213083"></viz:size>
-        <viz:position x="-134.19936" y="207.27438"></viz:position>
+        <viz:position x="-139.5223" y="212.59776"></viz:position>
         <viz:color r="0" g="196" b="255"></viz:color>
       </node>
       <node id="http://wikibase.svc/entity/Q387" label="Nathaniel Orr (1822-1908)">
@@ -1331,7 +1331,7 @@
           <attvalue for="modularity_class" value="1"></attvalue>
         </attvalues>
         <viz:size value="16.65466"></viz:size>
-        <viz:position x="-2.3873842" y="146.1809"></viz:position>
+        <viz:position x="35.93563" y="146.78918"></viz:position>
         <viz:color r="0" g="196" b="255"></viz:color>
       </node>
       <node id="http://wikibase.svc/entity/Q384" label="John Chester Buttre">
@@ -2129,7 +2129,7 @@
           <attvalue for="modularity_class" value="1"></attvalue>
         </attvalues>
         <viz:size value="13.106542"></viz:size>
-        <viz:position x="-36.91794" y="133.8504"></viz:position>
+        <viz:position x="-29.618319" y="134.4587"></viz:position>
         <viz:color r="0" g="196" b="255"></viz:color>
       </node>
       <node id="http://wikibase.svc/entity/statement/Q335-401d8429-4eff-a8e2-bed0-bb95456ca799" label="plate">
@@ -2143,7 +2143,7 @@
           <attvalue for="modularity_class" value="1"></attvalue>
         </attvalues>
         <viz:size value="13.106542"></viz:size>
-        <viz:position x="-28.77584" y="172.82019"></viz:position>
+        <viz:position x="-29.384142" y="170.38704"></viz:position>
         <viz:color r="0" g="196" b="255"></viz:color>
       </node>
       <node id="http://wikibase.svc/entity/statement/Q335-560fb041-4dd8-ceff-38bf-01090b4474b0" label="letter">
@@ -2171,7 +2171,7 @@
           <attvalue for="modularity_class" value="1"></attvalue>
         </attvalues>
         <viz:size value="13.106542"></viz:size>
-        <viz:position x="-103.81142" y="107.81275"></viz:position>
+        <viz:position x="-111.71934" y="107.81275"></viz:position>
         <viz:color r="0" g="196" b="255"></viz:color>
       </node>
       <node id="http://wikibase.svc/entity/statement/Q335-8f86b79e-40a4-4407-6f7c-de48b6b38097" label="frontispiece">
@@ -2199,7 +2199,7 @@
           <attvalue for="modularity_class" value="1"></attvalue>
         </attvalues>
         <viz:size value="13.106542"></viz:size>
-        <viz:position x="-70.92967" y="117.20713"></viz:position>
+        <viz:position x="-71.53797" y="110.51592"></viz:position>
         <viz:color r="0" g="196" b="255"></viz:color>
       </node>
       <node id="http://wikibase.svc/entity/statement/Q335-fc5eb53c-410e-4172-3317-fb2a36426fb4" label="advertisements">
@@ -2213,7 +2213,7 @@
           <attvalue for="modularity_class" value="1"></attvalue>
         </attvalues>
         <viz:size value="13.106542"></viz:size>
-        <viz:position x="-134.64705" y="125.51835"></viz:position>
+        <viz:position x="-137.68855" y="127.34322"></viz:position>
         <viz:color r="0" g="196" b="255"></viz:color>
       </node>
       <node id="http://wikibase.svc/entity/statement/Q334-235ac0b5-49a9-53c2-f913-cd6a48f2ebe2" label="frontispiece">
@@ -2633,7 +2633,7 @@
           <attvalue for="modularity_class" value="2"></attvalue>
         </attvalues>
         <viz:size value="13.106542"></viz:size>
-        <viz:position x="586.18805" y="332.47086"></viz:position>
+        <viz:position x="593.5787" y="331.10434"></viz:position>
         <viz:color r="115" g="192" b="0"></viz:color>
       </node>
       <node id="http://wikibase.svc/entity/statement/Q886-a5a1525d-4be6-f216-4531-c4f8d01161b9" label="illustration">
@@ -2689,7 +2689,7 @@
           <attvalue for="modularity_class" value="1"></attvalue>
         </attvalues>
         <viz:size value="13.106542"></viz:size>
-        <viz:position x="-180.91806" y="197.82861"></viz:position>
+        <viz:position x="-185.35384" y="199.60307"></viz:position>
         <viz:color r="0" g="196" b="255"></viz:color>
       </node>
       <node id="http://wikibase.svc/entity/statement/Q1158-85cdc0cc-4d90-65e6-7541-8128051cc539" label="appendix">
@@ -2871,7 +2871,7 @@
           <attvalue for="modularity_class" value="1"></attvalue>
         </attvalues>
         <viz:size value="12.277238"></viz:size>
-        <viz:position x="-25.864801" y="45.604736"></viz:position>
+        <viz:position x="-25.864801" y="53.931526"></viz:position>
         <viz:color r="0" g="196" b="255"></viz:color>
       </node>
       <node id="http://wikibase.svc/entity/statement/Q402-226d7a2b-4e98-f094-6946-92027c14ec52" label="bookplate">
