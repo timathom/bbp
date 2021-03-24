@@ -2171,7 +2171,7 @@
           <attvalue for="modularity_class" value="1"></attvalue>
         </attvalues>
         <viz:size value="13.106542"></viz:size>
-        <viz:position x="-111.71934" y="107.81275"></viz:position>
+        <viz:position x="-118.98577" y="113.26258"></viz:position>
         <viz:color r="0" g="196" b="255"></viz:color>
       </node>
       <node id="http://wikibase.svc/entity/statement/Q335-8f86b79e-40a4-4407-6f7c-de48b6b38097" label="frontispiece">
@@ -2199,7 +2199,7 @@
           <attvalue for="modularity_class" value="1"></attvalue>
         </attvalues>
         <viz:size value="13.106542"></viz:size>
-        <viz:position x="-71.53797" y="110.51592"></viz:position>
+        <viz:position x="-81.83209" y="110.51592"></viz:position>
         <viz:color r="0" g="196" b="255"></viz:color>
       </node>
       <node id="http://wikibase.svc/entity/statement/Q335-fc5eb53c-410e-4172-3317-fb2a36426fb4" label="advertisements">
@@ -2213,7 +2213,7 @@
           <attvalue for="modularity_class" value="1"></attvalue>
         </attvalues>
         <viz:size value="13.106542"></viz:size>
-        <viz:position x="-137.68855" y="127.34322"></viz:position>
+        <viz:position x="-144.34946" y="133.39859"></viz:position>
         <viz:color r="0" g="196" b="255"></viz:color>
       </node>
       <node id="http://wikibase.svc/entity/statement/Q334-235ac0b5-49a9-53c2-f913-cd6a48f2ebe2" label="frontispiece">
