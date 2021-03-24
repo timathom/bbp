@@ -1289,7 +1289,7 @@
           <attvalue for="modularity_class" value="1"></attvalue>
         </attvalues>
         <viz:size value="12.0"></viz:size>
-        <viz:position x="-30.097795" y="96.795555"></viz:position>
+        <viz:position x="-65.82445" y="100.42877"></viz:position>
         <viz:color r="0" g="196" b="255"></viz:color>
       </node>
       <node id="http://wikibase.svc/entity/Q402" label="Narrative of William W. Brown, A Fugitive Slave (Schomburg 326.92-B)">
@@ -2157,7 +2157,7 @@
           <attvalue for="modularity_class" value="1"></attvalue>
         </attvalues>
         <viz:size value="13.106542"></viz:size>
-        <viz:position x="-60.38537" y="202.03613"></viz:position>
+        <viz:position x="-77.94592" y="210.51364"></viz:position>
         <viz:color r="0" g="196" b="255"></viz:color>
       </node>
       <node id="http://wikibase.svc/entity/statement/Q335-7d23b155-4199-8a57-f761-0ff04deefe3b" label="preface">
@@ -2199,7 +2199,7 @@
           <attvalue for="modularity_class" value="1"></attvalue>
         </attvalues>
         <viz:size value="13.106542"></viz:size>
-        <viz:position x="-81.83209" y="110.51592"></viz:position>
+        <viz:position x="-50.949734" y="193.47441"></viz:position>
         <viz:color r="0" g="196" b="255"></viz:color>
       </node>
       <node id="http://wikibase.svc/entity/statement/Q335-fc5eb53c-410e-4172-3317-fb2a36426fb4" label="advertisements">
@@ -2871,7 +2871,7 @@
           <attvalue for="modularity_class" value="1"></attvalue>
         </attvalues>
         <viz:size value="12.277238"></viz:size>
-        <viz:position x="-25.864801" y="53.931526"></viz:position>
+        <viz:position x="-39.792137" y="56.353672"></viz:position>
         <viz:color r="0" g="196" b="255"></viz:color>
       </node>
       <node id="http://wikibase.svc/entity/statement/Q402-226d7a2b-4e98-f094-6946-92027c14ec52" label="bookplate">
