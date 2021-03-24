@@ -43,7 +43,7 @@
           <attvalue for="modularity_class" value="10"></attvalue>
         </attvalues>
         <viz:size value="15.319624"></viz:size>
-        <viz:position x="-511.07193" y="54.39502"></viz:position>
+        <viz:position x="-485.64035" y="55.606102"></viz:position>
         <viz:color r="223" g="137" b="255"></viz:color>
       </node>
       <node id="http://wikibase.svc/entity/Q263" label="Hibernian Anti-Slavery Society (organization)">
@@ -71,7 +71,7 @@
           <attvalue for="modularity_class" value="10"></attvalue>
         </attvalues>
         <viz:size value="14.213083"></viz:size>
-        <viz:position x="-523.98334" y="103.75212"></viz:position>
+        <viz:position x="-524.5888" y="102.54104"></viz:position>
         <viz:color r="223" g="137" b="255"></viz:color>
       </node>
       <node id="http://wikibase.svc/entity/Q271" label="Richard D. Webb">
@@ -1807,7 +1807,7 @@
           <attvalue for="modularity_class" value="10"></attvalue>
         </attvalues>
         <viz:size value="15.319624"></viz:size>
-        <viz:position x="-469.5708" y="87.26435"></viz:position>
+        <viz:position x="-465.9377" y="89.68652"></viz:position>
         <viz:color r="223" g="137" b="255"></viz:color>
       </node>
       <node id="http://wikibase.svc/entity/Q214" label="Frederick Douglass">
